@@ -136,7 +136,7 @@ ATIS2:Gisborne Tower - ATIS 126.40
 ATIS3:Charts- www.vatnz.net/airspace/airports/
 ATIS4:Submit feedback - vats.im/NZ-FB
 PROFILE:NZNR_TWR:50:4
-ATIS2:Napier Tower - ATIS 121.80
+ATIS2:Napier Tower - ATIS 128.00
 ATIS3:Charts- www.vatnz.net/airspace/airports/
 ATIS4:Submit feedback - vats.im/NZ-FB
 PROFILE:NZNP_TWR:50:4

@@ -48,7 +48,7 @@ AG:Hamilton ATIS:128.650:rw1.vatpac.org:nzhn_atis
 AG:Tauranga ATIS:126.600:rw1.vatpac.org:nztg_atis
 AG:Rotorua ATIS:128.800:rw1.vatpac.org:nzro_atis
 AG:Gisborne ATIS:126.450:rw1.vatpac.org:nzgs_atis
-AG:Napier ATIS:121.800:rw1.vatpac.org:nznr_atis
+AG:Napier ATIS:128.000:rw1.vatpac.org:nznr_atis
 AG:New Plymouth ATIS:127.050:rw1.vatpac.org:nznp_atis
 AG:Ohakea ATIS:135.000:rw1.vatpac.org:nzoh_atis
 AG:Palmerston North ATIS:129.700:rw1.vatpac.org:nzpm_atis
