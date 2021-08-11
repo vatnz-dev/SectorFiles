@@ -1,0 +1,25 @@
+*
+*  VATNZ NZZO/SKYLINE RELEASE
+*  AIRAC 2108, EFFECTIVE FROM 12 AUG 2021
+*
+*  RELEASED BY CONTROLLER OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net
+*
+
+// Changelog
+
+  / NZZC
+    - Addition of the following waypoints - ADGOP, ANGEB, EKODU, LEDIP, OLNAN, RULVU, SEBSA and UPVAP`
+    
+    NZAA - EXOPI 6D has been renamed the EXOPI 7D
+    NZOX - AD status changed to IFR-VFR. RNAV (GNNS) approach added (applicable to both runways)
+    NZAP - Addition of the TAIKO 5, LAKE 6, BAY 8 departures for Rwy 17, and MOKAI 4, PEAK 8, PAEROA 5 AND TEREG 2 departures for Rwy 35. These had been missed previously.
+    NZNP - Addition of the SALVO 3P/SELTA departure which had been missed previously.
+    NZPM - PM 1H Radar SID added for Rwy 07. PM 2A renamed the PM 3A.
+    NZWN - MESEL 2Q departure renamed MESEL 3Q. ISNIP 4P departure renamed ISNIP 5P. ISNIP 5T addded, as it was missed previously. UPVAP transitions added to all three of these SIDs.
+    NZTK - Minor modifications to the termination points of the RNAV approaches.
+    NZHK - Addition of the IAFs for both GNSS approaches, allowing the the Dataset to link them automatically to STARs.
+    NZQN - DOVMA 1A renamed the DOVMA 2A.
+    NZTU - All SIDs/STARs and RNAV approaches have been added. These had previously been missed.
+    NZRC - AD status changed to IFR-VFR. SEBSA 1 SID for Rwy 04 added, alongside the RNAV (GNSS) A approach for Rwy 22.
+
+

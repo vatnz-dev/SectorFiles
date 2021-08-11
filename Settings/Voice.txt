@@ -1,0 +1,67 @@
+VOICE
+AG:Auckland Raglan:126.000:rw1.vatpac.org:nzaa-r_ctr
+AG:Auckland Oceanic Radar:123.900:rw1.vatpac.org:nzaa_ctr
+AG:Bay Area:119.500:rw1.vatpac.org:nzch-b_ctr
+AG:Christchurch Taranaki:123.700:rw1.vatpac.org:nzch-t_ctr
+AG:Christchurch Kaikoura:129.400:rw1.vatpac.org:nzch-k_ctr
+AG:Christchurch Area South:129.300:rw1.vatpac.org:nzch-s_ctr
+AG:Ohakea Area:126.200:rw1.vatpac.org:nzoh_ctr
+AG:Auckland Approach:124.300:rw1.vatpac.org:nzaa_app
+AG:Auckland Finals:129.600:rw1.vatpac.org:nzaa-f_app
+AG:Auckland Departure:118.000:rw1.vatpac.org:nzaa_dep
+AG:Bay Terminal:125.300:rw1.vatpac.org:nzhn_app
+AG:Wellington Approach:119.300:rw1.vatpac.org:nzwn_app
+AG:Wellington Departure:122.300:rw1.vatpac.org:nzwn_dep
+AG:Christchurch Appoach:126.100:rw1.vatpac.org:nzch_app
+AG:Christchurch Departure:120.900:rw1.vatpac.org:nzch_dep
+AG:Queenstown Approach:125.750:rw1.vatpac.org:nzqn_app
+AG:Auckland CLR DEL:128.200:rw1.vatpac.org:nzaa_del
+AG:Wellington CLR DEL:128.200:rw1.vatpac.org:nzwn_del
+AG:Christchurch CLR DEL:128.200:rw1.vatpac.org:nzch_del
+AG:Queenstown CLR DEL:121.900:rw1.vatpac.org:nzqn_del
+AG:Auckland SMC:121.900:rw1.vatpac.org:nzaa_gnd
+AG:Wellington SMC:121.900:rw1.vatpac.org:nzwn_gnd
+AG:Christchurch SMC:121.900:rw1.vatpac.org:nzch_gnd
+AG:Queenstown SMC:128.300:rw1.vatpac.org:nzqn_gnd
+AG:Whenuapai TWR:134.500:rw1.vatpac.org:nzwp_twr
+AG:Auckland TWR:118.700:rw1.vatpac.org:nzaa_twr
+AG:Hamilton TWR:122.900:rw1.vatpac.org:nzhn_twr
+AG:Tauranga TWR:118.300:rw1.vatpac.org:nztg_twr
+AG:Rotorua TWR:121.200:rw1.vatpac.org:nzro_twr
+AG:Gisborne TWR:127.300:rw1.vatpac.org:nzgs_twr
+AG:Napier TWR:124.800:rw1.vatpac.org:nznr_twr
+AG:New Plymouth TWR:124.700:rw1.vatpac.org:nznp_twr
+AG:Ohakea TWR:134.500:rw1.vatpac.org:nzoh_twr
+AG:Ohakea Approach:125.100:rw1.vatpac.org:nzoh_app
+AG:Palmerston North TWR:120.600:rw1.vatpac.org:nzpm_twr
+AG:Wellington TWR:118.800:rw1.vatpac.org:nzwn_twr
+AG:Woodbourne TWR:118.100:rw1.vatpac.org:nzwb_twr
+AG:Nelson TWR:127.400:rw1.vatpac.org:nzns_twr
+AG:Christchurch TWR:118.400:rw1.vatpac.org:nzch_twr
+AG:Milford AFIS:118.200:rw1.vatpac.org:nzmf_twr
+AG:Queenstown TWR:118.100:rw1.vatpac.org:nzqn_twr
+AG:Dunedin TWR:120.700:rw1.vatpac.org:nzdn_twr
+AG:Invercargill TWR:118.500:rw1.vatpac.org:nznv_twr
+AG:Whenuapai ATIS:128.300:rw1.vatpac.org:nzwp_atis
+AG:Auckland ATIS:127.800:rw1.vatpac.org:nzaa_atis
+AG:Hamilton ATIS:128.650:rw1.vatpac.org:nzhn_atis
+AG:Tauranga ATIS:126.600:rw1.vatpac.org:nztg_atis
+AG:Rotorua ATIS:128.800:rw1.vatpac.org:nzro_atis
+AG:Gisborne ATIS:126.450:rw1.vatpac.org:nzgs_atis
+AG:Napier ATIS:121.800:rw1.vatpac.org:nznr_atis
+AG:New Plymouth ATIS:127.050:rw1.vatpac.org:nznp_atis
+AG:Ohakea ATIS:135.000:rw1.vatpac.org:nzoh_atis
+AG:Palmerston North ATIS:129.700:rw1.vatpac.org:nzpm_atis
+AG:Wellington ATIS:126.900:rw1.vatpac.org:nzwn_atis
+AG:Woodbourne ATIS:126.050:rw1.vatpac.org:nzwb_atis
+AG:Nelson ATIS:129.100:rw1.vatpac.org:nzns_atis
+AG:Christchurch ATIS:127.200:rw1.vatpac.org:nzch_atis
+AG:Queenstown ATIS:126.400:rw1.vatpac.org:nzqn_atis
+AG:Dunedin ATIS:126.450:rw1.vatpac.org:nzdn_atis
+AG:Invercargill ATIS:127.000:rw1.vatpac.org:nznv_atis
+AG:Milford Sound TWR:118.200:rw1.vatpac.org:nzmf_twr
+AG:Paraparaumu TWR:118.300:rw1.vatpac.org:nzpp_twr
+AG:Ohakea SMC:122.100:rw1.vatpac.org:nzoh_gnd
+AG:Palmerston North SMC:121.700:rw1.vatpac.org:nzpm_gnd
+
+END

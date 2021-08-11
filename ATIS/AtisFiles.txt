@@ -1,0 +1,288 @@
+RECORD:-:minus.wav
+RECORD:.:end.wav
+RECORD:0:0.wav
+RECORD:1:1.wav
+RECORD:10:10.wav
+RECORD:2:2.wav
+RECORD:2000 foot wind:2000 foot wind.wav
+RECORD:3:3.wav
+RECORD:4:4.wav
+RECORD:5:5.wav
+RECORD:6:6.wav
+RECORD:7:7.wav
+RECORD:8:8.wav
+RECORD:9:9.wav
+RECORD:all runways:all runways.wav
+RECORD:ALPHA:ALPHA.wav
+RECORD:and:and.wav
+RECORD:approach:approach.wav
+RECORD:arrival:arrival.wav
+RECORD:arrival runway:arrival runway.wav
+RECORD:at:at.wav
+RECORD:AUCKLAND:AUCKLAND.wav
+RECORD:BAY:bay.wav
+RECORD:becoming:becoming.wav
+RECORD:BKN:BKN.wav
+RECORD:blowing:BL.wav
+RECORD:blowing dust:BLDU.wav
+RECORD:blowing sand:BLSA.wav
+RECORD:blowing snow:BLSN.wav
+RECORD:braking action:braking action.wav
+RECORD:BRAVO:BRAVO.wav
+RECORD:by:by.wav
+RECORD:C:centre.wav
+RECORD:CAVOK:CAVOK.wav
+RECORD:CB:CB.wav
+RECORD:center:centre.wav
+RECORD:centre:centre.wav
+RECORD:CHARLIE:CHARLIE.wav
+RECORD:CHRISTCHURCH:CHRISTCHURCH.wav
+RECORD:CI:CI.wav
+RECORD:CLD:CLD.wav
+RECORD:conditions suitable for a vis app:condsuitablevisapp.wav
+RECORD:control:control.wav
+RECORD:cumulonimbus:CB.wav
+RECORD:damp:damp.wav
+RECORD:decimal:decimal.wav
+RECORD:degrees:DEG.wav
+RECORD:delivery:delivery.wav
+RECORD:DELTA:DELTA.wav
+RECORD:departure:departure.wav
+RECORD:departure runway:departure runway.wav
+RECORD:downgrading:downgrading.wav
+RECORD:DP:DP.wav
+RECORD:drizzle:DZ.wav
+RECORD:dry:dry.wav
+RECORD:DUNEDIN:DUNEDIN.wav
+RECORD:dust whirls:PO.wav
+RECORD:duststorm:DS.wav
+RECORD:DZ:DZ.wav
+RECORD:east:east.wav
+RECORD:ECHO:ECHO.wav
+RECORD:expect GPS approach:expectGPS.wav
+RECORD:expect ILS approach:expectILS.wav
+RECORD:expect ILSDME approach:expectILSDME.wav
+RECORD:expect LOCDME approach:expectLOCDME.wav
+RECORD:expect NDB approach:expectNDB.wav
+RECORD:expect RNAV approach:expectRNAV.wav
+RECORD:expect Visual approach:expectVISUAL.wav
+RECORD:expect VORDME approach:expectVORDME.wav
+RECORD:fair:fair.wav
+RECORD:FEW:FEW.wav
+RECORD:FG:FG.wav
+RECORD:final approach:final approach.wav
+RECORD:fog:FG.wav
+RECORD:fog obscured:fog obscured.wav
+RECORD:foot:foot.wav
+RECORD:foot wind:foot wind.wav
+RECORD:for:for.wav
+RECORD:forecast:forecast.wav
+RECORD:FOXTROT:FOXTROT.wav
+RECORD:freezing:FZ.wav
+RECORD:freezing drizzle:FZDZ.wav
+RECORD:freezing fog:FZFG.wav
+RECORD:freezing precipitation:FZUP.wav
+RECORD:freezing rain:FZRA.wav
+RECORD:from:from.wav
+RECORD:FT:FT.wav
+RECORD:funnel cloud:FC.wav
+RECORD:GISBORNE:GISBORNE.wav
+RECORD:GOLF:GOLF.wav
+RECORD:good:good.wav
+RECORD:GR:GR.wav
+RECORD:ground:ground.wav
+RECORD:GS:GS.wav
+RECORD:gust:gusting.wav
+RECORD:gusting:gusting.wav
+RECORD:hail:GR.wav
+RECORD:HAMILTON:HAMILTON.wav
+RECORD:haze:HZ.wav
+RECORD:heavy:heavy.wav
+RECORD:HOTEL:HOTEL.wav
+RECORD:hundred:hundred.wav
+RECORD:HZ:HZ.wav
+RECORD:ice crystals:IC.wav
+RECORD:ice pellets:PL.wav
+RECORD:in the vicinity:VC.wav
+RECORD:in use:in use.wav
+RECORD:INDIA:INDIA.wav
+RECORD:INFORMATION:INFORMATION.wav
+RECORD:INVERCARGILL:INVERCARGILL.wav
+RECORD:issued at:issued at.wav
+RECORD:JULIET:JULIET.wav
+RECORD:KILO:KILO.wav
+RECORD:km:km.wav
+RECORD:knots:kt.wav
+RECORD:L:left.wav
+RECORD:left:left.wav
+RECORD:light:light.wav
+RECORD:LIMA:LIMA.wav
+RECORD:low drifting:DR.wav
+RECORD:low drifting dust:DRDU.wav
+RECORD:low drifting sand:DRSA.wav
+RECORD:low drifting snow:DRSN.wav
+RECORD:maximum:maximum.wav
+RECORD:medium:medium.wav
+RECORD:medium to good:medium to good.wav
+RECORD:medium to poor:medium to poor.wav
+RECORD:meters:meters.wav
+RECORD:metres:meters.wav
+RECORD:mid-point:mid-point.wav
+RECORD:MIKE:MIKE.wav
+RECORD:minimum:minimum.wav
+RECORD:mist:BR.wav
+RECORD:moderate:moderate.wav
+RECORD:NAPIER:NAPIER.wav
+RECORD:NELSON:NELSON.wav
+RECORD:neutral:neutral.wav
+RECORD:new:new.wav
+RECORD:NEW PLYMOUTH:NEW PLYMOUTH.wav
+RECORD:no cloud detected:NCD.wav
+RECORD:no significant clouds:NSC.wav
+RECORD:no significant weather:NSW.wav
+RECORD:north:north.wav
+RECORD:northeast:northeast.wav
+RECORD:northwest:northwest.wav
+RECORD:NOSIG:NOSIG.wav
+RECORD:not available:not available.wav
+RECORD:notify receipt of:notify receipt of.wav
+RECORD:NOVEMBER:NOVEMBER.wav
+RECORD:OHAKEA:OHAKEA.wav
+RECORD:ok:ok.wav
+RECORD:on first contact with:on first contact with.wav
+RECORD:or:or.wav
+RECORD:OSCAR:OSCAR.wav
+RECORD:OVC:OVC.wav
+RECORD:overcast:OVC.wav
+RECORD:PALMERSTON NORTH:PALMERSTON NORTH.wav
+RECORD:PAPA:PAPA.wav
+RECORD:partial fog:PRFG.wav
+RECORD:patches of fog:BCFG.wav
+RECORD:poor:poor.wav
+RECORD:QNH:QNH.wav
+RECORD:QUEBEC:QUEBEC.wav
+RECORD:QUEENSTOWN:QUEENSTOWN.wav
+RECORD:R:right.wav
+RECORD:RA:RA.wav
+RECORD:rain:RA.wav
+RECORD:reducing:reducing.wav
+RECORD:reported:reported.wav
+RECORD:right:right.wav
+RECORD:ROMEO:ROMEO.wav
+RECORD:ROTORUA:ROTORUA.wav
+RECORD:runway condition:RWYcond.wav
+RECORD:runway visual range:RVR.wav
+RECORD:RVR:RVR.wav
+RECORD:RVR values available on air traffic control frequency:RVR values available on air traffic control frequency.wav
+RECORD:RWY:RWY.wav
+RECORD:sand:SA.wav
+RECORD:sandstorm:SS.wav
+RECORD:SC:SC.wav
+RECORD:SCT:SCT.wav
+RECORD:shallow fog:MIFG.wav
+RECORD:showers:SH.wav
+RECORD:showers of hail:SHGR.wav
+RECORD:showers of rain:SHRA.wav
+RECORD:showers of small hail:SHGS.wav
+RECORD:showers of snow:SHSN.wav
+RECORD:SIERRA:SIERRA.wav
+RECORD:sky clear:SKC.wav
+RECORD:sky conditions clear:SKC.wav
+RECORD:small hail:GS.wav
+RECORD:smoke:FU.wav
+RECORD:snow:SN.wav
+RECORD:snow grains:SG.wav
+RECORD:south:south.wav
+RECORD:southeast:southeast.wav
+RECORD:southwest:southwest.wav
+RECORD:squalls:SQ.wav
+RECORD:ST:ST.wav
+RECORD:stop-end:stop-end.wav
+RECORD:surface condition:RWYcond.wav
+RECORD:surface wind:sfcwnd.wav
+RECORD:TANGO:TANGO.wav
+RECORD:TAURANGA:TAURANGA.wav
+RECORD:TCU:TCU.wav
+RECORD:temporary:temporary.wav
+RECORD:terminal:terminal.wav
+RECORD:thousand:thousand.wav
+RECORD:thunderstorm:TS.wav
+RECORD:thunderstorm with hail:TSGR.wav
+RECORD:thunderstorm with ice pellets:TSPL.wav
+RECORD:thunderstorm with rain:TSRA.wav
+RECORD:thunderstorm with small hail:TSGS.wav
+RECORD:thunderstorm with snow:TSSN.wav
+RECORD:TMP:TMP.wav
+RECORD:touchdown:touchdown.wav
+RECORD:tower:tower.wav
+RECORD:turbulence:turbulence.wav
+RECORD:unavailable:unavailable.wav
+RECORD:UNIFORM:UNIFORM.wav
+RECORD:unknown precipitation:UP.wav
+RECORD:until:until.wav
+RECORD:upgrading:upgrading.wav
+RECORD:use:use.wav
+RECORD:variable:variable.wav
+RECORD:variable between:varying between.wav
+RECORD:VC:VC.wav
+RECORD:vertical visibility:VV.wav
+RECORD:VIC:VC.wav
+RECORD:vicinity:VC.wav
+RECORD:VICTOR:VICTOR.wav
+RECORD:VIS:VIS.wav
+RECORD:visibility:VIS.wav
+RECORD:visibility more than 10 kilometers:9999.wav
+RECORD:volcanic ash:volcanic ash.wav
+RECORD:WELLINGTON:WELLINGTON.wav
+RECORD:west:west.wav
+RECORD:wet:wet.wav
+RECORD:WHENUAPAI:WHENUAPAI.wav
+RECORD:WHISKY:WHISKY.wav
+RECORD:widespread dust:DU.wav
+RECORD:wind calm:surface wind calm.wav
+RECORD:windshear:windshear.wav
+RECORD:WND:sfcwnd.wav
+RECORD:WOODBOURNE:WOODBOURNE.wav
+RECORD:wx:WX.wav
+RECORD:XRAY:XRAY.wav
+RECORD:YANKEE:YANKEE.wav
+RECORD:Z:ZULU.wav
+RECORD:ZULU:ZULU.wav
+ITEM:AUCKLAND:XXX
+ITEM:INFORMATION:XXX
+ITEM:ALPHA:XXX
+ITEM:issued at:XXX
+ITEM:0630:
+ITEM:expect ILSDME approach:XXX
+ITEM:RWY:XXX
+ITEM:05R:
+ITEM:runway condition:XXX
+ITEM:dry:XXX
+ITEM:surface wind:XXX
+ITEM:260:
+ITEM:degrees:XXX
+ITEM:10:
+ITEM:knots:XXX
+ITEM:visibility more than 10 kilometers:XXX
+ITEM:CLD:XXX
+ITEM:SCT:XXX
+ITEM:{2000}:
+ITEM:FT:XXX
+ITEM:BKN:XXX
+ITEM:{3000}:
+ITEM:FT:XXX
+ITEM:overcast:XXX
+ITEM:{4000}:
+ITEM:FT:XXX
+ITEM:TMP:XXX
+ITEM:16:
+ITEM:DP:XXX
+ITEM:12:
+ITEM:QNH:XXX
+ITEM:1007:
+ITEM:on first contact with:XXX
+ITEM:BAY:XXX
+ITEM:approach:XXX
+ITEM:notify receipt of:XXX
+ITEM:ALPHA:XXX
+ITEM:.:XXX

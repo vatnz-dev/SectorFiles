@@ -1,0 +1,1507 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:\VATNZ-NZZC_1804.sct2
+SECTORTITLE:VATNZ-NZZC_1804.sct2
+Airports:NZAA:name
+Airports:NZAA:symbol
+Airports:NZAG:name
+Airports:NZAG:symbol
+Airports:NZAP:name
+Airports:NZAP:symbol
+Airports:NZAR:name
+Airports:NZAR:symbol
+Airports:NZAS:name
+Airports:NZAS:symbol
+Airports:NZBA:name
+Airports:NZBA:symbol
+Airports:NZCB:name
+Airports:NZCB:symbol
+Airports:NZCH:name
+Airports:NZCH:symbol
+Airports:NZCI:name
+Airports:NZCI:symbol
+Airports:NZCS:name
+Airports:NZCS:symbol
+Airports:NZCW:name
+Airports:NZCW:symbol
+Airports:NZCX:name
+Airports:NZCX:symbol
+Airports:NZDA:name
+Airports:NZDA:symbol
+Airports:NZDN:name
+Airports:NZDN:symbol
+Airports:NZDV:name
+Airports:NZDV:symbol
+Airports:NZES:name
+Airports:NZES:symbol
+Airports:NZFF:name
+Airports:NZFF:symbol
+Airports:NZFI:name
+Airports:NZFI:symbol
+Airports:NZFJ:name
+Airports:NZFJ:symbol
+Airports:NZFP:name
+Airports:NZFP:symbol
+Airports:NZGA:name
+Airports:NZGA:symbol
+Airports:NZGB:name
+Airports:NZGB:symbol
+Airports:NZGC:name
+Airports:NZGC:symbol
+Airports:NZGM:name
+Airports:NZGM:symbol
+Airports:NZGS:name
+Airports:NZGS:symbol
+Airports:NZGT:name
+Airports:NZGT:symbol
+Airports:NZGY:name
+Airports:NZGY:symbol
+Airports:NZHA:name
+Airports:NZHA:symbol
+Airports:NZHK:name
+Airports:NZHK:symbol
+Airports:NZHN:name
+Airports:NZHN:symbol
+Airports:NZHP:name
+Airports:NZHP:symbol
+Airports:NZHR:name
+Airports:NZHR:symbol
+Airports:NZHS:name
+Airports:NZHS:symbol
+Airports:NZHT:name
+Airports:NZHT:symbol
+Airports:NZKE:name
+Airports:NZKE:symbol
+Airports:NZKF:name
+Airports:NZKF:symbol
+Airports:NZKI:name
+Airports:NZKI:symbol
+Airports:NZKK:name
+Airports:NZKK:symbol
+Airports:NZKM:name
+Airports:NZKM:symbol
+Airports:NZKO:name
+Airports:NZKO:symbol
+Airports:NZKT:name
+Airports:NZKT:symbol
+Airports:NZKY:name
+Airports:NZKY:symbol
+Airports:NZLE:name
+Airports:NZLE:symbol
+Airports:NZLX:name
+Airports:NZLX:symbol
+Airports:NZMA:name
+Airports:NZMA:symbol
+Airports:NZMC:name
+Airports:NZMC:symbol
+Airports:NZME:name
+Airports:NZME:symbol
+Airports:NZMF:name
+Airports:NZMF:symbol
+Airports:NZMJ:name
+Airports:NZMJ:symbol
+Airports:NZMK:name
+Airports:NZMK:symbol
+Airports:NZMO:name
+Airports:NZMO:symbol
+Airports:NZMR:name
+Airports:NZMR:symbol
+Airports:NZMS:name
+Airports:NZMS:symbol
+Airports:NZMT:name
+Airports:NZMT:symbol
+Airports:NZMW:name
+Airports:NZMW:symbol
+Airports:NZNE:name
+Airports:NZNE:symbol
+Airports:NZNP:name
+Airports:NZNP:symbol
+Airports:NZNR:name
+Airports:NZNR:symbol
+Airports:NZNS:name
+Airports:NZNS:symbol
+Airports:NZNV:name
+Airports:NZNV:symbol
+Airports:NZOA:name
+Airports:NZOA:symbol
+Airports:NZOH:name
+Airports:NZOH:symbol
+Airports:NZOM:name
+Airports:NZOM:symbol
+Airports:NZOP:name
+Airports:NZOP:symbol
+Airports:NZOU:name
+Airports:NZOU:symbol
+Airports:NZOX:name
+Airports:NZOX:symbol
+Airports:NZPH:name
+Airports:NZPH:symbol
+Airports:NZPI:name
+Airports:NZPI:symbol
+Airports:NZPM:name
+Airports:NZPM:symbol
+Airports:NZPN:name
+Airports:NZPN:symbol
+Airports:NZPO:name
+Airports:NZPO:symbol
+Airports:NZPP:name
+Airports:NZPP:symbol
+Airports:NZQN:name
+Airports:NZQN:symbol
+Airports:NZRA:name
+Airports:NZRA:symbol
+Airports:NZRC:name
+Airports:NZRC:symbol
+Airports:NZRI:name
+Airports:NZRI:symbol
+Airports:NZRK:name
+Airports:NZRK:symbol
+Airports:NZRO:name
+Airports:NZRO:symbol
+Airports:NZRT:name
+Airports:NZRT:symbol
+Airports:NZRU:name
+Airports:NZRU:symbol
+Airports:NZRW:name
+Airports:NZRW:symbol
+Airports:NZRX:name
+Airports:NZRX:symbol
+Airports:NZSD:name
+Airports:NZSD:symbol
+Airports:NZSL:name
+Airports:NZSL:symbol
+Airports:NZTA:name
+Airports:NZTA:symbol
+Airports:NZTE:name
+Airports:NZTE:symbol
+Airports:NZTG:name
+Airports:NZTG:symbol
+Airports:NZTH:name
+Airports:NZTH:symbol
+Airports:NZTI:name
+Airports:NZTI:symbol
+Airports:NZTK:name
+Airports:NZTK:symbol
+Airports:NZTL:name
+Airports:NZTL:symbol
+Airports:NZTM:name
+Airports:NZTM:symbol
+Airports:NZTN:name
+Airports:NZTN:symbol
+Airports:NZTO:name
+Airports:NZTO:symbol
+Airports:NZTS:name
+Airports:NZTS:symbol
+Airports:NZTT:name
+Airports:NZTT:symbol
+Airports:NZTU:name
+Airports:NZTU:symbol
+Airports:NZTZ:name
+Airports:NZTZ:symbol
+Airports:NZUK:name
+Airports:NZUK:symbol
+Airports:NZUN:name
+Airports:NZUN:symbol
+Airports:NZVL:name
+Airports:NZVL:symbol
+Airports:NZVR:name
+Airports:NZVR:symbol
+Airports:NZWB:name
+Airports:NZWB:symbol
+Airports:NZWF:name
+Airports:NZWF:symbol
+Airports:NZWK:name
+Airports:NZWK:symbol
+Airports:NZWL:name
+Airports:NZWL:symbol
+Airports:NZWM:name
+Airports:NZWM:symbol
+Airports:NZWN:name
+Airports:NZWN:symbol
+Airports:NZWO:name
+Airports:NZWO:symbol
+Airports:NZWP:name
+Airports:NZWP:symbol
+Airports:NZWR:name
+Airports:NZWR:symbol
+Airports:NZWS:name
+Airports:NZWS:symbol
+Airports:NZWT:name
+Airports:NZWT:symbol
+Airports:NZWU:name
+Airports:NZWU:symbol
+Airports:NZWV:name
+Airports:NZWV:symbol
+Airports:NZWY:name
+Airports:NZWY:symbol
+Airports:NZYP:name
+Airports:NZYP:symbol
+ARTCC boundary:NZM107 SFC-025 WHENUAP:
+ARTCC boundary:NZM201 SFC-023 ARDMORE:
+ARTCC boundary:NZM300 SFC-130 RANGIPO:
+ARTCC boundary:NZM301 SFC-130 MOAWHAN:
+ARTCC boundary:NZM302 SFC-090 TARANAK:
+ARTCC boundary:NZM306 SFC-070 RAUMAI:
+ARTCC boundary:NZM309 SFC-025 OHAKEA:
+ARTCC boundary:NZM311 015-025 BULLS:
+ARTCC boundary:NZM312 015-070 MANAWAT:
+ARTCC boundary:NZM800 SFC-035 GLENTUN:
+ARTCC boundary:NZR ---RESTRICTED AREAS---:
+ARTCC boundary:NZR100 SFC-035 MARSDEN:
+ARTCC boundary:NZR104 SFC-035 BARRIER:
+ARTCC boundary:NZR400 SFC-020 CAPEKID:
+ARTCC boundary:NZR501 SFC-050 MTBRUCE:
+ARTCC boundary:NZR601 SFC-020 FAREWEL:
+ARTCC boundary:NZR700 SFC-030 OKARITO:
+ARTCC boundary:NZR701 SFC-085 HTUNNEL:
+ARTCC boundary:NZR702 SFC-015 PNKAIKI:
+ARTCC boundary:NZR901 SFC-020 MOERAKI:
+ARTCC boundary:NZR902 SFC-015 KATORET:
+ARTCC boundary:NZR905 SFC-020 TAIAROA:
+ARTCC boundary:NZT ---TRANSIT LANES---:
+ARTCC boundary:NZT146 SFC-015 TEHANGA (WP):
+ARTCC boundary:NZT157 SFC-010 WHANGAP (WP):
+ARTCC boundary:NZT253 SFC-010 NORTHER (HN):
+ARTCC boundary:NZT254 SFC-010 TEAWAMU (HN):
+ARTCC boundary:NZT354 SFC-010 OROUA (PM):
+ARTCC boundary:NZT654 SFC-015 OMAKA (WB):
+ARTCC boundary:NZT656 SFC-015 PORIRUA (WN):
+ARTCC boundary:NZT657 SFC-015 TASMAN (NS):
+ARTCC boundary:NZT750 SFC-045 KAWARAU (QN):
+ARTCC boundary:NZT751 SFC-050 KINGSTN (QN):
+ARTCC boundary:NZT753 SFC-040 RIDGEPK (QN):
+ARTCC boundary:NZT856 SFC-010 SANDYKL (CH):
+ARTCC boundary:NZT858 SFC-010 EYREWEL (CH):
+ARTCC boundary:NZT955 SFC-015 DUNEDIN (DN):
+ARTCC boundary:NZT958 SFC-011 TAIERI (DN):
+ARTCC boundary:NZT959 SFC-025 MTHYDE (DN):
+ARTCC high boundary:AATWR:
+ARTCC high boundary:CHTWR:
+ARTCC high boundary:DNTWR:
+ARTCC high boundary:GSTWR:
+ARTCC high boundary:HNTWR:
+ARTCC high boundary:NPTWR:
+ARTCC high boundary:NRTWR:
+ARTCC high boundary:NSTWR:
+ARTCC high boundary:NVTWR:
+ARTCC high boundary:OHTWR:
+ARTCC high boundary:PMTWR:
+ARTCC high boundary:QNTWR:
+ARTCC high boundary:ROTWR:
+ARTCC high boundary:TGTWR:
+ARTCC high boundary:WBTWR:
+ARTCC high boundary:WNTWR:
+ARTCC high boundary:WPTWR:
+ARTCC low boundary:AA C NZA130 065-095:
+ARTCC low boundary:AA C NZA131 065-600:
+ARTCC low boundary:AA C NZA132 135-600:
+ARTCC low boundary:AA C NZA141 015-095:
+ARTCC low boundary:AA C NZA142 025-095:
+ARTCC low boundary:AA C NZA142_S 025-095:
+ARTCC low boundary:AA C NZA143 035-095:
+ARTCC low boundary:AA C NZA145 045-095:
+ARTCC low boundary:AA C NZA240 035-095:
+ARTCC low boundary:AA C NZA241 045-095:
+ARTCC low boundary:AA C NZA242 065-095:
+ARTCC low boundary:AA C NZA247 065-095:
+ARTCC low boundary:AA D NZA231 065-095:
+ARTCC low boundary:BAY C NZA434 095-600:
+ARTCC low boundary:BAY C NZA435 135-600:
+ARTCC low boundary:BAY D NZA232 065-095:
+ARTCC low boundary:BAY D NZA439 065-095:
+ARTCC low boundary:CH C NZA727 175-600:
+ARTCC low boundary:CH C NZA736 135-600:
+ARTCC low boundary:CH C NZA830 095-600:
+ARTCC low boundary:CH C NZA830_S 095-600:
+ARTCC low boundary:CH C NZA831 135-600:
+ARTCC low boundary:CH C NZA834 075-095:
+ARTCC low boundary:CH C NZA837 115-600:
+ARTCC low boundary:CH C NZA841 015-095:
+ARTCC low boundary:CH C NZA841_S 015-025:
+ARTCC low boundary:CH C NZA844 025-095:
+ARTCC low boundary:CH C NZA845 035-095:
+ARTCC low boundary:CH C NZA847 055-095:
+ARTCC low boundary:CH C NZA849 075-095:
+ARTCC low boundary:CH C NZA930 095-600:
+ARTCC low boundary:CH C NZA931 135-600:
+ARTCC low boundary:CH C NZA932 135-600:
+ARTCC low boundary:CH C NZA933 135-600:
+ARTCC low boundary:CH C NZA934 175-600:
+ARTCC low boundary:CH C NZA947 245-600:
+ARTCC low boundary:CH D NZA321 065-095:
+ARTCC low boundary:CH D NZA632 055-095:
+ARTCC low boundary:CH D NZA728 095-600:
+ARTCC low boundary:CH D NZA833 075-095:
+ARTCC low boundary:DN D NZA936 035-095:
+ARTCC low boundary:DN D NZA937 045-095:
+ARTCC low boundary:DN D NZA938 075-135:
+ARTCC low boundary:GS D NZA430 035-095:
+ARTCC low boundary:GS D NZA431 055-095:
+ARTCC low boundary:GS D NZA432 065-095:
+ARTCC low boundary:HN D NZA239 020-025:
+ARTCC low boundary:HN D NZA248 025-095:
+ARTCC low boundary:HN D NZA249 045-095:
+ARTCC low boundary:NP D NZA320 055-065:
+ARTCC low boundary:NP D NZA331 015-065:
+ARTCC low boundary:NP D NZA334 025-065:
+ARTCC low boundary:NP D NZA341 030-065:
+ARTCC low boundary:NP D NZA344 045-065:
+ARTCC low boundary:NP D NZA345 045-065:
+ARTCC low boundary:NR D NZA440 025-095:
+ARTCC low boundary:NR D NZA441 D 030-095:
+ARTCC low boundary:NR D NZA442 045-095:
+ARTCC low boundary:NR D NZA443 065-095:
+ARTCC low boundary:NR D NZA540 035-095:
+ARTCC low boundary:NR D NZA541 065-095:
+ARTCC low boundary:NS D NZ840 055-095:
+ARTCC low boundary:NS D NZA467 065-095:
+ARTCC low boundary:NS D NZA644 025-095:
+ARTCC low boundary:NS D NZA645 035-095:
+ARTCC low boundary:NS D NZA646 055-095:
+ARTCC low boundary:NS D NZA648 075-095:
+ARTCC low boundary:NS D NZA649 075-095:
+ARTCC low boundary:NS D NZA652 025-095:
+ARTCC low boundary:NS D NZA653 035-095:
+ARTCC low boundary:NS D NZA689 035-055:
+ARTCC low boundary:NV D NZA734 025-095:
+ARTCC low boundary:NV D NZA737 015-095:
+ARTCC low boundary:NV D NZA738 055-095:
+ARTCC low boundary:NV D NZA738 055-095 NV D NZA738 055-095:
+ARTCC low boundary:NV D NZA739 065-095:
+ARTCC low boundary:NV D NZA745 045-095:
+ARTCC low boundary:NV D NZA746 035-095:
+ARTCC low boundary:OH C NZA330 115-600:
+ARTCC low boundary:OH C NZA332 135-600:
+ARTCC low boundary:OH C NZA333 035-095:
+ARTCC low boundary:OH C NZA335 015-095:
+ARTCC low boundary:OH C NZA336 018-095:
+ARTCC low boundary:OH C NZA337 025-095:
+ARTCC low boundary:OH C NZA338 025-095:
+ARTCC low boundary:OH C NZA339 025-095:
+ARTCC low boundary:OH C NZA340 055-095:
+ARTCC low boundary:OH C NZA346 045-095:
+ARTCC low boundary:OH C NZA347 095-600:
+ARTCC low boundary:OH C NZA347_S 095-115:
+ARTCC low boundary:OH D NZA348 065-095:
+ARTCC low boundary:QN C NZA729 135-175:
+ARTCC low boundary:QN C NZA730 095-175:
+ARTCC low boundary:QN C NZA731 075-175:
+ARTCC low boundary:QN C NZA733 065-175:
+ARTCC low boundary:QN C NZA741 075-175:
+ARTCC low boundary:QN C NZA742 095-175:
+ARTCC low boundary:QN C NZA744 135-075:
+ARTCC low boundary:QN C NZA942 135-175:
+ARTCC low boundary:RO D NZA234 045-095:
+ARTCC low boundary:RO D NZA448 035-095:
+ARTCC low boundary:TG D NZA237 015-025:
+ARTCC low boundary:TG D NZA238 025-095:
+ARTCC low boundary:WB D NZA631 035-095:
+ARTCC low boundary:WN C NZA633 045-095:
+ARTCC low boundary:WN C NZA634 055-095:
+ARTCC low boundary:WN C NZA635 015-095:
+ARTCC low boundary:WN C NZA637 025-095:
+ARTCC low boundary:WN C NZA638 035-095:
+ARTCC low boundary:WN C NZA640 045-095:
+ARTCC low boundary:WN C NZA642 075-095:
+ARTCC low boundary:WN C NZA643 035-095:
+ARTCC low boundary:WN C NZA656 045-095:
+ARTCC low boundary:WN C NZA657 055-095:
+Fixes:AGEDU:name
+Fixes:AGEDU:symbol
+Fixes:AGREX:name
+Fixes:AGREX:symbol
+Fixes:AKLOM:name
+Fixes:AKLOM:symbol
+Fixes:APABO:name
+Fixes:APABO:symbol
+Fixes:ARADI:name
+Fixes:ARADI:symbol
+Fixes:ATKIL:name
+Fixes:ATKIL:symbol
+Fixes:ATSUN:name
+Fixes:ATSUN:symbol
+Fixes:AVKEX:name
+Fixes:AVKEX:symbol
+Fixes:BASIV:name
+Fixes:BASIV:symbol
+Fixes:BATOS:name
+Fixes:BATOS:symbol
+Fixes:BEBER:name
+Fixes:BEBER:symbol
+Fixes:BLUNT:name
+Fixes:BLUNT:symbol
+Fixes:BONKO:name
+Fixes:BONKO:symbol
+Fixes:BRUDA:name
+Fixes:BRUDA:symbol
+Fixes:BUDEN:name
+Fixes:BUDEN:symbol
+Fixes:CLARK:name
+Fixes:CLARK:symbol
+Fixes:DAVEE:name
+Fixes:DAVEE:symbol
+Fixes:DOGAD:name
+Fixes:DOGAD:symbol
+Fixes:DOMRI:name
+Fixes:DOMRI:symbol
+Fixes:DOPKI:name
+Fixes:DOPKI:symbol
+Fixes:DOVOT:name
+Fixes:DOVOT:symbol
+Fixes:DUGAN:name
+Fixes:DUGAN:symbol
+Fixes:DUKOP:name
+Fixes:DUKOP:symbol
+Fixes:EKVOX:name
+Fixes:EKVOX:symbol
+Fixes:ELNOS:name
+Fixes:ELNOS:symbol
+Fixes:ELRUV:name
+Fixes:ELRUV:symbol
+Fixes:EMRAG:name
+Fixes:EMRAG:symbol
+Fixes:ENBUG:name
+Fixes:ENBUG:symbol
+Fixes:EXOPI:name
+Fixes:EXOPI:symbol
+Fixes:FIRST:name
+Fixes:FIRST:symbol
+Fixes:GEWNY:name
+Fixes:GEWNY:symbol
+Fixes:GITUK:name
+Fixes:GITUK:symbol
+Fixes:GLENN:name
+Fixes:GLENN:symbol
+Fixes:GOPLU:name
+Fixes:GOPLU:symbol
+Fixes:GULUT:name
+Fixes:GULUT:symbol
+Fixes:HUWIT:name
+Fixes:HUWIT:symbol
+Fixes:IBABU:name
+Fixes:IBABU:symbol
+Fixes:IBESO:name
+Fixes:IBESO:symbol
+Fixes:IDSEM:name
+Fixes:IDSEM:symbol
+Fixes:INTOX:name
+Fixes:INTOX:symbol
+Fixes:JONAH:name
+Fixes:JONAH:symbol
+Fixes:KABIN:name
+Fixes:KABIN:symbol
+Fixes:KABKA:name
+Fixes:KABKA:symbol
+Fixes:KALAG:name
+Fixes:KALAG:symbol
+Fixes:KAPAI:name
+Fixes:KAPAI:symbol
+Fixes:KAURI:name
+Fixes:KAURI:symbol
+Fixes:KIDAL:name
+Fixes:KIDAL:symbol
+Fixes:KRAKA:name
+Fixes:KRAKA:symbol
+Fixes:LADIT:name
+Fixes:LADIT:symbol
+Fixes:LAKES:name
+Fixes:LAKES:symbol
+Fixes:LEBOX:name
+Fixes:LEBOX:symbol
+Fixes:LENGU:name
+Fixes:LENGU:symbol
+Fixes:LIMES:name
+Fixes:LIMES:symbol
+Fixes:LOSGA:name
+Fixes:LOSGA:symbol
+Fixes:LUNBI:name
+Fixes:LUNBI:symbol
+Fixes:MADEP:name
+Fixes:MADEP:symbol
+Fixes:MARLO:name
+Fixes:MARLO:symbol
+Fixes:MEEDA:name
+Fixes:MEEDA:symbol
+Fixes:MESIX:name
+Fixes:MESIX:symbol
+Fixes:MIKER:name
+Fixes:MIKER:symbol
+Fixes:MIPAK:name
+Fixes:MIPAK:symbol
+Fixes:MOOSE:name
+Fixes:MOOSE:symbol
+Fixes:MOTKO:name
+Fixes:MOTKO:symbol
+Fixes:NOBAR:name
+Fixes:NOBAR:symbol
+Fixes:ODISI:name
+Fixes:ODISI:symbol
+Fixes:OLBEX:name
+Fixes:OLBEX:symbol
+Fixes:OPABI:name
+Fixes:OPABI:symbol
+Fixes:PEAKS:name
+Fixes:PEAKS:symbol
+Fixes:PEBLU:name
+Fixes:PEBLU:symbol
+Fixes:PEPPE:name
+Fixes:PEPPE:symbol
+Fixes:PHNIX:name
+Fixes:PHNIX:symbol
+Fixes:POKOM:name
+Fixes:POKOM:symbol
+Fixes:RIPPA:name
+Fixes:RIPPA:symbol
+Fixes:RONGO:name
+Fixes:RONGO:symbol
+Fixes:RUSIL:name
+Fixes:RUSIL:symbol
+Fixes:SABAV:name
+Fixes:SABAV:symbol
+Fixes:SABDA:name
+Fixes:SABDA:symbol
+Fixes:SALAG:name
+Fixes:SALAG:symbol
+Fixes:SALTI:name
+Fixes:SALTI:symbol
+Fixes:SELKA:name
+Fixes:SELKA:symbol
+Fixes:SILVO:name
+Fixes:SILVO:symbol
+Fixes:SIMZI:name
+Fixes:SIMZI:symbol
+Fixes:TANEN:name
+Fixes:TANEN:symbol
+Fixes:TAYLA:name
+Fixes:TAYLA:symbol
+Fixes:TAZEY:name
+Fixes:TAZEY:symbol
+Fixes:TOTRA:name
+Fixes:TOTRA:symbol
+Fixes:TPAPA:name
+Fixes:TPAPA:symbol
+Fixes:TULMI:name
+Fixes:TULMI:symbol
+Fixes:TURAK:name
+Fixes:TURAK:symbol
+Fixes:UMAGA:name
+Fixes:UMAGA:symbol
+Fixes:UPLAR:name
+Fixes:UPLAR:symbol
+Fixes:VELMO:name
+Fixes:VELMO:symbol
+Fixes:VIBAG:name
+Fixes:VIBAG:symbol
+Fixes:WARDS:name
+Fixes:WARDS:symbol
+Fixes:WITBY:name
+Fixes:WITBY:symbol
+Fixes:WN406:name
+Fixes:WN406:symbol
+Fixes:WYRAP:name
+Fixes:WYRAP:symbol
+Fixes:WYTAK:name
+Fixes:WYTAK:symbol
+Fixes:ZORBA:name
+Fixes:ZORBA:symbol
+Geo:COAST:
+Geo:GEO:
+NDBs:AP:frequency
+NDBs:AP:name
+NDBs:AP:symbol
+NDBs:AS:frequency
+NDBs:AS:name
+NDBs:AS:symbol
+NDBs:BE:frequency
+NDBs:BE:name
+NDBs:BE:symbol
+NDBs:FY:frequency
+NDBs:FY:name
+NDBs:FY:symbol
+NDBs:GB:frequency
+NDBs:GB:name
+NDBs:GB:symbol
+NDBs:HK:frequency
+NDBs:HK:name
+NDBs:HK:symbol
+NDBs:HL:frequency
+NDBs:HL:name
+NDBs:HL:symbol
+NDBs:HN:frequency
+NDBs:HN:name
+NDBs:HN:symbol
+NDBs:KI:frequency
+NDBs:KI:name
+NDBs:KI:symbol
+NDBs:KK:frequency
+NDBs:KK:name
+NDBs:KK:symbol
+NDBs:KT:frequency
+NDBs:KT:name
+NDBs:KT:symbol
+NDBs:LX:frequency
+NDBs:LX:name
+NDBs:LX:symbol
+NDBs:MI:frequency
+NDBs:MI:name
+NDBs:MI:symbol
+NDBs:MO:frequency
+NDBs:MO:name
+NDBs:MO:symbol
+NDBs:NL:frequency
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:PP:frequency
+NDBs:PP:name
+NDBs:PP:symbol
+NDBs:RD:frequency
+NDBs:RD:name
+NDBs:RD:symbol
+NDBs:SF:frequency
+NDBs:SF:name
+NDBs:SF:symbol
+NDBs:SY:frequency
+NDBs:SY:name
+NDBs:SY:symbol
+NDBs:TG:frequency
+NDBs:TG:name
+NDBs:TG:symbol
+NDBs:TM:frequency
+NDBs:TM:name
+NDBs:TM:symbol
+NDBs:TU:frequency
+NDBs:TU:name
+NDBs:TU:symbol
+NDBs:WI:frequency
+NDBs:WI:name
+NDBs:WI:symbol
+NDBs:WK:frequency
+NDBs:WK:name
+NDBs:WK:symbol
+NDBs:WR:frequency
+NDBs:WR:name
+NDBs:WR:symbol
+NDBs:WS:frequency
+NDBs:WS:name
+NDBs:WS:symbol
+NDBs:WU:frequency
+NDBs:WU:name
+NDBs:WU:symbol
+Runways:NZAA Auckland 05R-23L:centerline
+Runways:NZAA Auckland 05R-23L:extended centerline 1
+Runways:NZAA Auckland 05R-23L:extended centerline 1 left base
+Runways:NZAA Auckland 05R-23L:extended centerline 1 left ticks
+Runways:NZAA Auckland 05R-23L:extended centerline 1 left vectoring
+Runways:NZAA Auckland 05R-23L:extended centerline 1 right base
+Runways:NZAA Auckland 05R-23L:extended centerline 1 right ticks
+Runways:NZAA Auckland 05R-23L:extended centerline 1 right vectoring
+Runways:NZAA Auckland 05R-23L:extended centerline 2
+Runways:NZAA Auckland 05R-23L:extended centerline 2 left base
+Runways:NZAA Auckland 05R-23L:extended centerline 2 left ticks
+Runways:NZAA Auckland 05R-23L:extended centerline 2 left vectoring
+Runways:NZAA Auckland 05R-23L:extended centerline 2 right base
+Runways:NZAA Auckland 05R-23L:extended centerline 2 right ticks
+Runways:NZAA Auckland 05R-23L:extended centerline 2 right vectoring
+Runways:NZAA Auckland 05R-23L:name
+Runways:NZAP Taupo 17-35:centerline
+Runways:NZAP Taupo 17-35:extended centerline 1
+Runways:NZAP Taupo 17-35:extended centerline 1 left base
+Runways:NZAP Taupo 17-35:extended centerline 1 left ticks
+Runways:NZAP Taupo 17-35:extended centerline 1 left vectoring
+Runways:NZAP Taupo 17-35:extended centerline 1 right base
+Runways:NZAP Taupo 17-35:extended centerline 1 right ticks
+Runways:NZAP Taupo 17-35:extended centerline 1 right vectoring
+Runways:NZAP Taupo 17-35:extended centerline 2
+Runways:NZAP Taupo 17-35:extended centerline 2 left base
+Runways:NZAP Taupo 17-35:extended centerline 2 left ticks
+Runways:NZAP Taupo 17-35:extended centerline 2 left vectoring
+Runways:NZAP Taupo 17-35:extended centerline 2 right base
+Runways:NZAP Taupo 17-35:extended centerline 2 right ticks
+Runways:NZAP Taupo 17-35:extended centerline 2 right vectoring
+Runways:NZAP Taupo 17-35:name
+Runways:NZAR Ardmore 03-21:centerline
+Runways:NZAR Ardmore 03-21:extended centerline 1
+Runways:NZAR Ardmore 03-21:extended centerline 1 left base
+Runways:NZAR Ardmore 03-21:extended centerline 1 left ticks
+Runways:NZAR Ardmore 03-21:extended centerline 1 left vectoring
+Runways:NZAR Ardmore 03-21:extended centerline 1 right base
+Runways:NZAR Ardmore 03-21:extended centerline 1 right ticks
+Runways:NZAR Ardmore 03-21:extended centerline 1 right vectoring
+Runways:NZAR Ardmore 03-21:extended centerline 2
+Runways:NZAR Ardmore 03-21:extended centerline 2 left base
+Runways:NZAR Ardmore 03-21:extended centerline 2 left ticks
+Runways:NZAR Ardmore 03-21:extended centerline 2 left vectoring
+Runways:NZAR Ardmore 03-21:extended centerline 2 right base
+Runways:NZAR Ardmore 03-21:extended centerline 2 right ticks
+Runways:NZAR Ardmore 03-21:extended centerline 2 right vectoring
+Runways:NZAR Ardmore 03-21:name
+Runways:NZCH Christchurch 02-20:centerline
+Runways:NZCH Christchurch 02-20:extended centerline 1
+Runways:NZCH Christchurch 02-20:extended centerline 1 left base
+Runways:NZCH Christchurch 02-20:extended centerline 1 left ticks
+Runways:NZCH Christchurch 02-20:extended centerline 1 left vectoring
+Runways:NZCH Christchurch 02-20:extended centerline 1 right base
+Runways:NZCH Christchurch 02-20:extended centerline 1 right ticks
+Runways:NZCH Christchurch 02-20:extended centerline 1 right vectoring
+Runways:NZCH Christchurch 02-20:extended centerline 2
+Runways:NZCH Christchurch 02-20:extended centerline 2 left base
+Runways:NZCH Christchurch 02-20:extended centerline 2 left ticks
+Runways:NZCH Christchurch 02-20:extended centerline 2 left vectoring
+Runways:NZCH Christchurch 02-20:extended centerline 2 right base
+Runways:NZCH Christchurch 02-20:extended centerline 2 right ticks
+Runways:NZCH Christchurch 02-20:extended centerline 2 right vectoring
+Runways:NZCH Christchurch 02-20:name
+Runways:NZCH Christchurch 11-29:centerline
+Runways:NZCH Christchurch 11-29:extended centerline 1
+Runways:NZCH Christchurch 11-29:extended centerline 1 left base
+Runways:NZCH Christchurch 11-29:extended centerline 1 left ticks
+Runways:NZCH Christchurch 11-29:extended centerline 1 left vectoring
+Runways:NZCH Christchurch 11-29:extended centerline 1 right base
+Runways:NZCH Christchurch 11-29:extended centerline 1 right ticks
+Runways:NZCH Christchurch 11-29:extended centerline 1 right vectoring
+Runways:NZCH Christchurch 11-29:extended centerline 2
+Runways:NZCH Christchurch 11-29:extended centerline 2 left base
+Runways:NZCH Christchurch 11-29:extended centerline 2 left ticks
+Runways:NZCH Christchurch 11-29:extended centerline 2 left vectoring
+Runways:NZCH Christchurch 11-29:extended centerline 2 right base
+Runways:NZCH Christchurch 11-29:extended centerline 2 right ticks
+Runways:NZCH Christchurch 11-29:extended centerline 2 right vectoring
+Runways:NZCH Christchurch 11-29:name
+Runways:NZDN Dunedin 03-21:centerline
+Runways:NZDN Dunedin 03-21:extended centerline 1
+Runways:NZDN Dunedin 03-21:extended centerline 1 left base
+Runways:NZDN Dunedin 03-21:extended centerline 1 left ticks
+Runways:NZDN Dunedin 03-21:extended centerline 1 left vectoring
+Runways:NZDN Dunedin 03-21:extended centerline 1 right base
+Runways:NZDN Dunedin 03-21:extended centerline 1 right ticks
+Runways:NZDN Dunedin 03-21:extended centerline 1 right vectoring
+Runways:NZDN Dunedin 03-21:extended centerline 2
+Runways:NZDN Dunedin 03-21:extended centerline 2 left base
+Runways:NZDN Dunedin 03-21:extended centerline 2 left ticks
+Runways:NZDN Dunedin 03-21:extended centerline 2 left vectoring
+Runways:NZDN Dunedin 03-21:extended centerline 2 right base
+Runways:NZDN Dunedin 03-21:extended centerline 2 right ticks
+Runways:NZDN Dunedin 03-21:extended centerline 2 right vectoring
+Runways:NZDN Dunedin 03-21:name
+Runways:NZGM Greymouth 01-19:centerline
+Runways:NZGM Greymouth 01-19:extended centerline 1
+Runways:NZGM Greymouth 01-19:extended centerline 1 left base
+Runways:NZGM Greymouth 01-19:extended centerline 1 left ticks
+Runways:NZGM Greymouth 01-19:extended centerline 1 left vectoring
+Runways:NZGM Greymouth 01-19:extended centerline 1 right base
+Runways:NZGM Greymouth 01-19:extended centerline 1 right ticks
+Runways:NZGM Greymouth 01-19:extended centerline 1 right vectoring
+Runways:NZGM Greymouth 01-19:extended centerline 2
+Runways:NZGM Greymouth 01-19:extended centerline 2 left base
+Runways:NZGM Greymouth 01-19:extended centerline 2 left ticks
+Runways:NZGM Greymouth 01-19:extended centerline 2 left vectoring
+Runways:NZGM Greymouth 01-19:extended centerline 2 right base
+Runways:NZGM Greymouth 01-19:extended centerline 2 right ticks
+Runways:NZGM Greymouth 01-19:extended centerline 2 right vectoring
+Runways:NZGM Greymouth 01-19:name
+Runways:NZGS Gisborne 14-32:centerline
+Runways:NZGS Gisborne 14-32:extended centerline 1
+Runways:NZGS Gisborne 14-32:extended centerline 1 left base
+Runways:NZGS Gisborne 14-32:extended centerline 1 left ticks
+Runways:NZGS Gisborne 14-32:extended centerline 1 left vectoring
+Runways:NZGS Gisborne 14-32:extended centerline 1 right base
+Runways:NZGS Gisborne 14-32:extended centerline 1 right ticks
+Runways:NZGS Gisborne 14-32:extended centerline 1 right vectoring
+Runways:NZGS Gisborne 14-32:extended centerline 2
+Runways:NZGS Gisborne 14-32:extended centerline 2 left base
+Runways:NZGS Gisborne 14-32:extended centerline 2 left ticks
+Runways:NZGS Gisborne 14-32:extended centerline 2 left vectoring
+Runways:NZGS Gisborne 14-32:extended centerline 2 right base
+Runways:NZGS Gisborne 14-32:extended centerline 2 right ticks
+Runways:NZGS Gisborne 14-32:extended centerline 2 right vectoring
+Runways:NZGS Gisborne 14-32:name
+Runways:NZGT Glentanner 15-33:centerline
+Runways:NZGT Glentanner 15-33:extended centerline 1
+Runways:NZGT Glentanner 15-33:extended centerline 1 left base
+Runways:NZGT Glentanner 15-33:extended centerline 1 left ticks
+Runways:NZGT Glentanner 15-33:extended centerline 1 left vectoring
+Runways:NZGT Glentanner 15-33:extended centerline 1 right base
+Runways:NZGT Glentanner 15-33:extended centerline 1 right ticks
+Runways:NZGT Glentanner 15-33:extended centerline 1 right vectoring
+Runways:NZGT Glentanner 15-33:extended centerline 2
+Runways:NZGT Glentanner 15-33:extended centerline 2 left base
+Runways:NZGT Glentanner 15-33:extended centerline 2 left ticks
+Runways:NZGT Glentanner 15-33:extended centerline 2 left vectoring
+Runways:NZGT Glentanner 15-33:extended centerline 2 right base
+Runways:NZGT Glentanner 15-33:extended centerline 2 right ticks
+Runways:NZGT Glentanner 15-33:extended centerline 2 right vectoring
+Runways:NZGT Glentanner 15-33:name
+Runways:NZHK Hokitika 04-22:centerline
+Runways:NZHK Hokitika 04-22:extended centerline 1
+Runways:NZHK Hokitika 04-22:extended centerline 1 left base
+Runways:NZHK Hokitika 04-22:extended centerline 1 left ticks
+Runways:NZHK Hokitika 04-22:extended centerline 1 left vectoring
+Runways:NZHK Hokitika 04-22:extended centerline 1 right base
+Runways:NZHK Hokitika 04-22:extended centerline 1 right ticks
+Runways:NZHK Hokitika 04-22:extended centerline 1 right vectoring
+Runways:NZHK Hokitika 04-22:extended centerline 2
+Runways:NZHK Hokitika 04-22:extended centerline 2 left base
+Runways:NZHK Hokitika 04-22:extended centerline 2 left ticks
+Runways:NZHK Hokitika 04-22:extended centerline 2 left vectoring
+Runways:NZHK Hokitika 04-22:extended centerline 2 right base
+Runways:NZHK Hokitika 04-22:extended centerline 2 right ticks
+Runways:NZHK Hokitika 04-22:extended centerline 2 right vectoring
+Runways:NZHK Hokitika 04-22:name
+Runways:NZHN Hamilton 18L-36R:centerline
+Runways:NZHN Hamilton 18L-36R:extended centerline 1
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 left base
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 left ticks
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 left vectoring
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 right base
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 right ticks
+Runways:NZHN Hamilton 18L-36R:extended centerline 1 right vectoring
+Runways:NZHN Hamilton 18L-36R:extended centerline 2
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 left base
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 left ticks
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 left vectoring
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 right base
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 right ticks
+Runways:NZHN Hamilton 18L-36R:extended centerline 2 right vectoring
+Runways:NZHN Hamilton 18L-36R:name
+Runways:NZKK Kerikeri 15-33:centerline
+Runways:NZKK Kerikeri 15-33:extended centerline 1
+Runways:NZKK Kerikeri 15-33:extended centerline 1 left base
+Runways:NZKK Kerikeri 15-33:extended centerline 1 left ticks
+Runways:NZKK Kerikeri 15-33:extended centerline 1 left vectoring
+Runways:NZKK Kerikeri 15-33:extended centerline 1 right base
+Runways:NZKK Kerikeri 15-33:extended centerline 1 right ticks
+Runways:NZKK Kerikeri 15-33:extended centerline 1 right vectoring
+Runways:NZKK Kerikeri 15-33:extended centerline 2
+Runways:NZKK Kerikeri 15-33:extended centerline 2 left base
+Runways:NZKK Kerikeri 15-33:extended centerline 2 left ticks
+Runways:NZKK Kerikeri 15-33:extended centerline 2 left vectoring
+Runways:NZKK Kerikeri 15-33:extended centerline 2 right base
+Runways:NZKK Kerikeri 15-33:extended centerline 2 right ticks
+Runways:NZKK Kerikeri 15-33:extended centerline 2 right vectoring
+Runways:NZKK Kerikeri 15-33:name
+Runways:NZKT Kaitaia 12-30:centerline
+Runways:NZKT Kaitaia 12-30:extended centerline 1
+Runways:NZKT Kaitaia 12-30:extended centerline 1 left base
+Runways:NZKT Kaitaia 12-30:extended centerline 1 left ticks
+Runways:NZKT Kaitaia 12-30:extended centerline 1 left vectoring
+Runways:NZKT Kaitaia 12-30:extended centerline 1 right base
+Runways:NZKT Kaitaia 12-30:extended centerline 1 right ticks
+Runways:NZKT Kaitaia 12-30:extended centerline 1 right vectoring
+Runways:NZKT Kaitaia 12-30:extended centerline 2
+Runways:NZKT Kaitaia 12-30:extended centerline 2 left base
+Runways:NZKT Kaitaia 12-30:extended centerline 2 left ticks
+Runways:NZKT Kaitaia 12-30:extended centerline 2 left vectoring
+Runways:NZKT Kaitaia 12-30:extended centerline 2 right base
+Runways:NZKT Kaitaia 12-30:extended centerline 2 right ticks
+Runways:NZKT Kaitaia 12-30:extended centerline 2 right vectoring
+Runways:NZKT Kaitaia 12-30:name
+Runways:NZLX Alexandra 14-32:centerline
+Runways:NZLX Alexandra 14-32:extended centerline 1
+Runways:NZLX Alexandra 14-32:extended centerline 1 left base
+Runways:NZLX Alexandra 14-32:extended centerline 1 left ticks
+Runways:NZLX Alexandra 14-32:extended centerline 1 left vectoring
+Runways:NZLX Alexandra 14-32:extended centerline 1 right base
+Runways:NZLX Alexandra 14-32:extended centerline 1 right ticks
+Runways:NZLX Alexandra 14-32:extended centerline 1 right vectoring
+Runways:NZLX Alexandra 14-32:extended centerline 2
+Runways:NZLX Alexandra 14-32:extended centerline 2 left base
+Runways:NZLX Alexandra 14-32:extended centerline 2 left ticks
+Runways:NZLX Alexandra 14-32:extended centerline 2 left vectoring
+Runways:NZLX Alexandra 14-32:extended centerline 2 right base
+Runways:NZLX Alexandra 14-32:extended centerline 2 right ticks
+Runways:NZLX Alexandra 14-32:extended centerline 2 right vectoring
+Runways:NZLX Alexandra 14-32:name
+Runways:NZMC Mount Cook 13-31:centerline
+Runways:NZMC Mount Cook 13-31:extended centerline 1
+Runways:NZMC Mount Cook 13-31:extended centerline 1 left base
+Runways:NZMC Mount Cook 13-31:extended centerline 1 left ticks
+Runways:NZMC Mount Cook 13-31:extended centerline 1 left vectoring
+Runways:NZMC Mount Cook 13-31:extended centerline 1 right base
+Runways:NZMC Mount Cook 13-31:extended centerline 1 right ticks
+Runways:NZMC Mount Cook 13-31:extended centerline 1 right vectoring
+Runways:NZMC Mount Cook 13-31:extended centerline 2
+Runways:NZMC Mount Cook 13-31:extended centerline 2 left base
+Runways:NZMC Mount Cook 13-31:extended centerline 2 left ticks
+Runways:NZMC Mount Cook 13-31:extended centerline 2 left vectoring
+Runways:NZMC Mount Cook 13-31:extended centerline 2 right base
+Runways:NZMC Mount Cook 13-31:extended centerline 2 right ticks
+Runways:NZMC Mount Cook 13-31:extended centerline 2 right vectoring
+Runways:NZMC Mount Cook 13-31:name
+Runways:NZMF Milford Sound 11-29:centerline
+Runways:NZMF Milford Sound 11-29:extended centerline 1
+Runways:NZMF Milford Sound 11-29:extended centerline 1 left base
+Runways:NZMF Milford Sound 11-29:extended centerline 1 left ticks
+Runways:NZMF Milford Sound 11-29:extended centerline 1 left vectoring
+Runways:NZMF Milford Sound 11-29:extended centerline 1 right base
+Runways:NZMF Milford Sound 11-29:extended centerline 1 right ticks
+Runways:NZMF Milford Sound 11-29:extended centerline 1 right vectoring
+Runways:NZMF Milford Sound 11-29:extended centerline 2
+Runways:NZMF Milford Sound 11-29:extended centerline 2 left base
+Runways:NZMF Milford Sound 11-29:extended centerline 2 left ticks
+Runways:NZMF Milford Sound 11-29:extended centerline 2 left vectoring
+Runways:NZMF Milford Sound 11-29:extended centerline 2 right base
+Runways:NZMF Milford Sound 11-29:extended centerline 2 right ticks
+Runways:NZMF Milford Sound 11-29:extended centerline 2 right vectoring
+Runways:NZMF Milford Sound 11-29:name
+Runways:NZMO Manapouri 08-26:centerline
+Runways:NZMO Manapouri 08-26:extended centerline 1
+Runways:NZMO Manapouri 08-26:extended centerline 1 left base
+Runways:NZMO Manapouri 08-26:extended centerline 1 left ticks
+Runways:NZMO Manapouri 08-26:extended centerline 1 left vectoring
+Runways:NZMO Manapouri 08-26:extended centerline 1 right base
+Runways:NZMO Manapouri 08-26:extended centerline 1 right ticks
+Runways:NZMO Manapouri 08-26:extended centerline 1 right vectoring
+Runways:NZMO Manapouri 08-26:extended centerline 2
+Runways:NZMO Manapouri 08-26:extended centerline 2 left base
+Runways:NZMO Manapouri 08-26:extended centerline 2 left ticks
+Runways:NZMO Manapouri 08-26:extended centerline 2 left vectoring
+Runways:NZMO Manapouri 08-26:extended centerline 2 right base
+Runways:NZMO Manapouri 08-26:extended centerline 2 right ticks
+Runways:NZMO Manapouri 08-26:extended centerline 2 right vectoring
+Runways:NZMO Manapouri 08-26:name
+Runways:NZMS Masterton 06-24:centerline
+Runways:NZMS Masterton 06-24:extended centerline 1
+Runways:NZMS Masterton 06-24:extended centerline 1 left base
+Runways:NZMS Masterton 06-24:extended centerline 1 left ticks
+Runways:NZMS Masterton 06-24:extended centerline 1 left vectoring
+Runways:NZMS Masterton 06-24:extended centerline 1 right base
+Runways:NZMS Masterton 06-24:extended centerline 1 right ticks
+Runways:NZMS Masterton 06-24:extended centerline 1 right vectoring
+Runways:NZMS Masterton 06-24:extended centerline 2
+Runways:NZMS Masterton 06-24:extended centerline 2 left base
+Runways:NZMS Masterton 06-24:extended centerline 2 left ticks
+Runways:NZMS Masterton 06-24:extended centerline 2 left vectoring
+Runways:NZMS Masterton 06-24:extended centerline 2 right base
+Runways:NZMS Masterton 06-24:extended centerline 2 right ticks
+Runways:NZMS Masterton 06-24:extended centerline 2 right vectoring
+Runways:NZMS Masterton 06-24:name
+Runways:NZNE Northshore 03-21:centerline
+Runways:NZNE Northshore 03-21:extended centerline 1
+Runways:NZNE Northshore 03-21:extended centerline 1 left base
+Runways:NZNE Northshore 03-21:extended centerline 1 left ticks
+Runways:NZNE Northshore 03-21:extended centerline 1 left vectoring
+Runways:NZNE Northshore 03-21:extended centerline 1 right base
+Runways:NZNE Northshore 03-21:extended centerline 1 right ticks
+Runways:NZNE Northshore 03-21:extended centerline 1 right vectoring
+Runways:NZNE Northshore 03-21:extended centerline 2
+Runways:NZNE Northshore 03-21:extended centerline 2 left base
+Runways:NZNE Northshore 03-21:extended centerline 2 left ticks
+Runways:NZNE Northshore 03-21:extended centerline 2 left vectoring
+Runways:NZNE Northshore 03-21:extended centerline 2 right base
+Runways:NZNE Northshore 03-21:extended centerline 2 right ticks
+Runways:NZNE Northshore 03-21:extended centerline 2 right vectoring
+Runways:NZNE Northshore 03-21:name
+Runways:NZNP New Plymouth 05-23:centerline
+Runways:NZNP New Plymouth 05-23:extended centerline 1
+Runways:NZNP New Plymouth 05-23:extended centerline 1 left base
+Runways:NZNP New Plymouth 05-23:extended centerline 1 left ticks
+Runways:NZNP New Plymouth 05-23:extended centerline 1 left vectoring
+Runways:NZNP New Plymouth 05-23:extended centerline 1 right base
+Runways:NZNP New Plymouth 05-23:extended centerline 1 right ticks
+Runways:NZNP New Plymouth 05-23:extended centerline 1 right vectoring
+Runways:NZNP New Plymouth 05-23:extended centerline 2
+Runways:NZNP New Plymouth 05-23:extended centerline 2 left base
+Runways:NZNP New Plymouth 05-23:extended centerline 2 left ticks
+Runways:NZNP New Plymouth 05-23:extended centerline 2 left vectoring
+Runways:NZNP New Plymouth 05-23:extended centerline 2 right base
+Runways:NZNP New Plymouth 05-23:extended centerline 2 right ticks
+Runways:NZNP New Plymouth 05-23:extended centerline 2 right vectoring
+Runways:NZNP New Plymouth 05-23:name
+Runways:NZNR Napier 16-34:centerline
+Runways:NZNR Napier 16-34:extended centerline 1
+Runways:NZNR Napier 16-34:extended centerline 1 left base
+Runways:NZNR Napier 16-34:extended centerline 1 left ticks
+Runways:NZNR Napier 16-34:extended centerline 1 left vectoring
+Runways:NZNR Napier 16-34:extended centerline 1 right base
+Runways:NZNR Napier 16-34:extended centerline 1 right ticks
+Runways:NZNR Napier 16-34:extended centerline 1 right vectoring
+Runways:NZNR Napier 16-34:extended centerline 2
+Runways:NZNR Napier 16-34:extended centerline 2 left base
+Runways:NZNR Napier 16-34:extended centerline 2 left ticks
+Runways:NZNR Napier 16-34:extended centerline 2 left vectoring
+Runways:NZNR Napier 16-34:extended centerline 2 right base
+Runways:NZNR Napier 16-34:extended centerline 2 right ticks
+Runways:NZNR Napier 16-34:extended centerline 2 right vectoring
+Runways:NZNR Napier 16-34:name
+Runways:NZNS Nelson 02-20:centerline
+Runways:NZNS Nelson 02-20:extended centerline 1
+Runways:NZNS Nelson 02-20:extended centerline 1 left base
+Runways:NZNS Nelson 02-20:extended centerline 1 left ticks
+Runways:NZNS Nelson 02-20:extended centerline 1 left vectoring
+Runways:NZNS Nelson 02-20:extended centerline 1 right base
+Runways:NZNS Nelson 02-20:extended centerline 1 right ticks
+Runways:NZNS Nelson 02-20:extended centerline 1 right vectoring
+Runways:NZNS Nelson 02-20:extended centerline 2
+Runways:NZNS Nelson 02-20:extended centerline 2 left base
+Runways:NZNS Nelson 02-20:extended centerline 2 left ticks
+Runways:NZNS Nelson 02-20:extended centerline 2 left vectoring
+Runways:NZNS Nelson 02-20:extended centerline 2 right base
+Runways:NZNS Nelson 02-20:extended centerline 2 right ticks
+Runways:NZNS Nelson 02-20:extended centerline 2 right vectoring
+Runways:NZNS Nelson 02-20:name
+Runways:NZNV Invercargill 04-22:centerline
+Runways:NZNV Invercargill 04-22:extended centerline 1
+Runways:NZNV Invercargill 04-22:extended centerline 1 left base
+Runways:NZNV Invercargill 04-22:extended centerline 1 left ticks
+Runways:NZNV Invercargill 04-22:extended centerline 1 left vectoring
+Runways:NZNV Invercargill 04-22:extended centerline 1 right base
+Runways:NZNV Invercargill 04-22:extended centerline 1 right ticks
+Runways:NZNV Invercargill 04-22:extended centerline 1 right vectoring
+Runways:NZNV Invercargill 04-22:extended centerline 2
+Runways:NZNV Invercargill 04-22:extended centerline 2 left base
+Runways:NZNV Invercargill 04-22:extended centerline 2 left ticks
+Runways:NZNV Invercargill 04-22:extended centerline 2 left vectoring
+Runways:NZNV Invercargill 04-22:extended centerline 2 right base
+Runways:NZNV Invercargill 04-22:extended centerline 2 right ticks
+Runways:NZNV Invercargill 04-22:extended centerline 2 right vectoring
+Runways:NZNV Invercargill 04-22:name
+Runways:NZOH Ohakea 09-27:centerline
+Runways:NZOH Ohakea 09-27:extended centerline 1
+Runways:NZOH Ohakea 09-27:extended centerline 1 left base
+Runways:NZOH Ohakea 09-27:extended centerline 1 left ticks
+Runways:NZOH Ohakea 09-27:extended centerline 1 left vectoring
+Runways:NZOH Ohakea 09-27:extended centerline 1 right base
+Runways:NZOH Ohakea 09-27:extended centerline 1 right ticks
+Runways:NZOH Ohakea 09-27:extended centerline 1 right vectoring
+Runways:NZOH Ohakea 09-27:extended centerline 2
+Runways:NZOH Ohakea 09-27:extended centerline 2 left base
+Runways:NZOH Ohakea 09-27:extended centerline 2 left ticks
+Runways:NZOH Ohakea 09-27:extended centerline 2 left vectoring
+Runways:NZOH Ohakea 09-27:extended centerline 2 right base
+Runways:NZOH Ohakea 09-27:extended centerline 2 right ticks
+Runways:NZOH Ohakea 09-27:extended centerline 2 right vectoring
+Runways:NZOH Ohakea 09-27:name
+Runways:NZOH Ohakea 15-33:centerline
+Runways:NZOH Ohakea 15-33:extended centerline 1
+Runways:NZOH Ohakea 15-33:extended centerline 1 left base
+Runways:NZOH Ohakea 15-33:extended centerline 1 left ticks
+Runways:NZOH Ohakea 15-33:extended centerline 1 left vectoring
+Runways:NZOH Ohakea 15-33:extended centerline 1 right base
+Runways:NZOH Ohakea 15-33:extended centerline 1 right ticks
+Runways:NZOH Ohakea 15-33:extended centerline 1 right vectoring
+Runways:NZOH Ohakea 15-33:extended centerline 2
+Runways:NZOH Ohakea 15-33:extended centerline 2 left base
+Runways:NZOH Ohakea 15-33:extended centerline 2 left ticks
+Runways:NZOH Ohakea 15-33:extended centerline 2 left vectoring
+Runways:NZOH Ohakea 15-33:extended centerline 2 right base
+Runways:NZOH Ohakea 15-33:extended centerline 2 right ticks
+Runways:NZOH Ohakea 15-33:extended centerline 2 right vectoring
+Runways:NZOH Ohakea 15-33:name
+Runways:NZOU Oamaru 18-36:centerline
+Runways:NZOU Oamaru 18-36:extended centerline 1
+Runways:NZOU Oamaru 18-36:extended centerline 1 left base
+Runways:NZOU Oamaru 18-36:extended centerline 1 left ticks
+Runways:NZOU Oamaru 18-36:extended centerline 1 left vectoring
+Runways:NZOU Oamaru 18-36:extended centerline 1 right base
+Runways:NZOU Oamaru 18-36:extended centerline 1 right ticks
+Runways:NZOU Oamaru 18-36:extended centerline 1 right vectoring
+Runways:NZOU Oamaru 18-36:extended centerline 2
+Runways:NZOU Oamaru 18-36:extended centerline 2 left base
+Runways:NZOU Oamaru 18-36:extended centerline 2 left ticks
+Runways:NZOU Oamaru 18-36:extended centerline 2 left vectoring
+Runways:NZOU Oamaru 18-36:extended centerline 2 right base
+Runways:NZOU Oamaru 18-36:extended centerline 2 right ticks
+Runways:NZOU Oamaru 18-36:extended centerline 2 right vectoring
+Runways:NZOU Oamaru 18-36:name
+Runways:NZPM Palmerston North 07-25:centerline
+Runways:NZPM Palmerston North 07-25:extended centerline 1
+Runways:NZPM Palmerston North 07-25:extended centerline 1 left base
+Runways:NZPM Palmerston North 07-25:extended centerline 1 left ticks
+Runways:NZPM Palmerston North 07-25:extended centerline 1 left vectoring
+Runways:NZPM Palmerston North 07-25:extended centerline 1 right base
+Runways:NZPM Palmerston North 07-25:extended centerline 1 right ticks
+Runways:NZPM Palmerston North 07-25:extended centerline 1 right vectoring
+Runways:NZPM Palmerston North 07-25:extended centerline 2
+Runways:NZPM Palmerston North 07-25:extended centerline 2 left base
+Runways:NZPM Palmerston North 07-25:extended centerline 2 left ticks
+Runways:NZPM Palmerston North 07-25:extended centerline 2 left vectoring
+Runways:NZPM Palmerston North 07-25:extended centerline 2 right base
+Runways:NZPM Palmerston North 07-25:extended centerline 2 right ticks
+Runways:NZPM Palmerston North 07-25:extended centerline 2 right vectoring
+Runways:NZPM Palmerston North 07-25:name
+Runways:NZPP Paraparaumu 16-34:centerline
+Runways:NZPP Paraparaumu 16-34:extended centerline 1
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 left base
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 left ticks
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 left vectoring
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 right base
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 right ticks
+Runways:NZPP Paraparaumu 16-34:extended centerline 1 right vectoring
+Runways:NZPP Paraparaumu 16-34:extended centerline 2
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 left base
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 left ticks
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 left vectoring
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 right base
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 right ticks
+Runways:NZPP Paraparaumu 16-34:extended centerline 2 right vectoring
+Runways:NZPP Paraparaumu 16-34:name
+Runways:NZQN Queenstown 05-23:centerline
+Runways:NZQN Queenstown 05-23:extended centerline 1
+Runways:NZQN Queenstown 05-23:extended centerline 1 left base
+Runways:NZQN Queenstown 05-23:extended centerline 1 left ticks
+Runways:NZQN Queenstown 05-23:extended centerline 1 left vectoring
+Runways:NZQN Queenstown 05-23:extended centerline 1 right base
+Runways:NZQN Queenstown 05-23:extended centerline 1 right ticks
+Runways:NZQN Queenstown 05-23:extended centerline 1 right vectoring
+Runways:NZQN Queenstown 05-23:extended centerline 2
+Runways:NZQN Queenstown 05-23:extended centerline 2 left base
+Runways:NZQN Queenstown 05-23:extended centerline 2 left ticks
+Runways:NZQN Queenstown 05-23:extended centerline 2 left vectoring
+Runways:NZQN Queenstown 05-23:extended centerline 2 right base
+Runways:NZQN Queenstown 05-23:extended centerline 2 right ticks
+Runways:NZQN Queenstown 05-23:extended centerline 2 right vectoring
+Runways:NZQN Queenstown 05-23:name
+Runways:NZRC Ryans Creek 22-04:centerline
+Runways:NZRC Ryans Creek 22-04:extended centerline 1
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 left base
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 left ticks
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 left vectoring
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 right base
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 right ticks
+Runways:NZRC Ryans Creek 22-04:extended centerline 1 right vectoring
+Runways:NZRC Ryans Creek 22-04:extended centerline 2
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 left base
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 left ticks
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 left vectoring
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 right base
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 right ticks
+Runways:NZRC Ryans Creek 22-04:extended centerline 2 right vectoring
+Runways:NZRC Ryans Creek 22-04:name
+Runways:NZRO Rotorua 18-36:centerline
+Runways:NZRO Rotorua 18-36:extended centerline 1
+Runways:NZRO Rotorua 18-36:extended centerline 1 left base
+Runways:NZRO Rotorua 18-36:extended centerline 1 left ticks
+Runways:NZRO Rotorua 18-36:extended centerline 1 left vectoring
+Runways:NZRO Rotorua 18-36:extended centerline 1 right base
+Runways:NZRO Rotorua 18-36:extended centerline 1 right ticks
+Runways:NZRO Rotorua 18-36:extended centerline 1 right vectoring
+Runways:NZRO Rotorua 18-36:extended centerline 2
+Runways:NZRO Rotorua 18-36:extended centerline 2 left base
+Runways:NZRO Rotorua 18-36:extended centerline 2 left ticks
+Runways:NZRO Rotorua 18-36:extended centerline 2 left vectoring
+Runways:NZRO Rotorua 18-36:extended centerline 2 right base
+Runways:NZRO Rotorua 18-36:extended centerline 2 right ticks
+Runways:NZRO Rotorua 18-36:extended centerline 2 right vectoring
+Runways:NZRO Rotorua 18-36:name
+Runways:NZRU Waiouru 13-31:centerline
+Runways:NZRU Waiouru 13-31:extended centerline 1
+Runways:NZRU Waiouru 13-31:extended centerline 1 left base
+Runways:NZRU Waiouru 13-31:extended centerline 1 left ticks
+Runways:NZRU Waiouru 13-31:extended centerline 1 left vectoring
+Runways:NZRU Waiouru 13-31:extended centerline 1 right base
+Runways:NZRU Waiouru 13-31:extended centerline 1 right ticks
+Runways:NZRU Waiouru 13-31:extended centerline 1 right vectoring
+Runways:NZRU Waiouru 13-31:extended centerline 2
+Runways:NZRU Waiouru 13-31:extended centerline 2 left base
+Runways:NZRU Waiouru 13-31:extended centerline 2 left ticks
+Runways:NZRU Waiouru 13-31:extended centerline 2 left vectoring
+Runways:NZRU Waiouru 13-31:extended centerline 2 right base
+Runways:NZRU Waiouru 13-31:extended centerline 2 right ticks
+Runways:NZRU Waiouru 13-31:extended centerline 2 right vectoring
+Runways:NZRU Waiouru 13-31:name
+Runways:NZTG Tauranga 07-25:centerline
+Runways:NZTG Tauranga 07-25:extended centerline 1
+Runways:NZTG Tauranga 07-25:extended centerline 1 left base
+Runways:NZTG Tauranga 07-25:extended centerline 1 left ticks
+Runways:NZTG Tauranga 07-25:extended centerline 1 left vectoring
+Runways:NZTG Tauranga 07-25:extended centerline 1 right base
+Runways:NZTG Tauranga 07-25:extended centerline 1 right ticks
+Runways:NZTG Tauranga 07-25:extended centerline 1 right vectoring
+Runways:NZTG Tauranga 07-25:extended centerline 2
+Runways:NZTG Tauranga 07-25:extended centerline 2 left base
+Runways:NZTG Tauranga 07-25:extended centerline 2 left ticks
+Runways:NZTG Tauranga 07-25:extended centerline 2 left vectoring
+Runways:NZTG Tauranga 07-25:extended centerline 2 right base
+Runways:NZTG Tauranga 07-25:extended centerline 2 right ticks
+Runways:NZTG Tauranga 07-25:extended centerline 2 right vectoring
+Runways:NZTG Tauranga 07-25:name
+Runways:NZTU Timaru 20-02:centerline
+Runways:NZTU Timaru 20-02:extended centerline 1
+Runways:NZTU Timaru 20-02:extended centerline 1 left base
+Runways:NZTU Timaru 20-02:extended centerline 1 left ticks
+Runways:NZTU Timaru 20-02:extended centerline 1 left vectoring
+Runways:NZTU Timaru 20-02:extended centerline 1 right base
+Runways:NZTU Timaru 20-02:extended centerline 1 right ticks
+Runways:NZTU Timaru 20-02:extended centerline 1 right vectoring
+Runways:NZTU Timaru 20-02:extended centerline 2
+Runways:NZTU Timaru 20-02:extended centerline 2 left base
+Runways:NZTU Timaru 20-02:extended centerline 2 left ticks
+Runways:NZTU Timaru 20-02:extended centerline 2 left vectoring
+Runways:NZTU Timaru 20-02:extended centerline 2 right base
+Runways:NZTU Timaru 20-02:extended centerline 2 right ticks
+Runways:NZTU Timaru 20-02:extended centerline 2 right vectoring
+Runways:NZTU Timaru 20-02:name
+Runways:NZUK Pukaki 15-33:centerline
+Runways:NZUK Pukaki 15-33:extended centerline 1
+Runways:NZUK Pukaki 15-33:extended centerline 1 left base
+Runways:NZUK Pukaki 15-33:extended centerline 1 left ticks
+Runways:NZUK Pukaki 15-33:extended centerline 1 left vectoring
+Runways:NZUK Pukaki 15-33:extended centerline 1 right base
+Runways:NZUK Pukaki 15-33:extended centerline 1 right ticks
+Runways:NZUK Pukaki 15-33:extended centerline 1 right vectoring
+Runways:NZUK Pukaki 15-33:extended centerline 2
+Runways:NZUK Pukaki 15-33:extended centerline 2 left base
+Runways:NZUK Pukaki 15-33:extended centerline 2 left ticks
+Runways:NZUK Pukaki 15-33:extended centerline 2 left vectoring
+Runways:NZUK Pukaki 15-33:extended centerline 2 right base
+Runways:NZUK Pukaki 15-33:extended centerline 2 right ticks
+Runways:NZUK Pukaki 15-33:extended centerline 2 right vectoring
+Runways:NZUK Pukaki 15-33:name
+Runways:NZWB Woodbourne 06-24:centerline
+Runways:NZWB Woodbourne 06-24:extended centerline 1
+Runways:NZWB Woodbourne 06-24:extended centerline 1 left base
+Runways:NZWB Woodbourne 06-24:extended centerline 1 left ticks
+Runways:NZWB Woodbourne 06-24:extended centerline 1 left vectoring
+Runways:NZWB Woodbourne 06-24:extended centerline 1 right base
+Runways:NZWB Woodbourne 06-24:extended centerline 1 right ticks
+Runways:NZWB Woodbourne 06-24:extended centerline 1 right vectoring
+Runways:NZWB Woodbourne 06-24:extended centerline 2
+Runways:NZWB Woodbourne 06-24:extended centerline 2 left base
+Runways:NZWB Woodbourne 06-24:extended centerline 2 left ticks
+Runways:NZWB Woodbourne 06-24:extended centerline 2 left vectoring
+Runways:NZWB Woodbourne 06-24:extended centerline 2 right base
+Runways:NZWB Woodbourne 06-24:extended centerline 2 right ticks
+Runways:NZWB Woodbourne 06-24:extended centerline 2 right vectoring
+Runways:NZWB Woodbourne 06-24:name
+Runways:NZWF Wanaka 11-29:centerline
+Runways:NZWF Wanaka 11-29:extended centerline 1
+Runways:NZWF Wanaka 11-29:extended centerline 1 left base
+Runways:NZWF Wanaka 11-29:extended centerline 1 left ticks
+Runways:NZWF Wanaka 11-29:extended centerline 1 left vectoring
+Runways:NZWF Wanaka 11-29:extended centerline 1 right base
+Runways:NZWF Wanaka 11-29:extended centerline 1 right ticks
+Runways:NZWF Wanaka 11-29:extended centerline 1 right vectoring
+Runways:NZWF Wanaka 11-29:extended centerline 2
+Runways:NZWF Wanaka 11-29:extended centerline 2 left base
+Runways:NZWF Wanaka 11-29:extended centerline 2 left ticks
+Runways:NZWF Wanaka 11-29:extended centerline 2 left vectoring
+Runways:NZWF Wanaka 11-29:extended centerline 2 right base
+Runways:NZWF Wanaka 11-29:extended centerline 2 right ticks
+Runways:NZWF Wanaka 11-29:extended centerline 2 right vectoring
+Runways:NZWF Wanaka 11-29:name
+Runways:NZWK Whakatane 09-27:centerline
+Runways:NZWK Whakatane 09-27:extended centerline 1
+Runways:NZWK Whakatane 09-27:extended centerline 1 left base
+Runways:NZWK Whakatane 09-27:extended centerline 1 left ticks
+Runways:NZWK Whakatane 09-27:extended centerline 1 left vectoring
+Runways:NZWK Whakatane 09-27:extended centerline 1 right base
+Runways:NZWK Whakatane 09-27:extended centerline 1 right ticks
+Runways:NZWK Whakatane 09-27:extended centerline 1 right vectoring
+Runways:NZWK Whakatane 09-27:extended centerline 2
+Runways:NZWK Whakatane 09-27:extended centerline 2 left base
+Runways:NZWK Whakatane 09-27:extended centerline 2 left ticks
+Runways:NZWK Whakatane 09-27:extended centerline 2 left vectoring
+Runways:NZWK Whakatane 09-27:extended centerline 2 right base
+Runways:NZWK Whakatane 09-27:extended centerline 2 right ticks
+Runways:NZWK Whakatane 09-27:extended centerline 2 right vectoring
+Runways:NZWK Whakatane 09-27:name
+Runways:NZWN Wellington 16-34:centerline
+Runways:NZWN Wellington 16-34:extended centerline 1
+Runways:NZWN Wellington 16-34:extended centerline 1 left base
+Runways:NZWN Wellington 16-34:extended centerline 1 left ticks
+Runways:NZWN Wellington 16-34:extended centerline 1 left vectoring
+Runways:NZWN Wellington 16-34:extended centerline 1 right base
+Runways:NZWN Wellington 16-34:extended centerline 1 right ticks
+Runways:NZWN Wellington 16-34:extended centerline 1 right vectoring
+Runways:NZWN Wellington 16-34:extended centerline 2
+Runways:NZWN Wellington 16-34:extended centerline 2 left base
+Runways:NZWN Wellington 16-34:extended centerline 2 left ticks
+Runways:NZWN Wellington 16-34:extended centerline 2 left vectoring
+Runways:NZWN Wellington 16-34:extended centerline 2 right base
+Runways:NZWN Wellington 16-34:extended centerline 2 right ticks
+Runways:NZWN Wellington 16-34:extended centerline 2 right vectoring
+Runways:NZWN Wellington 16-34:name
+Runways:NZWO Wairoa 16-34:centerline
+Runways:NZWO Wairoa 16-34:extended centerline 1
+Runways:NZWO Wairoa 16-34:extended centerline 1 left base
+Runways:NZWO Wairoa 16-34:extended centerline 1 left ticks
+Runways:NZWO Wairoa 16-34:extended centerline 1 left vectoring
+Runways:NZWO Wairoa 16-34:extended centerline 1 right base
+Runways:NZWO Wairoa 16-34:extended centerline 1 right ticks
+Runways:NZWO Wairoa 16-34:extended centerline 1 right vectoring
+Runways:NZWO Wairoa 16-34:extended centerline 2
+Runways:NZWO Wairoa 16-34:extended centerline 2 left base
+Runways:NZWO Wairoa 16-34:extended centerline 2 left ticks
+Runways:NZWO Wairoa 16-34:extended centerline 2 left vectoring
+Runways:NZWO Wairoa 16-34:extended centerline 2 right base
+Runways:NZWO Wairoa 16-34:extended centerline 2 right ticks
+Runways:NZWO Wairoa 16-34:extended centerline 2 right vectoring
+Runways:NZWO Wairoa 16-34:name
+Runways:NZWP Whenuapai 03-21:centerline
+Runways:NZWP Whenuapai 03-21:extended centerline 1
+Runways:NZWP Whenuapai 03-21:extended centerline 1 left base
+Runways:NZWP Whenuapai 03-21:extended centerline 1 left ticks
+Runways:NZWP Whenuapai 03-21:extended centerline 1 left vectoring
+Runways:NZWP Whenuapai 03-21:extended centerline 1 right base
+Runways:NZWP Whenuapai 03-21:extended centerline 1 right ticks
+Runways:NZWP Whenuapai 03-21:extended centerline 1 right vectoring
+Runways:NZWP Whenuapai 03-21:extended centerline 2
+Runways:NZWP Whenuapai 03-21:extended centerline 2 left base
+Runways:NZWP Whenuapai 03-21:extended centerline 2 left ticks
+Runways:NZWP Whenuapai 03-21:extended centerline 2 left vectoring
+Runways:NZWP Whenuapai 03-21:extended centerline 2 right base
+Runways:NZWP Whenuapai 03-21:extended centerline 2 right ticks
+Runways:NZWP Whenuapai 03-21:extended centerline 2 right vectoring
+Runways:NZWP Whenuapai 03-21:name
+Runways:NZWP Whenuapai 08-26:centerline
+Runways:NZWP Whenuapai 08-26:extended centerline 1
+Runways:NZWP Whenuapai 08-26:extended centerline 1 left base
+Runways:NZWP Whenuapai 08-26:extended centerline 1 left ticks
+Runways:NZWP Whenuapai 08-26:extended centerline 1 left vectoring
+Runways:NZWP Whenuapai 08-26:extended centerline 1 right base
+Runways:NZWP Whenuapai 08-26:extended centerline 1 right ticks
+Runways:NZWP Whenuapai 08-26:extended centerline 1 right vectoring
+Runways:NZWP Whenuapai 08-26:extended centerline 2
+Runways:NZWP Whenuapai 08-26:extended centerline 2 left base
+Runways:NZWP Whenuapai 08-26:extended centerline 2 left ticks
+Runways:NZWP Whenuapai 08-26:extended centerline 2 left vectoring
+Runways:NZWP Whenuapai 08-26:extended centerline 2 right base
+Runways:NZWP Whenuapai 08-26:extended centerline 2 right ticks
+Runways:NZWP Whenuapai 08-26:extended centerline 2 right vectoring
+Runways:NZWP Whenuapai 08-26:name
+Runways:NZWR Whangarei 06-24:centerline
+Runways:NZWR Whangarei 06-24:extended centerline 1
+Runways:NZWR Whangarei 06-24:extended centerline 1 left base
+Runways:NZWR Whangarei 06-24:extended centerline 1 left ticks
+Runways:NZWR Whangarei 06-24:extended centerline 1 left vectoring
+Runways:NZWR Whangarei 06-24:extended centerline 1 right base
+Runways:NZWR Whangarei 06-24:extended centerline 1 right ticks
+Runways:NZWR Whangarei 06-24:extended centerline 1 right vectoring
+Runways:NZWR Whangarei 06-24:extended centerline 2
+Runways:NZWR Whangarei 06-24:extended centerline 2 left base
+Runways:NZWR Whangarei 06-24:extended centerline 2 left ticks
+Runways:NZWR Whangarei 06-24:extended centerline 2 left vectoring
+Runways:NZWR Whangarei 06-24:extended centerline 2 right base
+Runways:NZWR Whangarei 06-24:extended centerline 2 right ticks
+Runways:NZWR Whangarei 06-24:extended centerline 2 right vectoring
+Runways:NZWR Whangarei 06-24:name
+Runways:NZWS Westport 04-22:centerline
+Runways:NZWS Westport 04-22:extended centerline 1
+Runways:NZWS Westport 04-22:extended centerline 1 left base
+Runways:NZWS Westport 04-22:extended centerline 1 left ticks
+Runways:NZWS Westport 04-22:extended centerline 1 left vectoring
+Runways:NZWS Westport 04-22:extended centerline 1 right base
+Runways:NZWS Westport 04-22:extended centerline 1 right ticks
+Runways:NZWS Westport 04-22:extended centerline 1 right vectoring
+Runways:NZWS Westport 04-22:extended centerline 2
+Runways:NZWS Westport 04-22:extended centerline 2 left base
+Runways:NZWS Westport 04-22:extended centerline 2 left ticks
+Runways:NZWS Westport 04-22:extended centerline 2 left vectoring
+Runways:NZWS Westport 04-22:extended centerline 2 right base
+Runways:NZWS Westport 04-22:extended centerline 2 right ticks
+Runways:NZWS Westport 04-22:extended centerline 2 right vectoring
+Runways:NZWS Westport 04-22:name
+Runways:NZWU Whanagnui 11-29:centerline
+Runways:NZWU Whanagnui 11-29:extended centerline 1
+Runways:NZWU Whanagnui 11-29:extended centerline 1 left base
+Runways:NZWU Whanagnui 11-29:extended centerline 1 left ticks
+Runways:NZWU Whanagnui 11-29:extended centerline 1 left vectoring
+Runways:NZWU Whanagnui 11-29:extended centerline 1 right base
+Runways:NZWU Whanagnui 11-29:extended centerline 1 right ticks
+Runways:NZWU Whanagnui 11-29:extended centerline 1 right vectoring
+Runways:NZWU Whanagnui 11-29:extended centerline 2
+Runways:NZWU Whanagnui 11-29:extended centerline 2 left base
+Runways:NZWU Whanagnui 11-29:extended centerline 2 left ticks
+Runways:NZWU Whanagnui 11-29:extended centerline 2 left vectoring
+Runways:NZWU Whanagnui 11-29:extended centerline 2 right base
+Runways:NZWU Whanagnui 11-29:extended centerline 2 right ticks
+Runways:NZWU Whanagnui 11-29:extended centerline 2 right vectoring
+Runways:NZWU Whanagnui 11-29:name
+Runways:YSNF 04-22:centerline
+Runways:YSNF 04-22:extended centerline 1
+Runways:YSNF 04-22:extended centerline 1 left base
+Runways:YSNF 04-22:extended centerline 1 left ticks
+Runways:YSNF 04-22:extended centerline 1 left vectoring
+Runways:YSNF 04-22:extended centerline 1 right base
+Runways:YSNF 04-22:extended centerline 1 right ticks
+Runways:YSNF 04-22:extended centerline 1 right vectoring
+Runways:YSNF 04-22:extended centerline 2
+Runways:YSNF 04-22:extended centerline 2 left base
+Runways:YSNF 04-22:extended centerline 2 left ticks
+Runways:YSNF 04-22:extended centerline 2 left vectoring
+Runways:YSNF 04-22:extended centerline 2 right base
+Runways:YSNF 04-22:extended centerline 2 right ticks
+Runways:YSNF 04-22:extended centerline 2 right vectoring
+Runways:YSNF 04-22:name
+Runways:YSNF 11-29:centerline
+Runways:YSNF 11-29:extended centerline 1
+Runways:YSNF 11-29:extended centerline 1 left base
+Runways:YSNF 11-29:extended centerline 1 left ticks
+Runways:YSNF 11-29:extended centerline 1 left vectoring
+Runways:YSNF 11-29:extended centerline 1 right base
+Runways:YSNF 11-29:extended centerline 1 right ticks
+Runways:YSNF 11-29:extended centerline 1 right vectoring
+Runways:YSNF 11-29:extended centerline 2
+Runways:YSNF 11-29:extended centerline 2 left base
+Runways:YSNF 11-29:extended centerline 2 left ticks
+Runways:YSNF 11-29:extended centerline 2 left vectoring
+Runways:YSNF 11-29:extended centerline 2 right base
+Runways:YSNF 11-29:extended centerline 2 right ticks
+Runways:YSNF 11-29:extended centerline 2 right vectoring
+Runways:YSNF 11-29:name
+VORs:AA:frequency
+VORs:AA:name
+VORs:AA:symbol
+VORs:CH:frequency
+VORs:CH:name
+VORs:CH:symbol
+VORs:GS:frequency
+VORs:GS:name
+VORs:GS:symbol
+VORs:HN:frequency
+VORs:HN:name
+VORs:HN:symbol
+VORs:NF:frequency
+VORs:NF:name
+VORs:NF:symbol
+VORs:NP:frequency
+VORs:NP:name
+VORs:NP:symbol
+VORs:NR:frequency
+VORs:NR:name
+VORs:NR:symbol
+VORs:NS:frequency
+VORs:NS:name
+VORs:NS:symbol
+VORs:NV:frequency
+VORs:NV:name
+VORs:NV:symbol
+VORs:OH:frequency
+VORs:OH:name
+VORs:OH:symbol
+VORs:PM:frequency
+VORs:PM:name
+VORs:PM:symbol
+VORs:QN:frequency
+VORs:QN:name
+VORs:QN:symbol
+VORs:RO:frequency
+VORs:RO:name
+VORs:RO:symbol
+VORs:SW:frequency
+VORs:SW:name
+VORs:SW:symbol
+VORs:WB:frequency
+VORs:WB:name
+VORs:WB:symbol
+VORs:WN:frequency
+VORs:WN:name
+VORs:WN:symbol
+VORs:WP:frequency
+VORs:WP:name
+VORs:WP:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.30000
+TAGFAMILY:LM SKYLINE
+WINDOWAREA:-41.367049:168.889975:-35.806280:180.847336

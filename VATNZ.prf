@@ -1,0 +1,36 @@
+Settings	sector	\VATNZ-NZZC_2105.sct2
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\Settings\Voice.txt
+Settings	SettingsfilePROFILE	\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\Lists.txt
+Settings	SettingsfileSEL	\Settings\Lists.txt
+Settings	SettingsfileDEP	\Settings\Lists.txt
+Settings	SettingsfileARR	\Settings\Lists.txt
+Settings	SettingsfileFP	\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\Settings\General.txt
+Settings	Settingsfile	\Settings\General.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\Settings\Lists.txt
+Settings	SettingsfileVCCS	\Settings\VCCS.txt
+RecentFiles	Recent1	\ASR\RADAR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	\ASR\RADAR.asr
+ASRFastKeys	2	\ASR\Auckland GND.asr
+ASRFastKeys	3	\ASR\Christchurch GND.asr
+ASRFastKeys	4	\ASR\Wellington GND.asr
+ASRFastKeys	5	\ASR\Queenstown GND.asr
+ASRFastKeys	6	\ASR\Dunedin GND.asr
+ASRFastKeys	7	\ASR\Generic GND.asr
+ASRFastKeys	8	\ASR\Terrain.asr
+RecentFiles	Recent2	\ASR\Generic GND.asr
+RecentFiles	Recent3	\ASR\Wellington GND.asr
+RecentFiles	Recent4	\ASR\Christchurch GND.asr
+RecentFiles	Recent5	\ASR\Auckland GND.asr
+RecentFiles	Recent6	\ASR\Terrain.asr
+RecentFiles	Recent7	\ASR\Queenstown GND.asr
+RecentFiles	Recent8	\ASR\Dunedin GND.asr
+Settings	AtisFolder	\ATIS\AtisFiles.txt
+Settings	aircraft	\Data\ICAO_Aircraft.txt
+Settings	airways	\Data\AIRWAY.txt

@@ -1,0 +1,145 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:\VATNZ-NZZC_1804.sct2
+SECTORTITLE:VATNZ-NZZC_1804.sct2
+ARTCC low boundary:AA C NZA130 065-095:
+ARTCC low boundary:AA C NZA131 065-600:
+ARTCC low boundary:AA C NZA132 135-600:
+ARTCC low boundary:AA C NZA141 015-095:
+ARTCC low boundary:AA C NZA142 025-095:
+ARTCC low boundary:AA C NZA142_S 025-095:
+ARTCC low boundary:AA C NZA143 035-095:
+ARTCC low boundary:AA C NZA145 045-095:
+ARTCC low boundary:AA C NZA240 035-095:
+ARTCC low boundary:AA C NZA241 045-095:
+ARTCC low boundary:AA C NZA242 065-095:
+ARTCC low boundary:AA C NZA247 065-095:
+ARTCC low boundary:AA D NZA231 065-095:
+ARTCC low boundary:BAY C NZA434 095-600:
+ARTCC low boundary:BAY C NZA435 135-600:
+ARTCC low boundary:BAY D NZA232 065-095:
+ARTCC low boundary:BAY D NZA439 065-095:
+ARTCC low boundary:CH C NZA727 175-600:
+ARTCC low boundary:CH C NZA736 135-600:
+ARTCC low boundary:CH C NZA830 095-600:
+ARTCC low boundary:CH C NZA830_S 095-600:
+ARTCC low boundary:CH C NZA831 135-600:
+ARTCC low boundary:CH C NZA834 075-095:
+ARTCC low boundary:CH C NZA837 115-600:
+ARTCC low boundary:CH C NZA841 015-095:
+ARTCC low boundary:CH C NZA841_S 015-025:
+ARTCC low boundary:CH C NZA844 025-095:
+ARTCC low boundary:CH C NZA845 035-095:
+ARTCC low boundary:CH C NZA847 055-095:
+ARTCC low boundary:CH C NZA849 075-095:
+ARTCC low boundary:CH C NZA930 095-600:
+ARTCC low boundary:CH C NZA931 135-600:
+ARTCC low boundary:CH C NZA932 135-600:
+ARTCC low boundary:CH C NZA933 135-600:
+ARTCC low boundary:CH C NZA934 175-600:
+ARTCC low boundary:CH C NZA947 245-600:
+ARTCC low boundary:CH D NZA321 065-095:
+ARTCC low boundary:CH D NZA632 055-095:
+ARTCC low boundary:CH D NZA728 095-600:
+ARTCC low boundary:CH D NZA833 075-095:
+ARTCC low boundary:DN D NZA936 035-095:
+ARTCC low boundary:DN D NZA937 045-095:
+ARTCC low boundary:DN D NZA938 075-135:
+ARTCC low boundary:GS D NZA430 035-095:
+ARTCC low boundary:GS D NZA431 055-095:
+ARTCC low boundary:GS D NZA432 065-095:
+ARTCC low boundary:HN D NZA239 020-025:
+ARTCC low boundary:HN D NZA248 025-095:
+ARTCC low boundary:HN D NZA249 045-095:
+ARTCC low boundary:NP D NZA320 055-065:
+ARTCC low boundary:NP D NZA331 015-065:
+ARTCC low boundary:NP D NZA334 025-065:
+ARTCC low boundary:NP D NZA341 030-065:
+ARTCC low boundary:NP D NZA344 045-065:
+ARTCC low boundary:NP D NZA345 045-065:
+ARTCC low boundary:NR D NZA440 025-095:
+ARTCC low boundary:NR D NZA441 D 030-095:
+ARTCC low boundary:NR D NZA442 045-095:
+ARTCC low boundary:NR D NZA443 065-095:
+ARTCC low boundary:NR D NZA540 035-095:
+ARTCC low boundary:NR D NZA541 065-095:
+ARTCC low boundary:NS D NZ840 055-095:
+ARTCC low boundary:NS D NZA467 065-095:
+ARTCC low boundary:NS D NZA644 025-095:
+ARTCC low boundary:NS D NZA645 035-095:
+ARTCC low boundary:NS D NZA646 055-095:
+ARTCC low boundary:NS D NZA648 075-095:
+ARTCC low boundary:NS D NZA649 075-095:
+ARTCC low boundary:NS D NZA652 025-095:
+ARTCC low boundary:NS D NZA653 035-095:
+ARTCC low boundary:NS D NZA689 035-055:
+ARTCC low boundary:NV D NZA734 025-095:
+ARTCC low boundary:NV D NZA737 015-095:
+ARTCC low boundary:NV D NZA738 055-095:
+ARTCC low boundary:NV D NZA738 055-095 NV D NZA738 055-095:
+ARTCC low boundary:NV D NZA739 065-095:
+ARTCC low boundary:NV D NZA745 045-095:
+ARTCC low boundary:NV D NZA746 035-095:
+ARTCC low boundary:OH C NZA330 115-600:
+ARTCC low boundary:OH C NZA332 135-600:
+ARTCC low boundary:OH C NZA333 035-095:
+ARTCC low boundary:OH C NZA335 015-095:
+ARTCC low boundary:OH C NZA336 018-095:
+ARTCC low boundary:OH C NZA337 025-095:
+ARTCC low boundary:OH C NZA338 025-095:
+ARTCC low boundary:OH C NZA339 025-095:
+ARTCC low boundary:OH C NZA340 055-095:
+ARTCC low boundary:OH C NZA346 045-095:
+ARTCC low boundary:OH C NZA347 095-600:
+ARTCC low boundary:OH C NZA347_S 095-115:
+ARTCC low boundary:OH D NZA348 065-095:
+ARTCC low boundary:QN C NZA729 135-175:
+ARTCC low boundary:QN C NZA730 095-175:
+ARTCC low boundary:QN C NZA731 075-175:
+ARTCC low boundary:QN C NZA733 065-175:
+ARTCC low boundary:QN C NZA741 075-175:
+ARTCC low boundary:QN C NZA742 095-175:
+ARTCC low boundary:QN C NZA744 135-075:
+ARTCC low boundary:QN C NZA942 135-175:
+ARTCC low boundary:RO D NZA234 045-095:
+ARTCC low boundary:RO D NZA448 035-095:
+ARTCC low boundary:TG D NZA237 015-025:
+ARTCC low boundary:TG D NZA238 025-095:
+ARTCC low boundary:WB D NZA631 035-095:
+ARTCC low boundary:WN C NZA633 045-095:
+ARTCC low boundary:WN C NZA634 055-095:
+ARTCC low boundary:WN C NZA635 015-095:
+ARTCC low boundary:WN C NZA637 025-095:
+ARTCC low boundary:WN C NZA638 035-095:
+ARTCC low boundary:WN C NZA640 045-095:
+ARTCC low boundary:WN C NZA642 075-095:
+ARTCC low boundary:WN C NZA643 035-095:
+ARTCC low boundary:WN C NZA656 045-095:
+ARTCC low boundary:WN C NZA657 055-095:
+Geo:GEO:
+Geo:NZAA_GND:
+Geo:NZCH_GND:
+Geo:NZDN_GND:
+Geo:NZQN_GND:
+Geo:NZWN_GND:
+Regions:noname:polygon
+Regions:NZAA_GND:polygon
+Regions:NZCH_GND:polygon
+Regions:NZDN_GND:polygon
+Regions:NZQN_GND:polygon
+Regions:NZWN_GND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.30000
+TAGFAMILY:LM SKYLINE
+WINDOWAREA:-44.561780:163.922951:-34.195705:186.213198
