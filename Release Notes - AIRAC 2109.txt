@@ -1,25 +1,37 @@
 *
-*  VATNZ NZZO/SKYLINE RELEASE
-*  AIRAC 2108, EFFECTIVE FROM 12 AUG 2021
+*  VATNZ NZZC/SKYLINE RELEASE
+*  AIRAC 2109, EFFECTIVE FROM 09 SEP 2021
 *
-*  RELEASED BY CONTROLLER OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net
+*  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net
 *
 
 // Changelog
 
-  / NZZC
-    - Addition of the following waypoints - ADGOP, ANGEB, EKODU, LEDIP, OLNAN, RULVU, SEBSA and UPVAP`
-    
-    NZAA - EXOPI 6D has been renamed the EXOPI 7D
-    NZOX - AD status changed to IFR-VFR. RNAV (GNNS) approach added (applicable to both runways)
-    NZAP - Addition of the TAIKO 5, LAKE 6, BAY 8 departures for Rwy 17, and MOKAI 4, PEAK 8, PAEROA 5 AND TEREG 2 departures for Rwy 35. These had been missed previously.
-    NZNP - Addition of the SALVO 3P/SELTA departure which had been missed previously.
-    NZPM - PM 1H Radar SID added for Rwy 07. PM 2A renamed the PM 3A.
-    NZWN - MESEL 2Q departure renamed MESEL 3Q. ISNIP 4P departure renamed ISNIP 5P. ISNIP 5T addded, as it was missed previously. UPVAP transitions added to all three of these SIDs.
-    NZTK - Minor modifications to the termination points of the RNAV approaches.
-    NZHK - Addition of the IAFs for both GNSS approaches, allowing the the Dataset to link them automatically to STARs.
-    NZQN - DOVMA 1A renamed the DOVMA 2A.
-    NZTU - All SIDs/STARs and RNAV approaches have been added. These had previously been missed.
-    NZRC - AD status changed to IFR-VFR. SEBSA 1 SID for Rwy 04 added, alongside the RNAV (GNSS) A approach for Rwy 22.
+  / SkyLine Package
+    -  Changed Napier ATIS Frequency to 128.000.
+    -  Updating of AIRWAY.txt and isec.txt.
 
+  / ANR Database Updates
+    -  Some minor changes to the aerodrome reference point for NZTK.
+    -  Amendment to, or addition of, the B578, H1, P766, Q128, T1 to T6, V2, V3, Z129 and Z172 airways.
+    -  Addition of IFR waypoints RIWUT, TAPAP, TEARP, TLARP, TOARP and TPARP.
+    -  Addition of NZHC, and removal of NZSH.
+
+  /  Dataset Additions
+    NZAR  -  Additional detail added to the SURREY 1R departure.
+    NZDN  -  Addition of the transitions for the SOUTH 5 and SWAMPY 8 departures.
+    NZGB  -  Addition of the Great Barrier 1P departure.
+    NZGM  -  Addition of the OSOLO 1P and RILEY 1Q departures.
+    NZHS  -  Addition of all NZHS procedures.
+    NZKK  -  Addition of the LAKE 2, MOEREWA 2, PAKARAKA 2, HOBSON 2 and WAIHUKA 2 departures.
+    NZKT  -  Addition of the BROADWOOD 3A & 2B, HOBBS 3, VALLEY 2 and HARBOUR 3 departures.
+    NZNP  -  Slight rework of the SOUTH 5 departure track, and addition of the AKAVI, ALADA, LEDOR, TELIM and TPAPA transitions.
+    NZNR  -  Addition of the NAPER 2A, 2B, 2C and 2D STARs for the VOR/DME.
+    NZNV  -  Addition of the INVERCARGILL 1C, 1D, 2A and 2B STARs for the VOR/DME.
+    NZPP  -  Addition of the KAPTI 1G STAR.
+    NZSL  -  Addition of the GORKI 1 departure.
+    NZWF  -  Addition of all NZWF procedures.
+    NZWK  -  Addition of the KEEPA 2A and 2B STARs. Addition of the MATAT 2, OHOPE 4 and PAROA 2 departures.
+    NZWO  -  Addition of the DOMON 2P and 1Q departures, and the GURSUR 1A arrival.
+    NZWR  -  Addition of the BREAM 5, HARBOUR 5, PORTLAND 5 and WAIPU 3 departures.
 
