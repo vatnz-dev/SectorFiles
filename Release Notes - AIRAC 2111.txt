@@ -1,6 +1,6 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
-*  AIRAC 2110, EFFECTIVE FROM 07 OCT 2021
+*  AIRAC 2111, EFFECTIVE 04 NOV 2021
 *
 *  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net
 *
@@ -8,13 +8,35 @@
 // Changelog
 
   / ANR Database Updates
-    - Removal of NZSL as an IFR-VFR AD. The associated IFR procedures have been withdrawn.
-    - Addition of the AVNEM, IGOVU, LIDGA, OLVOL, OPEKU, UGSAP and VETUM IFR fixes.
-    - NZWT: Addition of the OTVAP 1P departure (Rwy 04) and RNAV (GNSS) A approach.
+    - Addition of the KQ578, Q154,  Q162. Addition of LIDGA to KQ613.
+    - Addition of the AGSEV, AVNEM, BETPA, DABUV, EKILU, ENLOD, IGDUX, IGOVU, LIDGA, OBKIT, OLVOL, OPEKU, OVTAP, PIGUD, UGSAP, UPNOB, URDAP, VETUM, VEVOM IFR waypoints. 
+    - Removal of the BAMEX, GORKI, GOWER, SEKLA, SEMKI, SHOAL IFR waypoints.
+    - Slight change to the co-ordinates for NZJI.
+    - Addition of NZWZ - Warkworth.
+    - Slight changes to the boundaries for the NZZC FIR, in addition to minor changes to CTA and CTR lateral bounds.
 
   /  Dataset Additions
-    - NZPN : Addition of the SEDSI 2R departure, which had been previously missed.
-    - Changed position short-codes for NZZO_FSS (AO), which is now NZZO_FSS (ARO). Additional changes to BN-TSN_FSS (BNO) and ML-IND_FSS (MLO).
-    - Addition of VATPAC Oceanic Stations.
-    - Minor updating of QN RNPs.
+    The following procedures have been redesignated:
+      - NZAA
+        - EXOPI 9B -> EXOPI 1B
+        - BASIV 8B -> BASIV 9B
+        - DAVEE 5B -> DAVEE 6B
+        - UKAPA 1D -> UKAPA 2D
+        - SCARY 1B -> SCARY 2B
+        - PEPPE 4B -> PEPPE 5B
+        - NOBAR 7B -> NOBAR 8B
+        - DAVEE 5D -> DAVEE 6D
+        - PEPPE 7D -> PEPPE 8D
+        - SCARY 1D -> SCARY 2D
+        - NOBAR 7D -> NOBAR 8D
+        - UKAPA 2B -> UKAPA 3B
+        - EAGIL 1A -> EAGIL 2A
+        - FOKRE 1A -> FOKRE 2A
+        - EXOPI 7A -> EXOPI 8A
+        - APABO 2C -> APABO 3C
+        - SKEPY 1A -> SKEPY 2A
+        - APABO 2A -> APABO 3A
+      - NZGS
+        - POPAD 1 -> POPAD 2
+        - NODEX 1 -> NODEX 2
     
