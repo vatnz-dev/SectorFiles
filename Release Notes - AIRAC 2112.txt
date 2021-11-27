@@ -2,41 +2,29 @@
 *  VATNZ NZZC/SKYLINE RELEASE
 *  AIRAC 2111, EFFECTIVE 04 NOV 2021
 *
-*  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net
-*
+*  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
+*  
 
 // Changelog
 
   / ANR Database Updates
-    - Addition of the KQ578, Q154,  Q162. Addition of LIDGA to KQ613.
-    - Addition of the AGSEV, AVNEM, BETPA, DABUV, EKILU, ENLOD, IGDUX, IGOVU, LIDGA, OBKIT, OLVOL, OPEKU, OVTAP, PIGUD, UGSAP, UPNOB, URDAP, VETUM, VEVOM IFR waypoints. 
-    - Removal of the BAMEX, GORKI, GOWER, SEKLA, SEMKI, SHOAL IFR waypoints.
-    - Slight change to the co-ordinates for NZJI.
-    - Addition of NZWZ - Warkworth.
-    - Slight changes to the boundaries for the NZZC FIR, in addition to minor changes to CTA and CTR lateral bounds.
+    - Addition of the `KQ134`, `KQ312`, `KQ427`, `KQ656` and `KQ893` airways.
+    - Modification to the `KQ427` (waypoint `NOBUL` replaced by `ERVIT`) and `Q202` (new routing) airways.
+    - Addition of the `RAPPY`, `OLGOP`, `OLGEX`, `VIMES`, `ERVIT`, `TARIT`, `LEGIK`, `SELNA`, `OMOVI`, `LUPMA`, `IBOSI`, `KARBI`, `URGAB`, `ADMOG`, `AVBAS`, `ISTIK`, `GUVTU`, `EPGON` and `UPSOD` IFR waypoints.
+    - The removal of the `KENNE` IFR waypoint.
+    - Addition of the `RIKDI 1N` arrival for NZAA 05R.
+    - Addition of the  `BELEE 1`, `DAMIL 1`, `South 1`, `Beach 1` and `Ocean 1` SIDs for NZGM.
+    - Minor amendment to Controlled Airspace designations and lateral bounds:
+        - Hamilton CTA/D 2500 ft – 9500 ft: NZA248  =>  NZA243
+        - Auckland CTA/C 4500 ft – 9500 ft: NZA245  =>  NZA146
+        - Auckland CTA/C 9500 ft – FL 600: NZA131  =>  NZA137
+        - Auckland CTA/C 6500 ft – 9500 ft: NZA130  =>  NZA136
+        - Bay CTA/D 6500 ft – 9500 ft: NZA232  =>  NZA233
+        - Bay CTA/C 9500 ft – FL 600: NZA434  =>  NZA436
+    - Christchurch CTA/C lateral bounds amendment.
+    - Establishment of NZD524 - Papawai.
+    - Addition of `NZHF` - Huka Falls HLP. 
+    - Minor change to the co-ordinates of `WP VOR`.
 
   /  Dataset Additions
-    The following procedures have been redesignated:
-      - NZAA
-        - EXOPI 9B -> EXOPI 1B
-        - BASIV 8B -> BASIV 9B
-        - DAVEE 5B -> DAVEE 6B
-        - UKAPA 1D -> UKAPA 2D
-        - SCARY 1B -> SCARY 2B
-        - PEPPE 4B -> PEPPE 5B
-        - NOBAR 7B -> NOBAR 8B
-        - DAVEE 5D -> DAVEE 6D
-        - PEPPE 7D -> PEPPE 8D
-        - SCARY 1D -> SCARY 2D
-        - NOBAR 7D -> NOBAR 8D
-        - UKAPA 2B -> UKAPA 3B
-        - EAGIL 1A -> EAGIL 2A
-        - FOKRE 1A -> FOKRE 2A
-        - EXOPI 7A -> EXOPI 8A
-        - APABO 2C -> APABO 3C
-        - SKEPY 1A -> SKEPY 2A
-        - APABO 2A -> APABO 3A
-      - NZGS
-        - POPAD 1 -> POPAD 2
-        - NODEX 1 -> NODEX 2
-    
+    Nothing to report.
