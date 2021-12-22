@@ -1,30 +1,19 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
-*  AIRAC 2111, EFFECTIVE 04 NOV 2021
+*  AIRAC 2113, EFFECTIVE 30 DEC 2021
 *
 *  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
 *  
 
 // Changelog
 
-  / ANR Database Updates
-    - Addition of the `KQ134`, `KQ312`, `KQ427`, `KQ656` and `KQ893` airways.
-    - Modification to the `KQ427` (waypoint `NOBUL` replaced by `ERVIT`) and `Q202` (new routing) airways.
-    - Addition of the `RAPPY`, `OLGOP`, `OLGEX`, `VIMES`, `ERVIT`, `TARIT`, `LEGIK`, `SELNA`, `OMOVI`, `LUPMA`, `IBOSI`, `KARBI`, `URGAB`, `ADMOG`, `AVBAS`, `ISTIK`, `GUVTU`, `EPGON` and `UPSOD` IFR waypoints.
-    - The removal of the `KENNE` IFR waypoint.
-    - Addition of the `RIKDI 1N` arrival for NZAA 05R.
-    - Addition of the  `BELEE 1`, `DAMIL 1`, `South 1`, `Beach 1` and `Ocean 1` SIDs for NZGM.
-    - Minor amendment to Controlled Airspace designations and lateral bounds:
-        - Hamilton CTA/D 2500 ft – 9500 ft: NZA248  =>  NZA243
-        - Auckland CTA/C 4500 ft – 9500 ft: NZA245  =>  NZA146
-        - Auckland CTA/C 9500 ft – FL 600: NZA131  =>  NZA137
-        - Auckland CTA/C 6500 ft – 9500 ft: NZA130  =>  NZA136
-        - Bay CTA/D 6500 ft – 9500 ft: NZA232  =>  NZA233
-        - Bay CTA/C 9500 ft – FL 600: NZA434  =>  NZA436
-    - Christchurch CTA/C lateral bounds amendment.
-    - Establishment of NZD524 - Papawai.
-    - Addition of `NZHF` - Huka Falls HLP. 
-    - Minor change to the co-ordinates of `WP VOR`.
+This is a pretty minor update this month. Next cycle (2201) is expected to have major changes.
 
-  /  Dataset Additions
-    Nothing to report.
+  / ANR Database Updates
+    - Addition of the KETUS and GOMIK IFR waypoints
+    - Removal of the GOBIN and KETOT IFR waypoints.
+    - Minor updates to the lateral bounds of some Restricted Areas.
+
+  / Dataset Additions
+    - feat: Addition of NZCM, NTTT, and NSFA positions. This is due to dataset commonality, and serves no additional purpose.
+    - fix: Palmerston North STAR designation fixes.

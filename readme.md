@@ -1,7 +1,7 @@
 # VATNZ EuroScope Sector Files Project
 
 
-[![Current AIRAC](https://img.shields.io/badge/Current%20AIRAC-2112-blue)](https://github.com/vatnz-dev/SectorFiles) [![Next Release](https://img.shields.io/badge/Next%20Release-29%20SDecember-blueviolet)](https://github.com/vatnz-dev/SectorFiles) 
+[![Current AIRAC](https://img.shields.io/badge/Current%20AIRAC-2113-blue)](https://github.com/vatnz-dev/SectorFiles) [![Next Release](https://img.shields.io/badge/Next%20Release-27%20January-blueviolet)](https://github.com/vatnz-dev/SectorFiles) 
 
 
 
