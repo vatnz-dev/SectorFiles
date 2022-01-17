@@ -7,10 +7,4 @@
 
 // Changelog
 
-This is a pretty minor update this month. Next cycle (2201) is expected to have major changes.
-
-  / ANR Database Updates
-  
-
-  / Dataset Additions
-    
+See changelog in the VATNZ Discord.
