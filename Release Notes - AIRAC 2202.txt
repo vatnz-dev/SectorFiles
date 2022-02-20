@@ -7,3 +7,21 @@
 
 // Changelog
 
+  - This is a full SkyLine update, adding some new positions to our Dataset. If you have not updated the rest of your files, please head to the VATNZ website
+    and download the full SkyLine 2202 release.
+
+  ANR Changes:
+    - Addition of the GOBIN, IGOBA and OMGUV IFR waypoints.
+    - Removal of the DAKUR, LUKLO and NUBKA IFR waypoints.
+    - Addition of Hamilton Delivery, on frequency 122.9. Hamilton Tower's frequency is now 126.8.
+    - Some slight renumbering of Rotorua STARs. Slight approach path amendments.
+    - Some approach waypoint changes to Christchurch approaches.
+    - Amendment to the VFR East arrivals at NZHN.
+
+  Dataset Changes:
+    - Addition of Heliports to the dataset.
+    - Addition of Nelson Delivery on 123.3.
+  
+  SkyLine Changes:
+    - Updated all files in the Data/ folder, including data for worldwide airways and aerodromes. All ICAO files have been updated, including the aircraft, airlines and airports database.
+    - General, Profiles and Voice files have been updated.

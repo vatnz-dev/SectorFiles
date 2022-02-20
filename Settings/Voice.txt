@@ -25,7 +25,7 @@ AG:Christchurch SMC:121.900:rw1.vatpac.org:nzch_gnd
 AG:Queenstown SMC:128.300:rw1.vatpac.org:nzqn_gnd
 AG:Whenuapai TWR:134.500:rw1.vatpac.org:nzwp_twr
 AG:Auckland TWR:118.700:rw1.vatpac.org:nzaa_twr
-AG:Hamilton TWR:122.900:rw1.vatpac.org:nzhn_twr
+AG:Hamilton TWR:126.800:rw1.vatpac.org:nzhn_twr
 AG:Tauranga TWR:118.300:rw1.vatpac.org:nztg_twr
 AG:Rotorua TWR:121.200:rw1.vatpac.org:nzro_twr
 AG:Gisborne TWR:127.300:rw1.vatpac.org:nzgs_twr
@@ -38,7 +38,6 @@ AG:Wellington TWR:118.800:rw1.vatpac.org:nzwn_twr
 AG:Woodbourne TWR:118.100:rw1.vatpac.org:nzwb_twr
 AG:Nelson TWR:127.400:rw1.vatpac.org:nzns_twr
 AG:Christchurch TWR:118.400:rw1.vatpac.org:nzch_twr
-AG:Milford AFIS:118.200:rw1.vatpac.org:nzmf_twr
 AG:Queenstown TWR:118.100:rw1.vatpac.org:nzqn_twr
 AG:Dunedin TWR:120.700:rw1.vatpac.org:nzdn_twr
 AG:Invercargill TWR:118.500:rw1.vatpac.org:nznv_twr
@@ -63,5 +62,7 @@ AG:Milford Sound TWR:118.200:rw1.vatpac.org:nzmf_twr
 AG:Paraparaumu TWR:118.300:rw1.vatpac.org:nzpp_twr
 AG:Ohakea SMC:122.100:rw1.vatpac.org:nzoh_gnd
 AG:Palmerston North SMC:121.700:rw1.vatpac.org:nzpm_gnd
+AG:Hamilton Delivery:122.900:rw1.vatpac.org:nzhn_del
+AG:Nelson Delivery:123.300:rw1.vatpac.org:nzns_del
 
 END
