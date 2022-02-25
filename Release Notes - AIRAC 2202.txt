@@ -1,6 +1,8 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
 *  AIRAC 2202, EFFECTIVE 24 JAN 2022
+*   
+*     ## AMENDMENT RELEASED 25 JAN - See below header.
 *
 *  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
 *  
@@ -25,3 +27,7 @@
   SkyLine Changes:
     - Updated all files in the Data/ folder, including data for worldwide airways and aerodromes. All ICAO files have been updated, including the aircraft, airlines and airports database.
     - General, Profiles and Voice files have been updated.
+
+// 2202 Revision B Amendments
+
+  - Amendment to NZAA SID sequences, after this was missed in the 2202a release.
