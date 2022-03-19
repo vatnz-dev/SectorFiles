@@ -1,0 +1,17 @@
+*
+*  VATNZ NZZC/SKYLINE RELEASE
+*  AIRAC 2202, EFFECTIVE 24 MAR 2022
+*  
+*
+*  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
+*  
+
+// Changelog
+
+
+  ANR Changes:
+    
+
+  Dataset Changes:
+    
+  
