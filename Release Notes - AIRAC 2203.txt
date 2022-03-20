@@ -8,10 +8,10 @@
 
 // Changelog
 
-
   ANR Changes:
-    
+    - There have been no changes to ANR data this cycle.    
 
   Dataset Changes:
-    
+    - Fixed spelling error in Gisborne
+    - Removed threshold fixes from RNPs.
   
