@@ -8,7 +8,14 @@
 
 // Changelog
 
-  ANR Changes:  
+  ANR Changes:
+    -  NZAA: Slight amendments to the FAF for the RNAV Z - both RWY 05R/23L
+    -  Addition of T18, T22, T80 and KQ461 airways.
+    -  Addition of a handful of new IFR fixes. Mostly used for the above airways.
 
   Dataset Changes:
-  
+    -  Renaming of MIPAK3B to MIPAK2B.
+    -  Addition of various Pacific navigation aids.
+    -  Addition of various IFR waypoints.
+    -  Removal of duplicate coordinates in airspace boundaries (CTA, CTR, Restr., MOA)
+    -  Removal of various duplicate airways.
