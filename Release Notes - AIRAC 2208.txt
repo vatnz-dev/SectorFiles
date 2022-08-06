@@ -1,0 +1,16 @@
+*
+*  VATNZ NZZC/SKYLINE RELEASE
+*  AIRAC 2208, EFFECTIVE 11 AUG 22
+*  
+*
+*  RELEASED BY OPERATIONS DIRECTOR, VATNZ. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
+*  
+
+// Changelog
+
+  ANR Changes:
+
+  Dataset Updates:
+
+
+    
