@@ -5,5 +5,5 @@ DOWNLOADINTERVAL:0
 
 SECTOR_NAME:Sector Files for VATNZ New Zealand Airspace
 SECTOR_FILE_NAME:VATNZ-NZZC
-SECTOR_VERSION:2212
-SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZC/2212b/VATNZ-NZZC_2212b.zip
+SECTOR_VERSION:2302
+SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZC/2302/VATNZ-NZZC_2302b.zip
