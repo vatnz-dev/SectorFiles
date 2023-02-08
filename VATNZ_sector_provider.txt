@@ -5,20 +5,5 @@ DOWNLOADINTERVAL:0
 
 SECTOR_NAME:Sector Files for VATNZ New Zealand Airspace
 SECTOR_FILE_NAME:VATNZ-NZZC
-SECTOR_VERSION:1804
-SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZC/1804/VATNZ-NZZC_1804.zip
-
-SECTOR_NAME:Sector Files for VATNZ Oceanic Airspace
-SECTOR_FILE_NAME:VATNZ-NZZO
-SECTOR_VERSION:1712
-SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZO/1712/VATNZ-NZZO_1712.zip
-
-SECTOR_NAME:Sector Files for VATNZ Pacific Island Airspace
-SECTOR_FILE_NAME:VATNZ-PACIFIC
-SECTOR_VERSION:1704
-SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-PACIFIC/1704/VATNZ-PACIFIC_1704.zip
-
-SECTOR_NAME:Sector Files for VATNZ Tahiti Airspace
-SECTOR_FILE_NAME:VATNZ-NTTT
-SECTOR_VERSION:1703
-SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NTTT/1703/VATNZ-NTTT_1703.zip
+SECTOR_VERSION:2302
+SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZC/2302/VATNZ-NZZC_2302b.zip

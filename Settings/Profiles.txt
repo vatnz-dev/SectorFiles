@@ -5,186 +5,194 @@ ATIS3:
 ATIS4:
 PROFILE:NZAA_CTR:400:6
 ATIS2:Auckland Control
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA-R_CTR:400:6
 ATIS2:Auckland Control (Raglan Sector)
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH-B_CTR:400:6
 ATIS2:Bay Approach
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH-T_CTR:400:6
 ATIS2:Christchurch Control
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH-S_CTR:400:6
 ATIS2:Christchurch Control
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH-K_CTR:400:6
 ATIS2:Christchurch Control
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZOH_CTR:400:6
 ATIS2:Ohakea Control
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_APP:150:5
 ATIS2:Auckland Approach - ATIS 127.8
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA-F_APP:150:5
 ATIS2:Auckland Approach - ATIS 127.8
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_DEP:150:5
-ATIS2:Auckland Approach - ATIS 127.8
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS2:Auckland Departures - ATIS 127.8
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZHN_APP:150:5
 ATIS2:Bay Approach - ATIS 128.65
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZOH_APP:150:5
 ATIS2:Ohakea Approach - ATIS 135.00
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWN_APP:150:5
 ATIS2:Wellington Approach - ATIS 126.90
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWN_DEP:150:5
-ATIS2:Wellington Approach - ATIS 126.90
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS2:Wellington Departures - ATIS 126.90
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_DEP:150:5
-ATIS2:Chrsitchurch Approach - ATIS 127.20
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS2:Christchurch Departures - ATIS 127.20
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_APP:150:5
-ATIS2:Chrsitchurch Approach - ATIS 127.20
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS2:Christchurch Approach - ATIS 127.20
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZQN_APP:150:5
 ATIS2:Queenstown Approach - ATIS 126.40
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_DEL:20:2
 ATIS2:Auckland Delivery
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWN_DEL:20:2
 ATIS2:Wellington Delivery
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
+PROFILE:NZNS_DEL:20:2
+ATIS2:Nelson Delivery
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
+PROFILE:NZHN_DEL:20:2
+ATIS2:Hamilton Delivery
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_DEL:20:2
 ATIS2:Christchurch Delivery
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZQN_DEL:20:2
 ATIS2:Queenstown Delivery
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_GND:20:3
 ATIS2:Auckland Ground
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWN_GND:20:3
 ATIS2:Wellington Ground
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_GND:20:3
 ATIS2:Christchurch Ground
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZQN_GND:20:3
 ATIS2:Queenstown Ground
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZOH_GND:20:3
 ATIS2:Ohakea Ground
-ATIS3:Charts - www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts - vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZPM_GND:20:3
 ATIS2:Palmerston North Ground
-ATIS3:Charts - www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback 0 vats.im/NZ-FB
+ATIS3:Charts - vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWP_TWR:50:4
 ATIS2:Whenuapai Tower - ATIS 135.0
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_TWR:50:4
 ATIS2:Auckland Tower - ATIS 127.80
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZTG_TWR:50:4
 ATIS2:Tauranga Tower - ATIS 126.60
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZHN_TWR:50:4
 ATIS2:Hamilton Tower - ATIS 128.65
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZRO_TWR:50:4
 ATIS2:Rotorua Tower - ATIS 128.80
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZGS_TWR:50:4
 ATIS2:Gisborne Tower - ATIS 126.40
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZNR_TWR:50:4
 ATIS2:Napier Tower - ATIS 128.00
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZNP_TWR:50:4
 ATIS2:New Plymouth Tower - ATIS 127.05
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZOH_TWR:50:4
 ATIS2:Ohakea Tower - ATIS 135.0
-ATIS3:Charts - www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts - vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZPM_TWR:50:4
 ATIS2:Palmerston North Tower - ATIS 129.70
-ATIS3:Charts - www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts - vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWN_TWR:50:4
 ATIS2:Wellington Tower - ATIS 126.90
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZWB_TWR:50:4
 ATIS2:Woodbourne Tower - ATIS 126.05
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZNS_TWR:50:4
 ATIS2:Nelson Tower - ATIS 129.10
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_TWR:50:4
 ATIS2:Christchurch Tower - ATIS 127.20
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZQN_TWR:50:4
 ATIS2:Queenstown Tower - ATIS 126.40
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZDN_TWR:50:4
 ATIS2:Dunedin Tower - ATIS 126.45
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZNV_TWR:50:4
 ATIS2:Invercargill Tower - ATIS 127.0
-ATIS3:Charts- www.vatnz.net/airspace/airports/
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS3:Charts- vats.im/nz/charts
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZPP_TWR:50:4
 ATIS2:Paraparaumu Flight Service
 ATIS3:Information and IFR Clearances - Nil RADAR control avail.
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZMF_TWR:50:4
 ATIS2:Milford Flight Service
 ATIS3:Information and IFR Clearances - Nil RADAR control avail.
-ATIS4:Submit feedback - vats.im/NZ-FB
+ATIS4:Submit feedback - vats.im/nz/atc-fb
 END
