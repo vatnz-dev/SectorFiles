@@ -35,10 +35,6 @@ PROFILE:NZAA_APP:150:5
 ATIS2:Auckland Approach - ATIS 127.8
 ATIS3:Charts- vats.im/nz/charts
 ATIS4:Submit feedback - vats.im/nz/atc-fb
-PROFILE:NZAA-F_APP:150:5
-ATIS2:Auckland Approach - ATIS 127.8
-ATIS3:Charts- vats.im/nz/charts
-ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZAA_DEP:150:5
 ATIS2:Auckland Departures - ATIS 127.8
 ATIS3:Charts- vats.im/nz/charts

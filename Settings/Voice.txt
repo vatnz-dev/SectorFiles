@@ -7,7 +7,6 @@ AG:Christchurch Kaikoura:129.400:rw1.vatpac.org:nzch-k_ctr
 AG:Christchurch Area South:129.300:rw1.vatpac.org:nzch-s_ctr
 AG:Ohakea Area:126.200:rw1.vatpac.org:nzoh_ctr
 AG:Auckland Approach:124.300:rw1.vatpac.org:nzaa_app
-AG:Auckland Finals:129.600:rw1.vatpac.org:nzaa-f_app
 AG:Auckland Departure:118.000:rw1.vatpac.org:nzaa_dep
 AG:Bay Terminal:125.300:rw1.vatpac.org:nzhn_app
 AG:Wellington Approach:119.300:rw1.vatpac.org:nzwn_app
