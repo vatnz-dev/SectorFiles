@@ -1,6 +1,6 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
-*  AIRAC 23046 EFFECTIVE 16 JUN 23
+*  AIRAC 2308 EFFECTIVE 10 AUG 23
 *  
 *
 *  RELEASED BY VATNZ DATASET MANAGER. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
@@ -8,6 +8,6 @@
 
 // Changelog
 
-You can view the full changelog here - https://github.com/vatnz-dev/new-zealand-dataset/blob/airac-dev/.github/changelogs/2023.md
+You can view the full changelog here - https://sops.vatnz.net/changelog/2023/2308/
     
     
