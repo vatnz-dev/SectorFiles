@@ -1,6 +1,6 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
-*  AIRAC 2404 EFFECTIVE 18 APR 24
+*  AIRAC 2406 EFFECTIVE 13 JUN 24
 *  
 *
 *  RELEASED BY VATNZ DATASET MANAGER. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
@@ -8,6 +8,6 @@
 
 // Changelog
 
-You can view the full changelog here - https://sops.vatnz.net/changelog/2024/2404/
+You can view the full changelog here - https://sops.vatnz.net/changelog/2024/2406/
     
     
