@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2406 Effective 13 JUN 24
+; AIRAC 2406 Rev B Effective 13 JUN 24
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -11,8 +11,6 @@
 ; Note: because sct files only support one magnetic deviation value per file,
 ;      runway centrelines may display a few degrees off proper alignment
 ;      at the northern and southern tips of the country.
-
-;----Positions----
 
 [POSITIONS]
 NZAA_CTR:Auckland Control:123.900:L:A:NZAA:CTR:-:-:5100:5120:S037.00.20.413:E174.47.25.105
@@ -2352,7 +2350,7 @@ SID:NZHS:01:TUKNE1U:EKEDO IRTOR TAVUX TUKNE
 SID:NZHS:01:TUKNE1Ubovsa:EKEDO IRTOR TAVUX TUKNE IPNEV LAVAD OMGUK BOVSA
 SID:NZHS:01:TUKNE1Upotex:EKEDO IRTOR TAVUX TUKNE POTEX
 SID:NZHS:01:VICTOR3:NZHS
-SID:NZHS:01:VICTOR3nixot:ADGIN NIXOT
+SID:NZHS:01:VICTOR3nixot:NIXOT
 SID:NZHS:01:VICTOR3nr:NR
 SID:NZHS:01:VICTOR3opapa:OPAPA
 SID:NZHS:19:WHISKEY3:NZHS
@@ -2734,7 +2732,7 @@ SID:NZTG:25:DOTAR3:DOTAR
 SID:NZTG:25:MORTA3R:TENIX MORTA
 SID:NZTG:25:MORTA3Rfalls:TENIX MORTA FALLS
 SID:NZTG:25:MORTA3Rgobuk:TENIX MORTA GOBUK
-SID:NZTG:25:MORTA3Roldon:TENIX MORTA BATAT OLDON
+SID:NZTG:25:MORTA3Roldon:TENIX MORTA OLDON
 SID:NZTG:25:MORTA3Rpibov:TENIX MORTA TODAN PIBOV
 SID:NZTG:25:RUSTA4R:TENIX RUSTA
 SID:NZTG:25:RUSTA4Rdodku:TENIX RUSTA DODKU

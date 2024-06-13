@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2406 Effective 13 JUN 24
+; AIRAC 2406 Rev B Effective 13 JUN 24
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -61,7 +61,11 @@
 
 
 [INFO]
+<<<<<<< Updated upstream
 New Zealand Domestic (NZZC) 2406 13 Jun 24
+=======
+New Zealand Domestic (NZZC) 2404 Rev B 18 Apr 24
+>>>>>>> Stashed changes
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -10564,8 +10568,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           HS19T          HS19T          S039.37.29.856 E176.46.41.664 
                           S039.37.29.856 E176.46.41.664 S039.38.53.779 E176.45.50.980 
                           S039.38.53.779 E176.45.50.980 S039.37.10.992 E176.45.30.708 
-                          S039.37.10.992 E176.45.30.708 ADGIN          ADGIN          
-                          ADGIN          ADGIN          NIXOT          NIXOT          
+                          S039.37.10.992 E176.45.30.708 NIXOT          NIXOT          
 (HS) VICTOR 3.NR.01       S039.38.53.779 E176.45.50.980 HS01T          HS01T          
                           HS01T          HS01T          HS19T          HS19T          
                           HS19T          HS19T          S039.37.29.856 E176.46.41.664 
@@ -12000,8 +12003,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           TG25T          TG25T          TENIX          TENIX          
                           TENIX          TENIX          MORTA          MORTA          
                           MORTA          MORTA          S037.40.25.702 E176.12.32.602 
-                          S037.40.25.702 E176.12.32.602 BATAT          BATAT          
-                          BATAT          BATAT          OLDON          OLDON          
+                          S037.40.25.702 E176.12.32.602 OLDON          OLDON          
 (TG) MORTA 3R.PIBOV.25    S037.40.25.702 E176.12.32.602 TG25T          TG25T          
                           TG25T          TG25T          TENIX          TENIX          
                           TENIX          TENIX          MORTA          MORTA          
@@ -13715,7 +13717,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           ALBAD          ALBAD          NISOM          NISOM          
 (CH) RNPZ.UBDAN.02        UBDAN          UBDAN          ALBAD          ALBAD          
                           ALBAD          ALBAD          NISOM          NISOM          
-(CH) RNPZ.BIDEV.20        BIDEV          BIDEV          DIVSU          DIVSU          
+(CH) RNPZ.IDRUX.20        IDRUX          IDRUX          DIVSU          DIVSU          
                           DIVSU          DIVSU          PEDMI          PEDMI          
                           PEDMI          PEDMI          CH20T          CH20T          
 (CH) RNPZ.MABAK.20        MABAK          MABAK          DIVSU          DIVSU          
