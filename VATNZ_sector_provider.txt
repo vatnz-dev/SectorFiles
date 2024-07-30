@@ -7,3 +7,4 @@ SECTOR_NAME:Sector Files for VATNZ New Zealand Airspace
 SECTOR_FILE_NAME:VATNZ-NZZC
 SECTOR_VERSION:2406
 SECTOR_URL:http://www.vatnz.net/airspace/sector_files/VATNZ-NZZC/2404/VATNZ-NZZC_2406b.zip
+
