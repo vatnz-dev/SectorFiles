@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2408 Effective 8 AUG 24
+; AIRAC 2410 Effective 03 OCT 24
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -61,7 +61,7 @@
 
 
 [INFO]
-New Zealand Domestic (NZZC) 2408 08 Aug 24
+New Zealand Domestic (NZZC) 2410 03 Oct 24
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -686,7 +686,6 @@ ANBIG S045.56.43.700 E169.59.29.430
 ANDEP S042.52.26.910 E170.51.02.840
 ANDOM S039.14.47.120 E174.20.26.530
 ANGAI S021.12.09.310 E200.22.58.780
-ANGAX S043.56.46.070 E171.10.36.650
 ANGEB S046.52.58.130 E168.09.01.260
 ANGIR S043.29.32.800 E172.41.13.900
 ANGOR S021.11.23.820 E184.45.46.500
@@ -1441,7 +1440,6 @@ IDGEB S040.03.52.120 E175.27.23.130
 IDIMU S039.31.50.210 E166.26.02.450
 IDISA S021.26.24.440 E199.43.47.390
 IDIXI S044.24.24.670 E171.24.57.500
-IDKOV S044.00.47.170 E171.12.28.900
 IDLIK S046.02.56.290 E170.18.08.540
 IDLUR S039.49.23.850 E175.33.46.640
 IDMAT S038.59.57.610 E174.03.45.360
@@ -1908,7 +1906,6 @@ MORTA S037.43.50.380 E176.00.55.310
 MOSDO S039.53.21.670 E175.34.29.850
 MOSPU S037.51.32.560 E176.02.01.710
 MOTKO S039.07.27.120 E171.38.38.240
-MOVBO S043.45.55.220 E171.05.34.940
 MOVSA S045.57.28.330 E168.28.11.830
 MOXET S045.16.47.210 E168.41.35.280
 MS402 S040.57.03.701 E175.46.14.588
@@ -1986,7 +1983,7 @@ NOPEM S041.08.31.270 E173.18.28.070
 NOTSE S014.16.40.660 E189.23.11.540
 NOVTO S043.43.01.320 E172.29.42.000
 NOVTU S041.13.11.310 E174.02.23.630
-NU    S019.04.28.980 E190.05.05.050
+NU    S019.04.28.981 E190.05.05.050
 NUGLI S024.32.51.440 E190.00.00.000
 NUKTO S039.41.12.720 E174.26.40.840
 NULKO S041.09.13.030 E174.04.21.010
@@ -2153,6 +2150,7 @@ OTAHA S035.05.26.530 E173.51.36.270
 OTAKI S040.46.09.340 E175.16.44.730
 OTATA S036.38.51.230 E174.51.09.250
 OTKIS S046.02.04.510 E169.52.45.360
+OTKOS S038.08.55.250 E176.14.25.960
 OTLIT S041.26.52.230 E172.57.10.910
 OTUHI S035.49.12.150 E174.06.16.600
 OTURI S010.00.00.000 E200.41.54.010
@@ -2402,7 +2400,19 @@ RO186 S038.00.16.931 E176.22.35.872
 RO276 S038.08.29.310 E176.33.49.709
 RO364 S038.08.35.851 E176.17.42.151
 RO366 S038.09.22.010 E176.16.50.830
+RO401 S038.11.39.590 E176.10.10.940
+RO402 S038.00.36.630 E176.22.24.360
+RO413 S038.00.50.650 E176.22.38.170
+RO521 S038.08.54.150 E176.16.12.050
 RO563 S038.07.30.684 E176.17.38.220
+RO634 S038.08.16.660 E176.17.49.970
+RO636 S038.09.22.010 E176.16.50.830
+RO636 S038.09.22.010 E176.16.50.830
+RO764 S038.09.54.850 E176.12.14.510
+RO767 S038.08.35.850 E176.17.42.150
+RO767 S038.08.35.850 E176.17.42.150
+RO862 S038.06.56.110 E176.18.42.010
+RO936 S038.05.57.320 E176.19.20.120
 ROCKS S046.29.22.150 E168.06.17.630
 ROCKY S034.52.27.080 E173.28.57.360
 RONGO S041.30.09.690 E174.54.21.910
@@ -2696,7 +2706,6 @@ UGTER S041.10.47.070 E172.00.19.420
 UGTOV S041.11.09.160 E174.32.44.010
 UGUDA S041.23.22.460 E172.11.58.440
 UGUKU S040.25.00.370 E172.51.02.380
-UGVAV S044.08.20.800 E170.59.10.190
 UGVUG S039.41.32.040 E176.47.45.860
 UKANO S041.36.18.680 E174.32.10.880
 UKAPA S036.17.43.930 E174.14.19.580
@@ -2739,7 +2748,6 @@ UPSAV S044.57.56.680 E168.48.14.270
 UPSEG S039.31.30.950 E176.56.50.840
 UPSOD S039.35.30.950 E174.21.45.040
 UPSUV S038.50.12.400 E177.28.34.280
-UPTAX S044.18.30.780 E170.58.49.150
 UPTER S038.34.34.290 E178.02.01.650
 UPTIB S037.21.07.510 E174.57.53.420
 UPTIK S038.20.48.330 E175.04.07.090
@@ -12070,6 +12078,9 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           BIDNI          BIDNI          S044.18.11.779 E171.13.14.300 
                           S044.18.11.779 E171.13.14.300 ATSOK          ATSOK          
                           ATSOK          ATSOK          OMARU          OMARU          
+(TU) ELDAK 1T.02          S044.18.11.779 E171.13.14.300 TU20T          TU20T          
+                          TU20T          TU20T          SUNPA          SUNPA          
+                          SUNPA          SUNPA          ELDAK          ELDAK          
 (TU) MUKEN 2Q.DUBON.20    S044.17.40.679 E171.13.52.540 TU02T          TU02T          
                           TU02T          TU02T          MUKEN          MUKEN          
                           MUKEN          MUKEN          S044.17.40.679 E171.13.52.540 
@@ -14219,11 +14230,11 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           NUTMI          NUTMI          BEMLI          BEMLI          
                           BEMLI          BEMLI          VARMA          VARMA          
 (NP) NEW PLYMO 3.IGDOT.23 IGDOT          IGDOT          NP             NP             
-                          NP             NP             S038.52.54.621 E174.19.29.515 
+                          NP             NP             S038.52.54.622 E174.19.29.514 
 (NP) NEW PLYMO 3.RUPNU.23 RUPNU          RUPNU          NP             NP             
-                          NP             NP             S038.52.54.621 E174.19.29.515 
+                          NP             NP             S038.52.54.622 E174.19.29.514 
 (NP) NEW PLYMO 3.SELTA.23 SELTA          SELTA          NP             NP             
-                          NP             NP             S038.52.54.621 E174.19.29.515 
+                          NP             NP             S038.52.54.622 E174.19.29.514 
 (NP) PEXUR 3A.DOBBO.05    DOBBO          DOBBO          PEXUR          PEXUR          
                           PEXUR          PEXUR          VARMA          VARMA          
 (NP) PEXUR 3A.HARVO.05    HARVO          HARVO          ATRUG          ATRUG          
@@ -14867,8 +14878,14 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           BONLI          BONLI          TUSGA          TUSGA          
 (RO) RNP-ARY.36           TOTRA          TOTRA          ADKAG          ADKAG          
                           ADKAG          ADKAG          SEKBU          SEKBU          
-                          SEKBU          SEKBU          RO366          RO366          
-                          RO366          RO366          RO364          RO364          
+                          SEKBU          SEKBU          RO636          RO636          
+                          RO636          RO636          RO767          RO767          
+(RO) RNP-ARZ.36           TOTRA          TOTRA          RO401          RO401          
+                          RO401          RO401          RO764          RO764          
+                          RO764          RO764          OTKOS          OTKOS          
+                          OTKOS          OTKOS          RO521          RO521          
+                          RO521          RO521          RO634          RO634          
+                          RO634          RO634          RO862          RO862          
 (TG) BIKOT 2A.07          BIKOT          BIKOT          BERPI          BERPI          
                           BERPI          BERPI          RUSTA          RUSTA          
 (TG) BIKOT 2B.25          BIKOT          BIKOT          BERPI          BERPI          
@@ -14944,16 +14961,17 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           AMURI          AMURI          IGDAB          IGDAB          
 (TO) RNP.GUMAN.31         GUMAN          GUMAN          AMURI          AMURI          
                           AMURI          AMURI          IGDAB          IGDAB          
-(TU) DOPOP 1K.20          DOPOP          DOPOP          BIDNI          BIDNI          
+(TU) DOPOP 2K.20          DOPOP          DOPOP          BIDNI          BIDNI          
 (TU) DUBON 2J.02          DUBON          DUBON          TU426          TU426          
                           TU426          TU426          DOPOP          DOPOP          
 (TU) DUBON 1K.20          DUBON          DUBON          MOVBO          MOVBO          
                           MOVBO          MOVBO          ANGAX          ANGAX          
                           ANGAX          ANGAX          IDKOV          IDKOV          
                           IDKOV          IDKOV          LUVAB          LUVAB          
-(TU) ELDAK 1J.02          ELDAK          ELDAK          BIDNI          BIDNI          
+(TU) ELDAK 2J.02          ELDAK          ELDAK          BIDNI          BIDNI          
                           BIDNI          BIDNI          DOPOP          DOPOP          
-(TU) ELDAK 1K.20          ELDAK          ELDAK          BIDNI          BIDNI          
+(TU) ELDAK 2K.20          ELDAK          ELDAK          BIDNI          BIDNI          
+(TU) ELDAK 1L.20          ELDAK          ELDAK          SUNPA          SUNPA          
 (TU) MAMUS 2J.02          MAMUS          MAMUS          TU411          TU411          
                           TU411          TU411          DOPOP          DOPOP          
 (TU) MAMUS 1K.20          MAMUS          MAMUS          UGVAV          UGVAV          
