@@ -1,4 +1,4 @@
-Settings	sector	\VATNZ-NZZC_2410.sct2
+Settings	sector	\VATNZ-NZZC_2412.sct2
 Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\Settings\Voice.txt
 Settings	SettingsfilePROFILE	\Settings\Profiles.txt
@@ -24,13 +24,13 @@ ASRFastKeys	5	\ASR\Queenstown GND.asr
 ASRFastKeys	6	\ASR\Dunedin GND.asr
 ASRFastKeys	7	\ASR\Generic GND.asr
 ASRFastKeys	8	\ASR\Terrain.asr
-RecentFiles	Recent2	\ASR\Generic GND.asr
-RecentFiles	Recent3	\ASR\Wellington GND.asr
-RecentFiles	Recent4	\ASR\Christchurch GND.asr
-RecentFiles	Recent5	\ASR\Auckland GND.asr
-RecentFiles	Recent6	\ASR\Terrain.asr
-RecentFiles	Recent7	\ASR\Queenstown GND.asr
-RecentFiles	Recent8	\ASR\Dunedin GND.asr
+RecentFiles	Recent2	\ASR\Terrain.asr
+RecentFiles	Recent3	\ASR\Generic GND.asr
+RecentFiles	Recent4	\ASR\Dunedin GND.asr
+RecentFiles	Recent5	\ASR\Queenstown GND.asr
+RecentFiles	Recent6	\ASR\Wellington GND.asr
+RecentFiles	Recent7	\ASR\Christchurch GND.asr
+RecentFiles	Recent8	\ASR\Auckland GND.asr
 Settings	AtisFolder	\ATIS\AtisFiles.txt
 Settings	aircraft	\Data\ICAO_Aircraft.txt
 Settings	airways	\Data\AIRWAY.txt
