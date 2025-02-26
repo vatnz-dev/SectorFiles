@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2502 Effective 20 Feb 25
+; AIRAC 2502b Effective 20 Feb 25
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -62,7 +62,7 @@
 
 
 [INFO]
-New Zealand Domestic (NZZC) 2502 20 Feb 25
+New Zealand Domestic (NZZC) 2502b 20 Feb 25
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -2914,6 +2914,7 @@ WAPOU S039.42.54.580 E174.20.35.200
 WARDS S041.50.32.320 E174.10.06.050
 WB401 S041.31.00.862 E173.53.04.690
 WB601 S041.31.11.000 E173.51.46.000
+WB724 S041.30.07.700 E174.04.37.700
 WEBER S040.13.33.300 E176.27.35.880
 WELLS S036.17.38.830 E174.29.57.640
 WILKI S041.18.31.370 E174.23.18.220
@@ -15249,9 +15250,8 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           VASLU          VASLU          SUPEN          SUPEN          
                           SUPEN          SUPEN          LUTKA          LUTKA          
                           LUTKA          LUTKA          WB             WB             
-(WB) RNP.JAMIE.24         JAMIE          JAMIE          LUTKA          LUTKA          
-                          LUTKA          LUTKA          ELKUB          ELKUB          
-                          ELKUB          ELKUB          ENPIP          ENPIP          
+(WB) RNP.24               LUTKA          LUTKA          WB724          WB724
+                          WB724          WB724          ENPIP          ENPIP
                           ENPIP          ENPIP          WB401          WB401          
 (WF) ELRUV 1E.29          ELRUV          ELRUV          UBNAS          UBNAS          
                           UBNAS          UBNAS          ARIGU          ARIGU          
