@@ -79,10 +79,6 @@ PROFILE:NZNS_DEL:20:2
 ATIS2:Nelson Delivery
 ATIS3:Charts- vats.im/nz/charts
 ATIS4:Submit feedback - vats.im/nz/atc-fb
-PROFILE:NZHN_DEL:20:2
-ATIS2:Hamilton Delivery
-ATIS3:Charts- vats.im/nz/charts
-ATIS4:Submit feedback - vats.im/nz/atc-fb
 PROFILE:NZCH_DEL:20:2
 ATIS2:Christchurch Delivery
 ATIS3:Charts- vats.im/nz/charts

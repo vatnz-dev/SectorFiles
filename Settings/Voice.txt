@@ -61,7 +61,6 @@ AG:Milford Sound TWR:118.200:rw1.vatpac.org:nzmf_twr
 AG:Paraparaumu TWR:118.300:rw1.vatpac.org:nzpp_twr
 AG:Ohakea SMC:122.100:rw1.vatpac.org:nzoh_gnd
 AG:Palmerston North SMC:121.700:rw1.vatpac.org:nzpm_gnd
-AG:Hamilton Delivery:122.900:rw1.vatpac.org:nzhn_del
 AG:Nelson Delivery:123.300:rw1.vatpac.org:nzns_del
 
 END
