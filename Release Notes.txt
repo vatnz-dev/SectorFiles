@@ -1,6 +1,6 @@
 *
 *  VATNZ NZZC/SKYLINE RELEASE
-*  AIRAC 2508 EFFECTIVE 07 AUG 25
+*  AIRAC 2510 EFFECTIVE 02 OCT 25
 *  
 *
 *  RELEASED BY VATNZ AIRSPACE MANAGER. FEEDBACK WELCOME - operations@vatnz.net or vats.im/nz/atc-fb
@@ -8,7 +8,7 @@
 
 // Changelog
 
-You can view the full changelog here - https://sops.vatnz.net/changelog/2025/2508/
+You can view the full changelog here - https://sops.vatnz.net/changelog/2025/2510/
 
     
     

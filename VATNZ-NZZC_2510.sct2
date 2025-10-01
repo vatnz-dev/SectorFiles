@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2508 Effective 07 Aug 25  VATNZ-NZZC
+; AIRAC 2510 Effective 02 Oct 25  VATNZ-NZZC
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -59,7 +59,7 @@
 #define yellow 55295
 
 [INFO]
-New Zealand Domestic (NZZC) AIRAC 2508 07 Aug 25
+New Zealand Domestic (NZZC) 2510 02 Oct 25
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -1655,11 +1655,11 @@ KARSA S021.06.34.440 E200.27.15.680
 KARVO S042.48.14.580 E170.47.22.130
 KASLU S044.54.36.270 E168.54.41.270
 KASMO S021.26.21.180 E199.43.45.520
+KATGU S045.50.31.820 E169.11.32.090
 KAURI S037.02.16.810 E174.41.31.160
 KAURU S045.05.00.220 E170.52.01.380
 KAWAU S036.26.17.540 E174.38.08.690
 KEEPA S038.13.18.640 E177.20.23.770
-KELSO S045.50.31.820 E169.11.32.090
 KENJA S041.32.09.260 E174.30.39.570
 KETIX S040.19.12.200 E175.22.35.080
 KETOB S037.07.56.150 E175.01.43.910
@@ -3254,6 +3254,7 @@ WU32T S039.58.16.385 E175.01.46.621
 WV13T S037.25.38.964 E175.57.00.482
 WV31T S037.25.56.928 E175.57.13.558
 
+
 [ARTCC]
 ; - WHENUAPAI
 NZM107 SFC-025 WHENUAPAI  S036.44.12.510 E174.37.52.400 S036.44.15.243 E174.38.31.403 
@@ -3970,8 +3971,8 @@ NZR908 SFC-060 CANTERBURY S043.53.12.350 E172.23.48.180 S043.52.12.720 E172.25.0
 NZR908 SFC-060 CANTERBURY S043.52.12.720 E172.25.04.480 S043.51.41.450 E172.29.36.950 
 ; - CANTERBURY BIGHT
 NZR909 SFC-060 CANTERBURY S043.56.30.540 E173.06.01.180 S044.06.02.820 E172.55.42.290 
-NZR909 SFC-060 CANTERBURY S044.06.02.820 E172.55.42.290 S044.01.44.550 E172.37.19.890 
-NZR909 SFC-060 CANTERBURY S044.01.44.550 E172.37.19.890 S044.02.30.470 E172.30.39.010 
+NZR909 SFC-060 CANTERBURY S044.06.02.820 E172.55.42.290 S044.01.41.550 E172.37.19.890 
+NZR909 SFC-060 CANTERBURY S044.01.41.550 E172.37.19.890 S044.02.30.470 E172.30.39.010 
 NZR909 SFC-060 CANTERBURY S044.02.30.470 E172.30.39.010 S043.51.41.450 E172.29.36.950 
 NZR909 SFC-060 CANTERBURY S043.51.41.450 E172.29.36.950 S043.51.00.200 E172.35.39.090 
 NZR909 SFC-060 CANTERBURY S043.51.00.200 E172.35.39.090 S043.50.15.700 E172.42.04.060 
@@ -8192,7 +8193,7 @@ B577(33)                      ALOHI          ALOHI          TUT            TUT
 B577(40)                      TUT            TUT            DARMA          DARMA          
 B577(00)                      DARMA          DARMA          SAPIX          SAPIX          
 B577(00)                      SAPIX          SAPIX          PASSA          PASSA          
-B577(55)                      PASSA          PASSA          QUIGG          QUIGG          
+B577(00)                      PASSA          PASSA          QUIGG          QUIGG          
 B578(00)                      NILAX          NILAX          GURDI          GURDI          
 B578(00)                      GURDI          GURDI          IBAKA          IBAKA          
 B578(00)                      IBAKA          IBAKA          DOTBU          DOTBU          
@@ -8203,7 +8204,7 @@ B578(00)                      DOTIK          DOTIK          DUMUM          DUMUM
 B578(00)                      DUMUM          DUMUM          TAPAP          TAPAP          
 B581(00)                      BAXIL          BAXIL          GOMIK          GOMIK          
 B581(00)                      GOMIK          GOMIK          WOOBY          WOOBY          
-B581(55)                      WOOBY          WOOBY          WACOS          WACOS          
+B581(00)                      WOOBY          WOOBY          WACOS          WACOS          
 B596(00)                      RG             RG             BIGAN          BIGAN          
 B596(00)                      BIGAN          BIGAN          PULOS          PULOS          
 B596(00)                      PULOS          PULOS          AI             AI             
@@ -8576,8 +8577,8 @@ V468(50)                      ABTOL          ABTOL          OH             OH
 W104(70)                      NV             NV             ATHOL          ATHOL          
 W104(97)                      ATHOL          ATHOL          QN             QN             
 W115(47)                      AP             AP             AA             AA             
-W118(58)                      NV             NV             KELSO          KELSO          
-W118(88)                      KELSO          KELSO          DABIN          DABIN          
+W118(58)                      NV             NV             KATGU          KATGU          
+W118(88)                      KATGU          KATGU          DABIN          DABIN          
 W118(20)                      DABIN          DABIN          CH             CH             
 W139(30)                      OH             OH             ENTIM          ENTIM          
 W143(33)                      HK             HK             DAMIL          DAMIL          
@@ -11518,54 +11519,51 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          S041.16.47.100 E173.14.36.780 
                           S041.16.47.100 E173.14.36.780 S040.59.55.212 E173.23.10.932 
-(NV) ADLUP 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+(NV) ADLUP 3P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          GURAD          GURAD          
-                          GURAD          GURAD          KELSO          KELSO          
-                          KELSO          KELSO          ADLUP          ADLUP          
-(NV) ADLUP 2Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+                          GURAD          GURAD          KATGU          KATGU          
+                          KATGU          KATGU          ADLUP          ADLUP          
+(NV) ADLUP 3Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          RUVGI          RUVGI          
-                          RUVGI          RUVGI          KELSO          KELSO          
-                          KELSO          KELSO          ADLUP          ADLUP          
-(NV) AMVIX 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+                          RUVGI          RUVGI          KATGU          KATGU          
+                          KATGU          KATGU          ADLUP          ADLUP          
+(NV) AMVIX 3P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          AMVIX          AMVIX          
-(NV) AMVIX 2Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+(NV) AMVIX 3Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          AMVIX          AMVIX          
-(NV) ANOPA 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+(NV) ANOPA 3P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          MOMPI          MOMPI          
                           MOMPI          MOMPI          ANOPA          ANOPA          
-                          ANOPA          ANOPA          SUNGU          SUNGU          
-(NV) ANOPA 2Q.SUNGU.22    S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+(NV) ANOPA 3Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          RUVGI          RUVGI          
                           RUVGI          RUVGI          NV423          NV423          
                           NV423          NV423          ANOPA          ANOPA          
-                          ANOPA          ANOPA          S046.24.39.960 E168.19.29.078 
-                          S046.24.39.960 E168.19.29.078 SUNGU          SUNGU          
-(NV) EPDAB 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+(NV) EPDAB 3P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          EPDAB          EPDAB          
-(NV) EPDAB 4Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+(NV) EPDAB 5Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          BIDIS          BIDIS          
                           BIDIS          BIDIS          EPDAB          EPDAB          
-(NV) INTUS 1P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+(NV) INTUS 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          INTUS          INTUS          
-(NV) INTUS 1Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+(NV) INTUS 2Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          RUVGI          RUVGI          
                           RUVGI          RUVGI          INTUS          INTUS          
-(NV) PEXED 1P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
+(NV) PEXED 2P.04          S046.25.06.280 E168.18.08.129 NV04T          NV04T          
                           NV04T          NV04T          NV404          NV404          
                           NV404          NV404          TUVDA          TUVDA          
                           TUVDA          TUVDA          POTAB          POTAB          
                           POTAB          POTAB          PEXED          PEXED          
-(NV) PEXED 1Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
+(NV) PEXED 2Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          PEXED          PEXED          
 (OH) DANPO 2Q.ABTOL.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
@@ -13040,19 +13038,19 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           WP08T          WP08T          S036.47.21.000 E174.41.39.000 
                           S036.47.21.000 E174.41.39.000 S036.42.22.000 E174.46.15.000 
                           S036.42.22.000 E174.46.15.000 BAYES          BAYES          
-(WP) BAYES 2R.AA.03       S036.47.46.252 E174.37.15.190 WP21T          WP21T          
+(WP) BAYES 3R.AA.03       S036.47.46.252 E174.37.15.190 WP21T          WP21T          
                           WP21T          WP21T          BAYES          BAYES          
                           BAYES          BAYES          S036.47.46.252 E174.37.15.190 
                           S036.47.46.252 E174.37.15.190 AA             AA             
-(WP) BAYES 2R.LUPRU.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
+(WP) BAYES 3R.LUPRU.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
                           WP21T          WP21T          BAYES          BAYES          
                           BAYES          BAYES          S036.47.46.252 E174.37.15.190 
                           S036.47.46.252 E174.37.15.190 LUPRU          LUPRU          
-(WP) BAYES 2R.OMLEN.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
+(WP) BAYES 3R.OMLEN.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
                           WP21T          WP21T          BAYES          BAYES          
                           BAYES          BAYES          S036.47.46.252 E174.37.15.190 
                           S036.47.46.252 E174.37.15.190 OMLEN          OMLEN          
-(WP) BAYES 2R.ORIDI.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
+(WP) BAYES 3R.ORIDI.03    S036.47.46.252 E174.37.15.190 WP21T          WP21T          
                           WP21T          WP21T          BAYES          BAYES          
                           BAYES          BAYES          S036.47.46.252 E174.37.15.190 
                           S036.47.46.252 E174.37.15.190 ORIDI          ORIDI          
@@ -13066,25 +13064,25 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           WP26T          WP26T          S036.47.18.000 E174.41.33.000 
                           S036.47.18.000 E174.41.33.000 S036.42.13.000 E174.46.20.000 
                           S036.42.13.000 E174.46.20.000 WYTAK          WYTAK          
-(WP) WYTAK 1Q.AA.21       S036.47.06.551 E174.38.20.591 WP21T          WP21T          
+(WP) WYTAK 2Q.AA.21       S036.47.06.551 E174.38.20.591 WP21T          WP21T          
                           WP21T          WP21T          WYTAK          WYTAK          
                           WYTAK          WYTAK          S036.47.06.551 E174.38.20.591 
                           S036.47.06.551 E174.38.20.591 AA             AA             
-(WP) WYTAK 1Q.KAPAI.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
+(WP) WYTAK 2Q.KAPAI.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
                           WP21T          WP21T          WYTAK          WYTAK          
                           WYTAK          WYTAK          S036.47.06.551 E174.38.20.591 
                           S036.47.06.551 E174.38.20.591 KAPAI          KAPAI          
-(WP) WYTAK 1Q.LIMES.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
+(WP) WYTAK 2Q.LIMES.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
                           WP21T          WP21T          WYTAK          WYTAK          
                           WYTAK          WYTAK          S036.47.06.551 E174.38.20.591 
                           S036.47.06.551 E174.38.20.591 LIMES          LIMES          
-(WP) WYTAK 1Q.LUPRU.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
+(WP) WYTAK 2Q.LUPRU.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
                           WP21T          WP21T          WYTAK          WYTAK          
                           WYTAK          WYTAK          S036.47.06.551 E174.38.20.591 
                           S036.47.06.551 E174.38.20.591 KANVI          KANVI          
                           KANVI          KANVI          RUTLO          RUTLO          
                           RUTLO          RUTLO          LUPRU          LUPRU          
-(WP) WYTAK 1Q.OMLEN.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
+(WP) WYTAK 2Q.OMLEN.21    S036.47.06.551 E174.38.20.591 WP21T          WP21T          
                           WP21T          WP21T          WYTAK          WYTAK          
                           WYTAK          WYTAK          S036.47.06.551 E174.38.20.591 
                           S036.47.06.551 E174.38.20.591 OMLEN          OMLEN          
@@ -14786,45 +14784,36 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (NS) VFR_BRANFORD-02_DEP  S041.17.32.021 E173.13.46.060 S041.16.26.300 E173.17.44.400 
 (NS) VFR_BRIDGE_DEP       S041.17.32.021 E173.13.46.060 S041.17.02.800 E173.07.55.500 
 (NS) VFR_BRIGHTWATER_DEP  S041.18.05.029 E173.13.08.119 S041.22.35.800 E173.06.05.500 
-(NV) AKPIN 4A.04          AKPIN          AKPIN          BIDKU          BIDKU          
+(NV) AKPIN 5A.04          AKPIN          AKPIN          BIDKU          BIDKU          
                           BIDKU          BIDKU          VIKIP          VIKIP          
                           VIKIP          VIKIP          DOTLU          DOTLU          
                           DOTLU          DOTLU          EGAMU          EGAMU          
-(NV) AKPIN 5B.22          AKPIN          AKPIN          BIDKU          BIDKU          
+(NV) AKPIN 6B.22          AKPIN          AKPIN          BIDKU          BIDKU          
                           BIDKU          BIDKU          MASGO          MASGO          
                           MASGO          MASGO          DUNAX          DUNAX          
-(NV) AMVIX 1A.04          AMVIX          AMVIX          EGAMU          EGAMU          
-(NV) AMVIX 2B.22          AMVIX          AMVIX          DOTLU          DOTLU          
-(NV) ANOPA 5A.INTUS.04    INTUS          INTUS          ANOPA          ANOPA          
+(NV) AMVIX 2A.04          AMVIX          AMVIX          EGAMU          EGAMU          
+(NV) AMVIX 3B.22          AMVIX          AMVIX          DOTLU          DOTLU          
+(NV) ANOPA 6A.INTUS.04    INTUS          INTUS          ANOPA          ANOPA          
                           ANOPA          ANOPA          NV423          NV423          
                           NV423          NV423          MIMIV          MIMIV          
                           MIMIV          MIMIV          ESNUP          ESNUP          
-(NV) ANOPA 5A.PEXED.04    PEXED          PEXED          ANOPA          ANOPA          
+(NV) ANOPA 6A.PEXED.04    PEXED          PEXED          ANOPA          ANOPA          
                           ANOPA          ANOPA          NV423          NV423          
                           NV423          NV423          MIMIV          MIMIV          
                           MIMIV          MIMIV          ESNUP          ESNUP          
-(NV) ANOPA 5A.SUNGU.04    SUNGU          SUNGU          ANOPA          ANOPA          
-                          ANOPA          ANOPA          NV423          NV423          
-                          NV423          NV423          MIMIV          MIMIV          
-                          MIMIV          MIMIV          ESNUP          ESNUP          
-(NV) ANOPA 6B.INTUS.22    INTUS          INTUS          ANOPA          ANOPA          
+(NV) ANOPA 7B.INTUS.22    INTUS          INTUS          ANOPA          ANOPA          
                           ANOPA          ANOPA          MOMPI          MOMPI          
                           MOMPI          MOMPI          LALEV          LALEV          
-(NV) ANOPA 6B.PEXED.22    PEXED          PEXED          ANOPA          ANOPA          
+(NV) ANOPA 7B.PEXED.22    PEXED          PEXED          ANOPA          ANOPA          
                           ANOPA          ANOPA          MOMPI          MOMPI          
                           MOMPI          MOMPI          LALEV          LALEV          
-(NV) ANOPA 6B.SUNGU.22    SUNGU          SUNGU          OGAVO          OGAVO          
-                          OGAVO          OGAVO          MOVSA          MOVSA          
-                          MOVSA          MOVSA          ANOPA          ANOPA          
-                          ANOPA          ANOPA          MOMPI          MOMPI          
-                          MOMPI          MOMPI          LALEV          LALEV          
-(NV) DUKOP 5A.04          DUKOP          DUKOP          UKETA          UKETA          
+(NV) DUKOP 6A.04          DUKOP          DUKOP          UKETA          UKETA          
                           UKETA          UKETA          VENIR          VENIR          
                           VENIR          VENIR          BIDKU          BIDKU          
                           BIDKU          BIDKU          VIKIP          VIKIP          
                           VIKIP          VIKIP          DOTLU          DOTLU          
                           DOTLU          DOTLU          EGAMU          EGAMU          
-(NV) DUKOP 6B.22          DUKOP          DUKOP          UKETA          UKETA          
+(NV) DUKOP 7B.22          DUKOP          DUKOP          UKETA          UKETA          
                           UKETA          UKETA          VENIR          VENIR          
                           VENIR          VENIR          BIDKU          BIDKU          
                           BIDKU          BIDKU          MASGO          MASGO          
@@ -14841,7 +14830,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (NV) INVERCARGILL 1D.22   NV             NV             S046.30.32.436 E168.30.47.952 
                           S046.30.32.436 E168.30.47.952 S046.26.44.160 E168.33.16.164 
                           S046.26.44.160 E168.33.16.164 S046.22.56.568 E168.33.16.920 
-(NV) PEXED 1A.04          PEXED          PEXED          LUXER          LUXER          
+(NV) PEXED 2A.04          PEXED          PEXED          LUXER          LUXER          
                           LUXER          LUXER          ESNUP          ESNUP          
 (NV) RNP.EGAMU.04         EGAMU          EGAMU          KAGRU          KAGRU          
                           KAGRU          KAGRU          NILIB          NILIB          
