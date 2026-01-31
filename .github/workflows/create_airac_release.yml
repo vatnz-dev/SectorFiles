@@ -35,7 +35,7 @@ jobs:
           zip -r "output/VATNZ-SKYLINE_${CYCLE}.zip" .
         shell: bash
 
-      - name: Create GitHub Release
+      - name: Create Release with Assets
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
@@ -43,13 +43,6 @@ jobs:
           name: "Cycle ${{ env.CYCLE }}"
           draft: false
           prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Release Assets
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: "cycle-${{ env.CYCLE }}"
           files: |
             output/${{ env.PREFIX }}.zip
             output/VATNZ-SKYLINE_${{ env.CYCLE }}.zip
