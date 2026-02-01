@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2512 Effective 27 Nov 25  VATNZ-NZZC
+; AIRAC 2602 Effective 19 Feb 26  VATNZ-NZZC
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -59,7 +59,7 @@
 #define yellow 55295
 
 [INFO]
-New Zealand Domestic (NZZC) 2512 27 Nov 25
+New Zealand Domestic (NZZC) AIRAC 2602 19 Feb 26
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -85,6 +85,7 @@ NZCG 000.0 S038.39.55.000 E176.08.05.000 G ; Centennial Park
 NZCH 118.4 S043.29.22.000 E172.32.04.000 C ; Christchurch
 NZCL 000.0 S041.27.22.000 E174.00.51.000 G ; Cloudy Bay
 NZCS 000.0 S045.02.55.000 E169.10.14.000 G ; Cromwell Racecourse
+NZCV 000.0 S042.48.31.690 E173.15.55.650 G ; Cheviot
 NZCW 000.0 S044.58.48.000 E169.13.06.000 G ; Cromwell
 NZCX 000.0 S036.47.30.000 E175.30.31.000 G ; Coromandel
 NZDA 000.0 S035.56.23.000 E173.53.37.000 G ; Dargaville
@@ -100,10 +101,9 @@ NZFA 000.0 S034.30.58.570 E172.54.40.880 G ; Te Hapua
 NZFE 000.0 S043.19.03.000 E172.30.42.000 G ; Fernside Fields
 NZFF 000.0 S043.23.09.000 E172.21.38.000 G ; Forest Field
 NZFG 000.0 S046.53.42.000 E168.06.42.000 G ; Fern Gully
-NZFH 000.0 S043.27.47.000 E169.59.59.000 G ; Fox
+NZFH 000.0 S043.28.19.160 E170.00.14.160 G ; Fox
 NZFI 000.0 S040.15.21.340 E175.36.21.310 G ; Feilding
 NZFJ 000.0 S043.21.47.000 E170.08.04.000 G ; Franz Josef
-NZFL 000.0 S039.53.44.000 E175.39.12.000 G ; Flat Hills
 NZFO 000.0 S043.27.42.920 E170.01.08.370 G ; Fox Glacier
 NZFP 000.0 S040.27.24.000 E175.16.13.000 G ; Foxpine
 NZFR 000.0 S043.28.07.000 E170.00.07.000 G ; Fox River
@@ -111,6 +111,7 @@ NZFT 000.0 S041.14.35.000 E175.57.37.000 G ; Flat Point
 NZGA 000.0 S038.24.31.000 E176.44.31.000 G ; Galatea
 NZGB 000.0 S036.14.29.000 E175.28.19.000 G ; Great Barrier
 NZGC 000.0 S046.09.24.000 E168.53.54.000 G ; Gore
+NZGD 000.0 S044.05.49.300 E171.14.34.200 G ; Geraldine
 NZGH 000.0 S043.23.14.000 E170.10.48.000 G ; Glacier Country
 NZGM 000.0 S042.27.42.000 E171.11.24.000 G ; Greymouth
 NZGO 000.0 S046.06.09.700 E168.56.18.500 G ; Gore Hospital
@@ -126,11 +127,13 @@ NZHK 000.0 S042.42.49.000 E170.59.07.000 G ; Hokitika
 NZHM 000.0 S042.34.11.000 E172.47.53.000 G ; Hanmer
 NZHN 126.8 S037.51.59.000 E175.20.07.000 D ; Hamilton
 NZHP 000.0 S042.36.04.000 E171.41.57.000 G ; Lake Haupiri
+NZHR 000.0 S042.31.12.610 E172.49.22.510 G ; Hanmer Medical Centre
 NZHS 000.0 S039.38.47.480 E176.46.00.240 G ; Hastings
 NZHT 000.0 S043.52.00.000 E169.02.25.000 G ; Haast
 NZJA 000.0 S037.42.25.000 E176.08.53.000 G ; Tauranga Hospital
 NZJB 000.0 S041.32.12.000 E173.56.37.000 G ; Wairau Hospital
 NZJC 000.0 S043.31.58.590 E172.37.26.010 G ; Christchurch Hospital
+NZJD 000.0 S037.08.09.000 E175.32.40.300 G ; Thames Hospital
 NZJE 000.0 S035.55.44.000 E173.52.32.000 G ; Dargaville Hospital
 NZJF 000.0 S037.57.56.000 E176.58.36.000 G ; Whakatane Hospital
 NZJG 000.0 S038.38.19.000 E178.00.13.000 G ; Gisborne Hospital
@@ -183,9 +186,11 @@ NZMH 000.0 S040.56.51.000 E175.40.31.000 G ; Wairarapa Hospital
 NZMJ 000.0 S044.21.49.000 E168.01.09.000 G ; Martins Bay
 NZMK 000.0 S041.07.24.000 E172.59.19.000 G ; Motueka
 NZML 000.0 S043.21.13.000 E170.11.27.000 G ; Mid Waiho Loop
+NZMM 000.0 S036.57.48.000 E174.50.43.000 G ; Middlemore Hospital
 NZMO 000.0 S045.31.59.000 E167.39.00.000 G ; Te Anau / Manapouri
 NZMR 000.0 S041.47.48.000 E172.18.54.000 G ; Murchison
 NZMS 000.0 S040.58.24.000 E175.38.01.000 G ; Masterton
+NZMV 000.0 S043.38.05.400 E171.39.16.100 G ; Methven
 NZMW 000.0 S044.13.54.000 E169.13.49.000 G ; Makarora
 NZMX 000.0 S039.58.21.600 E173.17.51.600 G ; Raroa
 NZNE 000.0 S036.39.24.000 E174.39.19.000 G ; North Shore
@@ -251,7 +256,7 @@ NZTM 000.0 S038.50.36.000 E175.15.19.000 G ; Taumarunui
 NZTN 000.0 S038.58.06.000 E175.48.49.000 G ; Turangi
 NZTO 000.0 S038.14.12.000 E175.53.34.000 G ; Tokoroa
 NZTP 000.0 S044.00.46.000 E170.24.24.000 G ; Tekapo / Mackenzie
-NZTQ 000.0 S038.20.01.640 E175.09.06.530 G ; Te Kuiti Hospital
+NZTQ 000.0 S038.20.02.200 E175.09.06.320 G ; Te Kuiti Hospital
 NZTR 000.0 S037.37.45.000 E178.20.51.000 G ; Te Araroa
 NZTS 000.0 S041.12.16.420 E173.02.57.720 G ; Tasman
 NZTT 000.0 S038.18.12.000 E175.08.49.000 G ; Te Kuiti
@@ -1807,8 +1812,8 @@ LOCIY S042.50.17.700 E171.11.02.620
 LOCSO S042.53.02.250 E172.59.28.000
 LOSGA S036.54.03.800 E174.44.27.210
 LOSKO S045.48.01.700 E170.18.00.760
-LOSTI S045.04.31.000 E168.22.51.000
 LOSTI S045.04.30.850 E168.22.50.870
+LOSTI S045.04.31.000 E168.22.51.000
 LOTLO S043.56.46.230 E181.07.33.480
 LOTRA S020.13.58.750 E200.54.05.920
 LOVTA S041.59.13.950 E171.36.35.160
@@ -2686,7 +2691,6 @@ TEREN S018.37.07.270 E200.09.25.140
 TERIL S040.23.47.080 E175.37.20.080
 TEROT S040.12.11.740 E175.39.01.000
 TERUX S025.00.00.000 E171.43.54.000
-TESAS S033.20.50.590 E159.49.32.470
 TEVUC S037.02.28.090 E175.10.44.710
 THANG S036.57.45.250 E175.03.16.720
 THROW S037.40.30.580 E175.29.19.660
@@ -2960,8 +2964,8 @@ WARDS S041.50.32.320 E174.10.06.050
 WB401 S041.31.00.862 E173.53.04.690
 WB601 S041.31.11.000 E173.51.46.000
 WB724 S041.30.07.700 E174.04.37.700
-WB726 S041.33.34.180 E173.51.54.199
-WB732 S041.33.34.180 E173.47.42.579
+WB726 S041.33.34.180 E173.49.11.868
+WB732 S041.34.20.155 E173.47.42.579
 WB744 S041.32.02.855 E173.44.44.317
 WEBER S040.13.33.300 E176.27.35.880
 WELLS S036.17.38.830 E174.29.57.640
@@ -8207,7 +8211,7 @@ B577(33)                      ALOHI          ALOHI          TUT            TUT
 B577(40)                      TUT            TUT            DARMA          DARMA          
 B577(00)                      DARMA          DARMA          SAPIX          SAPIX          
 B577(00)                      SAPIX          SAPIX          PASSA          PASSA          
-B577(00)                      PASSA          PASSA          QUIGG          QUIGG          
+B577(55)                      PASSA          PASSA          QUIGG          QUIGG          
 B578(00)                      NILAX          NILAX          GURDI          GURDI          
 B578(00)                      GURDI          GURDI          IBAKA          IBAKA          
 B578(00)                      IBAKA          IBAKA          DOTBU          DOTBU          
@@ -8218,7 +8222,7 @@ B578(00)                      DOTIK          DOTIK          DUMUM          DUMUM
 B578(00)                      DUMUM          DUMUM          TAPAP          TAPAP          
 B581(00)                      BAXIL          BAXIL          GOMIK          GOMIK          
 B581(00)                      GOMIK          GOMIK          WOOBY          WOOBY          
-B581(00)                      WOOBY          WOOBY          WACOS          WACOS          
+B581(55)                      WOOBY          WOOBY          WACOS          WACOS          
 B596(00)                      RG             RG             BIGAN          BIGAN          
 B596(00)                      BIGAN          BIGAN          PULOS          PULOS          
 B596(00)                      PULOS          PULOS          AI             AI             
@@ -8312,7 +8316,6 @@ G594(00)                      BIXIT          BIXIT          RG             RG
 G594(00)                      RG             RG             DALUN          DALUN          
 G594(00)                      DALUN          DALUN          KRILL          KRILL          
 G594(00)                      KRILL          KRILL          MAITO          MAITO          
-G595(00)                      TESAS          TESAS          SARAP          SARAP          
 G595(00)                      SARAP          SARAP          IGLET          IGLET          
 G595(00)                      IGLET          IGLET          MUGEN          MUGEN          
 G595(00)                      MUGEN          MUGEN          NISET          NISET          
@@ -8555,64 +8558,6 @@ J142(49)                      WN             WN             OH             OH
 J142(33)                      OH             OH             EGEVI          EGEVI          
 J142(33)                      EGEVI          EGEVI          NP             NP             
 J203(100)                     CH             CH             HK             HK             
-R327(54)                      GS             GS             IBESO          IBESO          
-R327(00)                      IBESO          IBESO          AUTEL          AUTEL          
-R327(00)                      AUTEL          AUTEL          FAROA          FAROA          
-R327(00)                      FAROA          FAROA          VISIK          VISIK          
-R327(00)                      VISIK          VISIK          NU             NU             
-R453(00)                      GOKIT          GOKIT          IDNIP          IDNIP          
-R453(00)                      IDNIP          IDNIP          DAKAM          DAKAM          
-R453(00)                      DAKAM          DAKAM          UVUTI          UVUTI          
-R453(33)                      UVUTI          UVUTI          FA             FA             
-R582(21)                      NF             NF             SAKLO          SAKLO          
-R582(00)                      SAKLO          SAKLO          KADEN          KADEN          
-R582(00)                      KADEN          KADEN          TERAN          TERAN          
-R582(00)                      TERAN          TERAN          NUGLI          NUGLI          
-R582(00)                      NUGLI          NUGLI          URKEP          URKEP          
-R582(00)                      URKEP          URKEP          OMBOL          OMBOL          
-R582(00)                      OMBOL          OMBOL          RG             RG             
-R582(32)                      RG             RG             KRILL          KRILL          
-R599(00)                      DUGAN          DUGAN          RUMUS          RUMUS          
-R599(00)                      RUMUS          RUMUS          SADIM          SADIM          
-R599(95)                      SADIM          SADIM          NONON          NONON          
-T1(22)                      TBU            TBU            TOARP          TOARP          
-T2(30)                      TV             TV             TPARP          TPARP          
-T4(20)                      TV             TV             TOARP          TOARP          
-T5(22)                      TBU            TBU            TEARP          TEARP          
-T6(22)                      TBU            TBU            TPARP          TPARP          
-V112(73)                      WN             WN             DOGAD          DOGAD          
-V112(72)                      DOGAD          DOGAD          ESMUK          ESMUK          
-V112(61)                      ESMUK          ESMUK          OH             OH             
-V2(22)                      TBU            TBU            TV             TV             
-V242(73)                      DOGAD          DOGAD          LIMPA          LIMPA          
-V242(49)                      LIMPA          LIMPA          PM             PM             
-V3(20)                      TLARP          TLARP          TV             TV             
-V306(34)                      ATBUB          ATBUB          IDGIV          IDGIV          
-V306(38)                      IDGIV          IDGIV          ONOLA          ONOLA          
-V306(34)                      ONOLA          ONOLA          SABDA          SABDA          
-V306(34)                      SABDA          SABDA          WN             WN             
-V468(50)                      ABTOL          ABTOL          OH             OH             
-W104(70)                      NV             NV             ATHOL          ATHOL          
-W104(97)                      ATHOL          ATHOL          QN             QN             
-W115(47)                      AP             AP             AA             AA             
-W118(58)                      NV             NV             KATGU          KATGU          
-W118(88)                      KATGU          KATGU          DABIN          DABIN          
-W118(20)                      DABIN          DABIN          CH             CH             
-W139(30)                      OH             OH             ENTIM          ENTIM          
-W143(33)                      HK             HK             DAMIL          DAMIL          
-W143(51)                      DAMIL          DAMIL          WS             WS             
-W166(50)                      NS             NS             TM             TM             
-W180(48)                      WP             WP             KT             KT             
-W184(19)                      TU             TU             ELDAK          ELDAK          
-W184(17)                      ELDAK          ELDAK          CH             CH             
-W220(40)                      FOXTN          FOXTN          WU             WU             
-W291(98)                      QN             QN             KALDI          KALDI          
-W291(98)                      KALDI          KALDI          MELOK          MELOK          
-W291(98)                      MELOK          MELOK          BEGMU          BEGMU          
-W291(84)                      BEGMU          BEGMU          GUPUT          GUPUT          
-W291(20)                      GUPUT          GUPUT          HODDE          HODDE          
-W291(20)                      HODDE          HODDE          CH             CH             
-W353(90)                      HK             HK             NS             NS             
 KQ121(15)                      BIGAP          BIGAP          SOVBA          SOVBA          
 KQ121(16)                      SOVBA          SOVBA          RIBVO          RIBVO          
 KQ134(15)                      OLGOP          OLGOP          OLGEX          OLGEX          
@@ -8815,7 +8760,6 @@ L326(00)                      MOTKO          MOTKO          UPLAR          UPLAR
 L326(00)                      UPLAR          UPLAR          NF             NF             
 L503(92)                      CH             CH             KABKA          KABKA          
 L503(00)                      KABKA          KABKA          RUNOD          RUNOD          
-L503(00)                      RUNOD          RUNOD          TESAS          TESAS          
 L508(00)                      KAGRI          KAGRI          OMKIN          OMKIN          
 L508(12)                      OMKIN          OMKIN          EKODA          EKODA          
 L508(12)                      EKODA          EKODA          KABIN          KABIN          
@@ -9191,14 +9135,72 @@ Q947(00)                      OKTUB          OKTUB          IDSEM          IDSEM
 Q947(00)                      IDSEM          IDSEM          MEXIP          MEXIP          
 Q983(00)                      OKTUB          OKTUB          DABAS          DABAS          
 Q983(00)                      DABAS          DABAS          IGETO          IGETO          
+R327(54)                      GS             GS             IBESO          IBESO          
+R327(00)                      IBESO          IBESO          AUTEL          AUTEL          
+R327(00)                      AUTEL          AUTEL          FAROA          FAROA          
+R327(00)                      FAROA          FAROA          VISIK          VISIK          
+R327(00)                      VISIK          VISIK          NU             NU             
+R453(00)                      GOKIT          GOKIT          IDNIP          IDNIP          
+R453(00)                      IDNIP          IDNIP          DAKAM          DAKAM          
+R453(00)                      DAKAM          DAKAM          UVUTI          UVUTI          
+R453(33)                      UVUTI          UVUTI          FA             FA             
+R582(21)                      NF             NF             SAKLO          SAKLO          
+R582(00)                      SAKLO          SAKLO          KADEN          KADEN          
+R582(00)                      KADEN          KADEN          TERAN          TERAN          
+R582(00)                      TERAN          TERAN          NUGLI          NUGLI          
+R582(00)                      NUGLI          NUGLI          URKEP          URKEP          
+R582(00)                      URKEP          URKEP          OMBOL          OMBOL          
+R582(00)                      OMBOL          OMBOL          RG             RG             
+R582(32)                      RG             RG             KRILL          KRILL          
+R599(00)                      DUGAN          DUGAN          RUMUS          RUMUS          
+R599(00)                      RUMUS          RUMUS          SADIM          SADIM          
+R599(95)                      SADIM          SADIM          NONON          NONON          
+T1(22)                      TBU            TBU            TOARP          TOARP          
 T18(88)                      LAPIM          LAPIM          ELKIG          ELKIG          
+T2(30)                      TV             TV             TPARP          TPARP          
 T22(12)                      SWUTH          SWUTH          ELKIG          ELKIG          
 T34(12)                      TPAPA          TPAPA          ELKIG          ELKIG          
+T4(20)                      TV             TV             TOARP          TOARP          
 T46(29)                      MIDUB          MIDUB          ELKIG          ELKIG          
 T46(12)                      ELKIG          ELKIG          NUTRA          NUTRA          
 T46(20)                      NUTRA          NUTRA          AA             AA             
+T5(22)                      TBU            TBU            TEARP          TEARP          
+T6(22)                      TBU            TBU            TPARP          TPARP          
 T80(14)                      TELIM          TELIM          ELKIG          ELKIG          
 T92(50)                      NS             NS             ELKIG          ELKIG          
+V112(73)                      WN             WN             DOGAD          DOGAD          
+V112(72)                      DOGAD          DOGAD          ESMUK          ESMUK          
+V112(61)                      ESMUK          ESMUK          OH             OH             
+V2(22)                      TBU            TBU            TV             TV             
+V242(73)                      DOGAD          DOGAD          LIMPA          LIMPA          
+V242(49)                      LIMPA          LIMPA          PM             PM             
+V3(20)                      TLARP          TLARP          TV             TV             
+V306(34)                      ATBUB          ATBUB          IDGIV          IDGIV          
+V306(38)                      IDGIV          IDGIV          ONOLA          ONOLA          
+V306(34)                      ONOLA          ONOLA          SABDA          SABDA          
+V306(34)                      SABDA          SABDA          WN             WN             
+V468(50)                      ABTOL          ABTOL          OH             OH             
+W104(70)                      NV             NV             ATHOL          ATHOL          
+W104(97)                      ATHOL          ATHOL          QN             QN             
+W115(47)                      AP             AP             AA             AA             
+W118(58)                      NV             NV             KATGU          KATGU          
+W118(88)                      KATGU          KATGU          DABIN          DABIN          
+W118(20)                      DABIN          DABIN          CH             CH             
+W139(30)                      OH             OH             ENTIM          ENTIM          
+W143(33)                      HK             HK             DAMIL          DAMIL          
+W143(51)                      DAMIL          DAMIL          WS             WS             
+W166(50)                      NS             NS             TM             TM             
+W180(48)                      WP             WP             KT             KT             
+W184(19)                      TU             TU             ELDAK          ELDAK          
+W184(17)                      ELDAK          ELDAK          CH             CH             
+W220(40)                      FOXTN          FOXTN          WU             WU             
+W291(98)                      QN             QN             KALDI          KALDI          
+W291(98)                      KALDI          KALDI          MELOK          MELOK          
+W291(98)                      MELOK          MELOK          BEGMU          BEGMU          
+W291(84)                      BEGMU          BEGMU          GUPUT          GUPUT          
+W291(20)                      GUPUT          GUPUT          HODDE          HODDE          
+W291(20)                      HODDE          HODDE          CH             CH             
+W353(90)                      HK             HK             NS             NS             
 Y109(53)                      DOPKI          DOPKI          ODOWD          ODOWD          
 Y111(115)                     BELEE          BELEE          SAMEN          SAMEN          
 Y111(101)                     SAMEN          SAMEN          WARDS          WARDS          
@@ -15626,7 +15628,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (WO) RNP.OPOHO.34         OPOHO          OPOHO          MARKS          MARKS          
                           MARKS          MARKS          WO422          WO422          
                           WO422          WO422          WO411          WO411          
-(WP) AA 2J.21             AA             AA             GUTLA          GUTLA          
+(WP) AA 3J.21             AA             AA             GUTLA          GUTLA          
                           GUTLA          GUTLA          EMSAK          EMSAK          
                           EMSAK          EMSAK          BAYES          BAYES          
 (WP) AA 2K.03             AA             AA             GUTLA          GUTLA          
