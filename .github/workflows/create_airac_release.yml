@@ -1,0 +1,50 @@
+name: Create AIRAC Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      cycle:
+        description: "AIRAC cycle number (e.g. 2602)"
+        required: true
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set variables
+        run: |
+          echo "CYCLE=${{ github.event.inputs.cycle }}" >> $GITHUB_ENV
+          echo "PREFIX=VATNZ-NZZC_${{ github.event.inputs.cycle }}" >> $GITHUB_ENV
+
+      - name: Create ZIP of matching files + extras
+        run: |
+          mkdir output
+          zip -j "output/${PREFIX}.zip" \
+            ${PREFIX}.* \
+            "Release Notes.txt" \
+            "VATNZ.prf"
+        shell: bash
+
+      - name: Create ZIP of entire repo
+        run: |
+          zip -r "output/VATNZ-SKYLINE_${CYCLE}.zip" .
+        shell: bash
+
+      - name: Create Release with Assets
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "cycle-${{ env.CYCLE }}"
+          name: "Cycle ${{ env.CYCLE }}"
+          draft: false
+          prerelease: false
+          files: |
+            output/${{ env.PREFIX }}.zip
+            output/VATNZ-SKYLINE_${{ env.CYCLE }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
