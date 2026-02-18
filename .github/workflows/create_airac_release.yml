@@ -32,7 +32,10 @@ jobs:
 
       - name: Create ZIP of entire repo
         run: |
-          zip -r "output/VATNZ-SKYLINE_${CYCLE}.zip" .
+          zip -r "output/VATNZ-SKYLINE_${CYCLE}.zip" . \
+            -x ".git/*" \
+            -x ".github/*" \
+            -x "output/*"
         shell: bash
 
       - name: Create Release with Assets
@@ -48,3 +51,4 @@ jobs:
             output/VATNZ-SKYLINE_${{ env.CYCLE }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
