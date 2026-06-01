@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2604 Effective 16 Apr 26  VATNZ-NZZC
+; AIRAC 2606 Effective 11 Jun 26  VATNZ-NZZC
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -59,7 +59,7 @@
 #define yellow 55295
 
 [INFO]
-New Zealand Domestic (NZZC) AIRAC 2604 16 Apr 26
+New Zealand Domestic (NZZC) AIRAC 2606 11 Jun 26
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -729,6 +729,7 @@ APEXA S045.01.37.550 E168.56.43.910
 APIDO S042.38.31.360 E178.45.00.020
 APIGO S041.08.21.930 E171.56.06.160
 APITI S039.58.34.250 E175.50.49.580
+APORI S042.26.35.730 E173.49.35.760
 APORO S036.46.49.090 E175.51.37.760
 APOTO S043.22.58.050 E181.16.39.020
 APRAN S014.21.54.800 E189.14.01.430
@@ -1391,6 +1392,7 @@ GURKO S021.21.27.630 E199.41.31.570
 GURON S013.44.41.280 E188.08.10.300
 GUROP S035.06.41.360 E173.11.02.510
 GURSU S038.54.34.590 E177.17.07.170
+GURUD S074.27.42.000 E163.00.00.000
 GURUK S036.50.55.160 E174.59.35.410
 GUSAG S038.35.21.240 E175.52.02.430
 GUSAS S045.05.44.330 E168.32.55.220
@@ -1459,12 +1461,14 @@ IBIGI S037.27.15.400 E178.25.07.390
 IBIMA S013.47.06.700 E187.33.38.000
 IBOBA S017.27.39.670 E189.25.52.850
 IBOKU S020.16.35.000 E178.10.53.000
+IBONO S042.22.21.150 E173.53.10.470
 IBOSI S046.15.31.140 E170.00.31.840
 IBULI S038.12.31.140 E177.02.16.410
 IBVON S018.55.53.000 E189.54.12.310
 IBVUK S045.16.18.780 E168.25.14.700
 IDADO S046.00.45.090 E169.44.10.220
 IDARA S044.03.18.650 E171.59.47.930
+IDATO S042.18.04.670 E173.56.40.750
 IDBAD S041.19.07.330 E166.26.43.460
 IDEMA S037.05.37.800 E174.58.24.330
 IDERO S043.12.48.810 E170.57.55.780
@@ -1473,6 +1477,7 @@ IDGIV S042.37.52.530 E173.50.02.920
 IDIMU S039.31.50.210 E166.26.02.450
 IDISA S021.26.24.440 E199.43.47.390
 IDIXI S044.24.24.670 E171.24.57.500
+IDLED S041.31.11.040 E173.00.54.050
 IDLIK S046.02.56.290 E170.18.08.540
 IDLUR S039.49.23.850 E175.33.46.640
 IDMAT S038.59.57.610 E174.03.45.360
@@ -1827,8 +1832,8 @@ LOCIY S042.50.17.700 E171.11.02.620
 LOCSO S042.53.02.250 E172.59.28.000
 LOSGA S036.54.03.800 E174.44.27.210
 LOSKO S045.48.01.700 E170.18.00.760
-LOSTI S045.04.31.000 E168.22.51.000
 LOSTI S045.04.30.850 E168.22.50.870
+LOSTI S045.04.31.000 E168.22.51.000
 LOTLO S043.56.46.230 E181.07.33.480
 LOTRA S020.13.58.750 E200.54.05.920
 LOVTA S041.59.13.950 E171.36.35.160
@@ -1848,6 +1853,7 @@ LUPMA S046.00.34.350 E169.02.09.140
 LUPRU S036.24.06.000 E175.01.32.000
 LURGA S021.08.45.510 E184.41.15.870
 LURLU S037.01.58.230 E174.53.00.340
+LUSER S042.30.49.830 E173.45.59.810
 LUSRA S041.19.06.310 E173.50.24.040
 LUTKA S041.29.34.990 E174.11.36.720
 LUTRA S018.21.07.000 E190.00.00.000
@@ -1975,7 +1981,6 @@ MOSDO S039.53.21.670 E175.34.29.850
 MOSPU S037.51.32.560 E176.02.01.710
 MOSVU S044.15.00.310 E167.55.28.410
 MOTKO S039.07.27.120 E171.38.38.240
-MOVSA S045.57.28.330 E168.28.11.830
 MS402 S040.57.03.701 E175.46.14.588
 MS421 S041.07.06.000 E175.33.42.000
 MS424 S040.56.41.000 E175.29.16.000
@@ -2066,7 +2071,6 @@ NULKO S041.09.13.030 E174.04.21.010
 NULPA S035.07.42.760 E173.11.27.190
 NUMSA S039.25.11.000 E163.00.00.000
 NUMTU S038.12.01.300 E176.24.15.760
-NUNGI S040.06.32.430 E175.30.25.100
 NUPDO S042.52.02.370 E181.42.11.570
 NUPTO S028.43.45.100 E190.00.00.000
 NURDU S046.02.21.900 E170.34.10.680
@@ -2106,6 +2110,7 @@ OGAVO S045.46.36.960 E168.31.52.970
 OGELA S016.24.29.850 E187.59.33.470
 OGENA S043.27.33.800 E172.33.58.920
 OGITA S020.32.01.840 E185.13.06.960
+OH401 S041.05.08.050 E175.29.06.550
 OKAHU S035.10.02.830 E174.07.39.730
 OKAPO S046.01.35.080 E170.09.41.570
 OKERE S037.55.43.110 E176.25.34.560
@@ -2118,7 +2123,6 @@ OKTUB S035.12.50.290 E176.09.36.160
 OKVET S043.49.26.130 E168.56.44.630
 OLBAD S041.24.42.550 E176.31.36.330
 OLBEX S035.41.36.310 E178.36.26.900
-OLBIN S041.13.07.240 E174.48.51.060
 OLBUK S044.54.04.440 E168.39.16.990
 OLBUM S037.03.15.120 E174.54.27.700
 OLDEB S038.45.28.740 E178.00.38.320
@@ -2543,6 +2547,7 @@ RUSKI S041.11.19.470 E174.25.53.680
 RUSON S043.25.45.180 E172.39.16.870
 RUSPO S025.00.00.000 E182.45.28.360
 RUSTA S037.35.51.090 E176.01.35.090
+RUSUK S045.36.42.430 E170.59.41.080
 RUTLO S036.36.53.100 E174.46.52.950
 RUTOR S043.27.06.660 E172.29.06.900
 RUTRO S043.16.15.800 E172.46.21.800
@@ -2554,7 +2559,6 @@ RUXOX S040.24.33.080 E175.47.59.650
 SABAV S037.01.14.970 E175.04.21.290
 SABDA S041.47.36.820 E174.28.32.150
 SABID S038.19.16.120 E176.21.51.180
-SABUB S018.31.14.000 E208.33.55.000
 SADBO S041.20.38.930 E174.03.25.590
 SADIM S025.43.35.020 E170.36.49.770
 SADOS S036.53.36.820 E174.46.04.800
@@ -2758,6 +2762,7 @@ TUNTA S038.47.33.940 E176.16.39.520
 TUPGU S041.11.39.500 E173.45.09.320
 TURAK S041.25.46.330 E174.54.42.590
 TURPA S021.34.29.230 E199.50.34.700
+TURPI S045.38.35.120 E170.58.42.360
 TURPO S041.33.19.470 E173.52.53.630
 TUSGA S038.00.16.880 E176.22.35.740
 TUSLO S036.58.16.880 E174.55.59.110
@@ -8351,7 +8356,6 @@ G595(00)                      MALNI          MALNI          NIMOD          NIMOD
 G595(00)                      NIMOD          NIMOD          ODUTI          ODUTI          
 G595(00)                      ODUTI          ODUTI          PAVSI          PAVSI          
 G595(00)                      PAVSI          PAVSI          RAXER          RAXER          
-G595(00)                      RAXER          RAXER          SABUB          SABUB          
 G599(41)                      AA             AA             OLBEX          OLBEX          
 G599(00)                      OLBEX          OLBEX          IGETO          IGETO          
 G599(00)                      IGETO          IGETO          MUKLU          MUKLU          
@@ -8441,11 +8445,11 @@ H221(32)                      KAMES          KAMES          WN             WN
 H222(93)                      PM             PM             ARETI          ARETI          
 H234(44)                      RO             RO             FALLS          FALLS          
 H240(63)                      NS             NS             DALKI          DALKI          
-H240(63)                      DALKI          DALKI          DUMOT          DUMOT          
+H240(47)                      DALKI          DALKI          DUMOT          DUMOT          
 H240(47)                      DUMOT          DUMOT          MIBUS          MIBUS          
-H240(36)                      MIBUS          MIBUS          PM             PM             
+H240(26)                      MIBUS          MIBUS          PM             PM             
 H240(56)                      PM             PM             IRMIX          IRMIX          
-H240(56)                      IRMIX          IRMIX          WEBER          WEBER          
+H240(46)                      IRMIX          IRMIX          WEBER          WEBER          
 H240(45)                      WEBER          WEBER          ELPEL          ELPEL          
 H240(30)                      ELPEL          ELPEL          OPAPA          OPAPA          
 H240(33)                      OPAPA          OPAPA          NR             NR             
@@ -8524,7 +8528,7 @@ H372(64)                      NR             NR             BOVSA          BOVSA
 H372(67)                      BOVSA          BOVSA          MOOSE          MOOSE          
 H372(67)                      MOOSE          MOOSE          LUXAS          LUXAS          
 H372(43)                      LUXAS          LUXAS          ELAGA          ELAGA          
-H372(43)                      ELAGA          ELAGA          RO             RO             
+H372(44)                      ELAGA          ELAGA          RO             RO             
 H372(50)                      RO             RO             ESKER          ESKER          
 H372(50)                      ESKER          ESKER          TULMI          TULMI          
 H372(30)                      TULMI          TULMI          AA             AA             
@@ -8733,7 +8737,8 @@ KQ517(14)                      AVNEM          AVNEM          OPEKU          OPEK
 KQ528(21)                      WP             WP             VEGTA          VEGTA          
 KQ528(21)                      VEGTA          VEGTA          WELLS          WELLS          
 KQ528(22)                      WELLS          WELLS          EPDUN          EPDUN          
-KQ528(25)                      EPDUN          EPDUN          WR             WR             
+KQ528(25)                      EPDUN          EPDUN          SF             SF             
+KQ528(20)                      SF             SF             WR             WR             
 KQ528(24)                      WR             WR             KIMAN          KIMAN          
 KQ528(24)                      KIMAN          KIMAN          ZEDEE          ZEDEE          
 KQ528(24)                      ZEDEE          ZEDEE          BIBMA          BIBMA          
@@ -8744,7 +8749,7 @@ KQ528(15)                      STEED          STEED          KARNI          KARN
 KQ528(21)                      KARNI          KARNI          AKTOK          AKTOK          
 KQ528(12)                      AKTOK          AKTOK          ELNOS          ELNOS          
 KQ531(27)                      URGAB          URGAB          ADLED          ADLED          
-KQ551(32)                      TANIG          TANIG          WR             WR             
+KQ551(29)                      TANIG          TANIG          WR             WR             
 KQ554(33)                      MASDA          MASDA          MAGEX          MAGEX          
 KQ560(14)                      SUNPA          SUNPA          BUDPA          BUDPA          
 KQ560(14)                      BUDPA          BUDPA          OVSOB          OVSOB          
@@ -8960,6 +8965,11 @@ Q169(40)                      AVKEX          AVKEX          ENBAR          ENBAR
 Q169(12)                      ENBAR          ENBAR          KAPTI          KAPTI          
 Q169(12)                      KAPTI          KAPTI          PORIG          PORIG          
 Q169(17)                      PORIG          PORIG          OH             OH             
+Q170(12)                      MESIX          MESIX          LUSER          LUSER          
+Q170(12)                      LUSER          LUSER          APORI          APORI          
+Q170(12)                      APORI          APORI          IBONO          IBONO          
+Q170(12)                      IBONO          IBONO          IDATO          IDATO          
+Q170(16)                      IDATO          IDATO          WAIMA          WAIMA          
 Q171(62)                      GOTNO          GOTNO          IGMEK          IGMEK          
 Q171(59)                      IGMEK          IGMEK          LUKMI          LUKMI          
 Q171(48)                      LUKMI          LUKMI          RO             RO             
@@ -9119,20 +9129,20 @@ Q606(83)                      KABKA          KABKA          WN             WN
 Q611(00)                      CI             CI             APOTO          APOTO          
 Q611(00)                      APOTO          APOTO          APIDO          APIDO          
 Q611(00)                      APIDO          APIDO          ATABU          ATABU          
-Q611(34)                      ATABU          ATABU          ATSUN          ATSUN          
-Q611(54)                      ATSUN          ATSUN          WN             WN             
+Q611(27)                      ATABU          ATABU          ATSUN          ATSUN          
+Q611(51)                      ATSUN          ATSUN          WN             WN             
 Q619(00)                      PEBLU          PEBLU          LEKUS          LEKUS          
 Q642(80)                      VANDA          VANDA          WN             WN             
 Q647(21)                      WU             WU             ENTIM          ENTIM          
 Q647(30)                      ENTIM          ENTIM          DAGOM          DAGOM          
 Q647(36)                      DAGOM          DAGOM          OPABI          OPABI          
-Q651(29)                      PM             PM             GULUT          GULUT          
+Q651(21)                      PM             PM             GULUT          GULUT          
 Q659(46)                      APABO          APABO          PERAS          PERAS          
 Q665(32)                      DOSTU          DOSTU          SUNEL          SUNEL          
 Q665(18)                      SUNEL          SUNEL          UPLIN          UPLIN          
 Q665(23)                      UPLIN          UPLIN          KAWAU          KAWAU          
 Q677(44)                      IDMUB          IDMUB          MARKO          MARKO          
-Q679(82)                      GOPLU          GOPLU          PM             PM             
+Q679(79)                      GOPLU          GOPLU          PM             PM             
 Q686(53)                      BOLOX          BOLOX          AKBAP          AKBAP          
 Q686(23)                      AKBAP          AKBAP          MARKO          MARKO          
 Q697(00)                      CI             CI             GUMKO          GUMKO          
@@ -9163,16 +9173,17 @@ Q720(27)                      LIMVU          LIMVU          KAPTI          KAPTI
 Q731(71)                      PP             PP             UGIPU          UGIPU          
 Q731(72)                      UGIPU          UGIPU          KHOAI          KHOAI          
 Q731(41)                      KHOAI          KHOAI          URDAL          URDAL          
-Q741(30)                      MERAS          MERAS          FIRTH          FIRTH          
-Q741(31)                      FIRTH          FIRTH          SATLA          SATLA          
-Q741(30)                      SATLA          SATLA          HOOKS          HOOKS          
-Q741(20)                      HOOKS          HOOKS          BAYES          BAYES          
-Q741(20)                      BAYES          BAYES          WP             WP             
+Q741(22)                      MERAS          MERAS          FIRTH          FIRTH          
+Q741(20)                      FIRTH          FIRTH          SATLA          SATLA          
+Q741(18)                      SATLA          SATLA          HOOKS          HOOKS          
+Q741(19)                      HOOKS          HOOKS          BAYES          BAYES          
+Q741(16)                      BAYES          BAYES          WP             WP             
 Q747(28)                      ELMAX          ELMAX          MUKRA          MUKRA          
 Q747(34)                      MUKRA          MUKRA          DUGUP          DUGUP          
 Q747(34)                      DUGUP          DUGUP          MARKO          MARKO          
 Q787(25)                      NV             NV             ANOPA          ANOPA          
-Q787(69)                      ANOPA          ANOPA          SUNGU          SUNGU          
+Q787(44)                      ANOPA          ANOPA          OGAVO          OGAVO          
+Q787(69)                      OGAVO          OGAVO          SUNGU          SUNGU          
 Q787(97)                      SUNGU          SUNGU          QN             QN             
 Q787(95)                      QN             QN             TIMJO          TIMJO          
 Q787(79)                      TIMJO          TIMJO          MAMUS          MAMUS          
@@ -9213,7 +9224,7 @@ Q852(19)                      DOPOP          DOPOP          TU             TU
 Q854(00)                      CI             CI             LOTLO          LOTLO          
 Q854(00)                      LOTLO          LOTLO          DOPOM          DOPOM          
 Q854(00)                      DOPOM          DOPOM          LALAP          LALAP          
-Q854(28)                      LALAP          LALAP          CH             CH             
+Q854(22)                      LALAP          LALAP          CH             CH             
 Q892(92)                      TU             TU             DUBON          DUBON          
 Q892(112)                     DUBON          DUBON          IDERO          IDERO          
 Q892(107)                     IDERO          IDERO          HK             HK             
@@ -9249,6 +9260,7 @@ Y175(12)                      IGUTA          IGUTA          AKAVI          AKAVI
 Y175(27)                      AKAVI          AKAVI          OMKUN          OMKUN          
 Y175(33)                      OMKUN          OMKUN          OPABI          OPABI          
 Y198(16)                      AKAVI          AKAVI          PADMU          PADMU          
+Y215(15)                      BIDEL          BIDEL          OMARU          OMARU          
 Y226(73)                      GURBO          GURBO          ANOKU          ANOKU          
 Y226(73)                      ANOKU          ANOKU          ABTOL          ABTOL          
 Y226(50)                      ABTOL          ABTOL          PM             PM             
@@ -9381,12 +9393,12 @@ Y820(53)                      UVUSI          UVUSI          RIDLA          RIDLA
 Y832(12)                      EKALI          EKALI          IGBAT          IGBAT          
 Y871(41)                      RO             RO             KAMLA          KAMLA          
 Y871(55)                      KAMLA          KAMLA          DODKU          DODKU          
-Y874(88)                      MIPAK          MIPAK          LAPIM          LAPIM          
-Y874(89)                      LAPIM          LAPIM          LAKAR          LAKAR          
+Y874(87)                      MIPAK          MIPAK          LAPIM          LAPIM          
+Y874(86)                      LAPIM          LAPIM          LAKAR          LAKAR          
 Y883(26)                      DAPNO          DAPNO          LEBOX          LEBOX          
 Y886(83)                      ELRUV          ELRUV          MAMUS          MAMUS          
-Y890(51)                      MIPAK          MIPAK          MAMAN          MAMAN          
-Y890(51)                      MAMAN          MAMAN          KAMDO          KAMDO          
+Y890(43)                      MIPAK          MIPAK          MAMAN          MAMAN          
+Y890(28)                      MAMAN          MAMAN          KAMDO          KAMDO          
 Y894(67)                      CH             CH             IGEGA          IGEGA          
 Y894(98)                      IGEGA          IGEGA          ALADA          ALADA          
 Y894(77)                      ALADA          ALADA          PEDPO          PEDPO          
@@ -10442,18 +10454,20 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           OKAPO          OKAPO          ATGUB          ATGUB          
                           ATGUB          ATGUB          TEBIV          TEBIV          
                           TEBIV          TEBIV          BIDEL          BIDEL          
-(DN) BIDEL 3R.03          S045.56.02.130 E170.11.14.899 DN03T          DN03T          
+(DN) BIDEL 4R.03          S045.56.02.130 E170.11.14.899 DN03T          DN03T          
                           DN03T          DN03T          GUTED          GUTED          
                           GUTED          GUTED          ADNAV          ADNAV          
                           ADNAV          ADNAV          KAMVU          KAMVU          
-                          KAMVU          KAMVU          BIDEL          BIDEL          
-(DN) BIDEL 5S.21          S045.55.27.761 E170.12.28.030 DN03T          DN03T          
+                          KAMVU          KAMVU          RUSUK          RUSUK          
+                          RUSUK          RUSUK          BIDEL          BIDEL          
+(DN) BIDEL 6S.21          S045.55.27.761 E170.12.28.030 DN03T          DN03T          
                           DN03T          DN03T          MANRA          MANRA          
                           MANRA          MANRA          ENDUR          ENDUR          
                           ENDUR          ENDUR          IDLIK          IDLIK          
                           IDLIK          IDLIK          PIBEX          PIBEX          
                           PIBEX          PIBEX          KAMVU          KAMVU          
-                          KAMVU          KAMVU          BIDEL          BIDEL          
+                          KAMVU          KAMVU          TURPI          TURPI          
+                          TURPI          TURPI          BIDEL          BIDEL          
 (DN) OCEAN 6.OREXI.21     S045.55.27.761 E170.12.28.030 DN03T          DN03T          
                           DN03T          DN03T          BE             BE             
                           BE             BE             S045.55.27.761 E170.12.28.030 
@@ -11072,27 +11086,27 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S035.02.91.000 E173.15.94.200 PERIA          PERIA          
                           PERIA          PERIA          RUATO          RUATO          
                           RUATO          RUATO          HOBIN          HOBIN          
-(KT) KAROA 1P.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
-                          KT30T          KT30T          KT601          KT601          
-                          KT601          KT601          KAROA          KAROA          
 (KT) KAROA 1Q.30          S035.04.28.229 E173.17.25.660 KT12T          KT12T          
                           KT12T          KT12T          S035.02.91.000 E173.15.94.200 
                           S035.02.91.000 E173.15.94.200 KT603          KT603          
                           KT603          KT603          KAROA          KAROA          
-(KT) PERAS 1P.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
+(KT) KAROA 1S.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
                           KT30T          KT30T          KT601          KT601          
-                          KT601          KT601          PERAS          PERAS          
+                          KT601          KT601          KAROA          KAROA          
 (KT) PERAS 1Q.30          S035.04.28.229 E173.17.25.660 KT12T          KT12T          
                           KT12T          KT12T          S035.00.94.740 E173.14.05.818 
                           S035.00.94.740 E173.14.05.818 KT608          KT608          
                           KT608          KT608          PERAS          PERAS          
-(KT) RUATO 1P.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
+(KT) PERAS 1S.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
                           KT30T          KT30T          KT601          KT601          
-                          KT601          KT601          RUATO          RUATO          
+                          KT601          KT601          PERAS          PERAS          
 (KT) RUATO 1Q.30          S035.04.28.229 E173.17.25.660 KT12T          KT12T          
                           KT12T          KT12T          S035.02.91.000 E173.15.94.200 
                           S035.02.91.000 E173.15.94.200 PERIA          PERIA          
                           PERIA          PERIA          RUATO          RUATO          
+(KT) RUATO 1S.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
+                          KT30T          KT30T          KT601          KT601          
+                          KT601          KT601          RUATO          RUATO          
 (KT) VALLEY 3.12          S035.03.52.330 E173.16.51.650 KT30T          KT30T          
                           KT30T          KT30T          S035.05.27.816 E173.18.20.448 
                           S035.05.27.816 E173.18.20.448 KAROA          KAROA          
@@ -11495,25 +11509,25 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S039.27.43.160 E176.52.04.940 POTEX          POTEX          
 (NR) WEST 2.34            S039.28.39.698 E176.51.58.720 NR34T          NR34T          
                           NR34T          NR34T          S039.27.27.000 E176.52.07.000 
-(NS) BISEB 1Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) BISEB 2Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          POTIR          POTIR          
                           POTIR          POTIR          ANITU          ANITU          
                           ANITU          ANITU          BISEB          BISEB          
-(NS) CONOR 1Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) CONOR 2Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          POTIR          POTIR          
                           POTIR          POTIR          ANITU          ANITU          
                           ANITU          ANITU          CONOR          CONOR          
-(NS) DUMIK 1P.02          S041.18.04.961 E173.13.08.231 NS20T          NS20T          
+(NS) DUMIK 2P.02          S041.18.04.961 E173.13.08.231 NS20T          NS20T          
                           NS20T          NS20T          S041.15.20.000 E173.15.32.000 
                           S041.15.20.000 E173.15.32.000 RIKRU          RIKRU          
                           RIKRU          RIKRU          DUMIK          DUMIK          
-(NS) DUMIK 2Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) DUMIK 3Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          S041.19.32.000 E173.11.25.000 
                           S041.19.32.000 E173.11.25.000 S041.19.12.000 E173.09.10.000 
                           S041.19.12.000 E173.09.10.000 ANPAR          ANPAR          
                           ANPAR          ANPAR          DUMIK          DUMIK          
-(NS) IDNIM 2P.BISEB.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
+(NS) IDNIM 3P.BISEB.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
                           NS20T          NS20T          S041.15.20.000 E173.15.32.000 
                           S041.15.20.000 E173.15.32.000 SALIR          SALIR          
                           SALIR          SALIR          DAZSA          DAZSA          
@@ -11521,40 +11535,40 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           IDNIM          IDNIM          S041.18.04.961 E173.13.08.231 
                           S041.18.04.961 E173.13.08.231 NESTA          NESTA          
                           NESTA          NESTA          BISEB          BISEB          
-(NS) IDNIM 2P.CONOR.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
+(NS) IDNIM 3P.CONOR.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
                           NS20T          NS20T          S041.15.20.000 E173.15.32.000 
                           S041.15.20.000 E173.15.32.000 SALIR          SALIR          
                           SALIR          SALIR          DAZSA          DAZSA          
                           DAZSA          DAZSA          IDNIM          IDNIM          
                           IDNIM          IDNIM          S041.18.04.961 E173.13.08.231 
                           S041.18.04.961 E173.13.08.231 CONOR          CONOR          
-(NS) IDNIM 2P.NESTA.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
+(NS) IDNIM 3P.NESTA.02    S041.18.04.961 E173.13.08.231 NS20T          NS20T          
                           NS20T          NS20T          S041.15.20.000 E173.15.32.000 
                           S041.15.20.000 E173.15.32.000 SALIR          SALIR          
                           SALIR          SALIR          DAZSA          DAZSA          
                           DAZSA          DAZSA          IDNIM          IDNIM          
                           IDNIM          IDNIM          S041.18.04.961 E173.13.08.231 
                           S041.18.04.961 E173.13.08.231 NESTA          NESTA          
-(NS) LEMUT 2P.DALKI.02    S041.18.04.961 E173.13.08.231 NS02T          NS02T          
+(NS) LEMUT 3P.DALKI.02    S041.18.04.961 E173.13.08.231 NS02T          NS02T          
                           NS02T          NS02T          NS20T          NS20T          
                           NS20T          NS20T          GUSMI          GUSMI          
                           GUSMI          GUSMI          LEMUT          LEMUT          
                           LEMUT          LEMUT          S041.18.04.961 E173.13.08.231 
                           S041.18.04.961 E173.13.08.231 SEBGI          SEBGI          
                           SEBGI          SEBGI          DALKI          DALKI          
-(NS) LEMUT 2P.SNAPA.02    S041.18.04.961 E173.13.08.231 NS02T          NS02T          
+(NS) LEMUT 3P.SNAPA.02    S041.18.04.961 E173.13.08.231 NS02T          NS02T          
                           NS02T          NS02T          NS20T          NS20T          
                           NS20T          NS20T          GUSMI          GUSMI          
                           GUSMI          GUSMI          LEMUT          LEMUT          
                           LEMUT          LEMUT          S041.18.04.961 E173.13.08.231 
                           S041.18.04.961 E173.13.08.231 SNAPA          SNAPA          
-(NS) LUSRA 2P.02          S041.18.04.961 E173.13.08.231 NS02T          NS02T          
+(NS) LUSRA 3P.02          S041.18.04.961 E173.13.08.231 NS02T          NS02T          
                           NS02T          NS02T          NS20T          NS20T          
                           NS20T          NS20T          S041.11.59.341 E173.17.19.734 
                           S041.11.59.341 E173.17.19.734 PUDIG          PUDIG          
                           PUDIG          PUDIG          IKITO          IKITO          
                           IKITO          IKITO          LUSRA          LUSRA          
-(NS) LUSRA 2Q.20          S041.17.31.970 E173.13.46.150 NS02T          NS02T          
+(NS) LUSRA 3Q.20          S041.17.31.970 E173.13.46.150 NS02T          NS02T          
                           NS02T          NS02T          NS20T          NS20T          
                           NS20T          NS20T          POTIR          POTIR          
                           POTIR          POTIR          S041.21.54.000 E173.05.35.000 
@@ -11562,14 +11576,14 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S041.23.49.000 E173.06.34.000 PUDIG          PUDIG          
                           PUDIG          PUDIG          IKITO          IKITO          
                           IKITO          IKITO          LUSRA          LUSRA          
-(NS) LUSRA 2R.02          S041.18.04.961 E173.13.08.231 NS02T          NS02T          
+(NS) LUSRA 3R.02          S041.18.04.961 E173.13.08.231 NS02T          NS02T          
                           NS02T          NS02T          NS20T          NS20T          
                           NS20T          NS20T          GUSMI          GUSMI          
                           GUSMI          GUSMI          LEMUT          LEMUT          
                           LEMUT          LEMUT          VENDO          VENDO          
                           VENDO          VENDO          TUPGU          TUPGU          
                           TUPGU          TUPGU          LUSRA          LUSRA          
-(NS) LUSRA 2S.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) LUSRA 3S.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          POTIR          POTIR          
                           POTIR          POTIR          S041.23.05.000 E173.05.53.000 
@@ -11579,7 +11593,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           VINUL          VINUL          VEGRI          VEGRI          
                           VEGRI          VEGRI          ESBEX          ESBEX          
                           ESBEX          ESBEX          LUSRA          LUSRA          
-(NS) LUSRA 3U.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) LUSRA 4U.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          POTIR          POTIR          
                           POTIR          POTIR          S041.23.05.000 E173.05.53.000 
@@ -11589,11 +11603,11 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           MERUT          MERUT          PUDIG          PUDIG          
                           PUDIG          PUDIG          IKITO          IKITO          
                           IKITO          IKITO          LUSRA          LUSRA          
-(NS) NESTA 1Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) NESTA 2Q.20          S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          POTIR          POTIR          
                           POTIR          POTIR          ANITU          ANITU          
                           ANITU          ANITU          NESTA          NESTA          
-(NS) PAVNI 2Q.BIVER.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) PAVNI 3Q.BIVER.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          S041.19.32.000 E173.11.25.000 
                           S041.19.32.000 E173.11.25.000 S041.19.12.000 E173.09.10.000 
@@ -11602,7 +11616,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           SAGVU          SAGVU          PAVNI          PAVNI          
                           PAVNI          PAVNI          S041.17.31.970 E173.13.46.150 
                           S041.17.31.970 E173.13.46.150 BIVER          BIVER          
-(NS) PAVNI 2Q.DUGUP.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) PAVNI 3Q.DUGUP.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          S041.19.32.000 E173.11.25.000 
                           S041.19.32.000 E173.11.25.000 S041.19.12.000 E173.09.10.000 
@@ -11611,7 +11625,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           SAGVU          SAGVU          PAVNI          PAVNI          
                           PAVNI          PAVNI          S041.17.31.970 E173.13.46.150 
                           S041.17.31.970 E173.13.46.150 DUGUP          DUGUP          
-(NS) PAVNI 2Q.SNAPA.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
+(NS) PAVNI 3Q.SNAPA.20    S041.17.31.970 E173.13.46.150 NS20T          NS20T          
                           NS20T          NS20T          NS02T          NS02T          
                           NS02T          NS02T          S041.19.32.000 E173.11.25.000 
                           S041.19.32.000 E173.11.25.000 S041.19.12.000 E173.09.10.000 
@@ -11687,49 +11701,49 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (NV) PEXED 2Q.22          S046.24.39.960 E168.19.29.078 NV22T          NV22T          
                           NV22T          NV22T          NV422          NV422          
                           NV422          NV422          PEXED          PEXED          
-(OH) DANPO 2Q.ABTOL.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
+(OH) DANPO 3Q.ABTOL.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
                           OH09T          OH09T          OH27T          OH27T          
                           OH27T          OH27T          DANPO          DANPO          
                           DANPO          DANPO          S040.12.09.562 E175.22.27.570 
                           S040.12.09.562 E175.22.27.570 SOTVO          SOTVO          
                           SOTVO          SOTVO          ABTOL          ABTOL          
-(OH) DANPO 2Q.ENTIM.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
+(OH) DANPO 3Q.ENTIM.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
                           OH09T          OH09T          OH27T          OH27T          
                           OH27T          OH27T          DANPO          DANPO          
                           DANPO          DANPO          S040.12.09.562 E175.22.27.570 
-                          S040.12.09.562 E175.22.27.570 NUNGI          NUNGI          
-                          NUNGI          NUNGI          IGNUT          IGNUT          
+                          S040.12.09.562 E175.22.27.570 OH401          OH401          
+                          OH401          OH401          IGNUT          IGNUT          
                           IGNUT          IGNUT          PONER          PONER          
                           PONER          PONER          ENTIM          ENTIM          
-(OH) DANPO 2Q.ESMUK.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
+(OH) DANPO 3Q.ESMUK.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
                           OH09T          OH09T          OH27T          OH27T          
                           OH27T          OH27T          DANPO          DANPO          
                           DANPO          DANPO          S040.12.09.562 E175.22.27.570 
                           S040.12.09.562 E175.22.27.570 SOTVO          SOTVO          
                           SOTVO          SOTVO          ESMUK          ESMUK          
-(OH) DANPO 2Q.PORIG.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
+(OH) DANPO 3Q.PORIG.09    S040.12.09.562 E175.22.27.570 OH09T          OH09T          
                           OH09T          OH09T          OH27T          OH27T          
                           OH27T          OH27T          DANPO          DANPO          
                           DANPO          DANPO          S040.12.09.562 E175.22.27.570 
                           S040.12.09.562 E175.22.27.570 SOTVO          SOTVO          
                           SOTVO          SOTVO          PORIG          PORIG          
-(OH) ENGOK 2P.ABTOL.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
+(OH) ENGOK 3P.ABTOL.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
                           OH27T          OH27T          ENGOK          ENGOK          
                           ENGOK          ENGOK          S040.12.33.710 E175.23.59.179 
                           S040.12.33.710 E175.23.59.179 IDSEN          IDSEN          
                           IDSEN          IDSEN          ABTOL          ABTOL          
-(OH) ENGOK 2P.ENTIM.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
+(OH) ENGOK 3P.ENTIM.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
                           OH27T          OH27T          ENGOK          ENGOK          
                           ENGOK          ENGOK          S040.12.33.710 E175.23.59.179 
                           S040.12.33.710 E175.23.59.179 SANUB          SANUB          
                           SANUB          SANUB          AGUPI          AGUPI          
                           AGUPI          AGUPI          ENTIM          ENTIM          
-(OH) ENGOK 2P.ESMUK.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
+(OH) ENGOK 3P.ESMUK.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
                           OH27T          OH27T          ENGOK          ENGOK          
                           ENGOK          ENGOK          S040.12.33.710 E175.23.59.179 
                           S040.12.33.710 E175.23.59.179 IDSEN          IDSEN          
                           IDSEN          IDSEN          ESMUK          ESMUK          
-(OH) ENGOK 2P.PORIG.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
+(OH) ENGOK 3P.PORIG.27    S040.12.33.710 E175.23.59.179 OH27T          OH27T          
                           OH27T          OH27T          ENGOK          ENGOK          
                           ENGOK          ENGOK          S040.12.33.710 E175.23.59.179 
                           S040.12.33.710 E175.23.59.179 IDSEN          IDSEN          
@@ -14863,52 +14877,67 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (NR) VFR_ESKDALE_ARR      S039.20.01.572 E176.40.18.516 S039.25.10.164 E176.48.18.072 
 (NR) VFR_PORAITI_ARR      S039.32.07.044 E176.39.39.600 S039.30.11.700 E176.49.41.484 
 (NR) VFR_SEAPORT_ARR      S039.38.56.616 E176.58.38.532 S039.28.24.384 E176.56.54.060 
-(NS) BISEB 3A.02          BISEB          BISEB          SURID          SURID          
+(NS) BISEB 4A.02          BISEB          BISEB          SURID          SURID          
                           SURID          SURID          ENKIN          ENKIN          
-(NS) CONOR 1A.02          CONOR          CONOR          KEVUT          KEVUT          
+(NS) BISEB 1B.20          BISEB          BISEB          GUNEL          GUNEL          
+                          GUNEL          GUNEL          NS             NS             
+                          NS             NS             DUGOL          DUGOL          
+                          DUGOL          DUGOL          IRNUX          IRNUX          
+                          IRNUX          IRNUX          KAPUA          KAPUA          
+(NS) CONOR 2A.02          CONOR          CONOR          KEVUT          KEVUT          
                           KEVUT          KEVUT          MIBEV          MIBEV          
-(NS) CONOR 1B.20          CONOR          CONOR          NS             NS             
+(NS) CONOR 2B.20          CONOR          CONOR          NS             NS             
                           NS             NS             DUGOL          DUGOL          
                           DUGOL          DUGOL          IRNUX          IRNUX          
                           IRNUX          IRNUX          KAPUA          KAPUA          
-(NS) GUNEL 1B.20          GUNEL          GUNEL          NS             NS             
-                          NS             NS             DUGOL          DUGOL          
-                          DUGOL          DUGOL          IRNUX          IRNUX          
-                          IRNUX          IRNUX          KAPUA          KAPUA          
-(NS) GUSDU 2A.DALKI.02    DALKI          DALKI          GUSDU          GUSDU          
+(NS) GUSDU 3A.BOLOX.02    BOLOX          BOLOX          GUSDU          GUSDU          
                           GUSDU          GUSDU          RILDO          RILDO          
                           RILDO          RILDO          ATRES          ATRES          
                           ATRES          ATRES          GUDKI          GUDKI          
                           GUDKI          GUDKI          BEPNI          BEPNI          
                           BEPNI          BEPNI          ESNED          ESNED          
-(NS) GUSDU 1B.DALKI.20    DALKI          DALKI          GUSDU          GUSDU          
+(NS) GUSDU 3A.DUMOT.02    DUMOT          DUMOT          DALKI          DALKI          
+                          DALKI          DALKI          GUSDU          GUSDU          
+                          GUSDU          GUSDU          RILDO          RILDO          
+                          RILDO          RILDO          ATRES          ATRES          
+                          ATRES          ATRES          GUDKI          GUDKI          
+                          GUDKI          GUDKI          BEPNI          BEPNI          
+                          BEPNI          BEPNI          ESNED          ESNED          
+(NS) GUSDU 2B.BOLOX.20    BOLOX          BOLOX          GUSDU          GUSDU          
                           GUSDU          GUSDU          RILDO          RILDO          
                           RILDO          RILDO          LIKMA          LIKMA          
-(NS) KAPUA 2A.KUNVO.02    KUNVO          KUNVO          KAPUA          KAPUA          
+(NS) GUSDU 2B.DALKI.20    DALKI          DALKI          GUSDU          GUSDU          
+                          GUSDU          GUSDU          RILDO          RILDO          
+                          RILDO          RILDO          LIKMA          LIKMA          
+(NS) GUSDU 2B.DUMOT.20    DUMOT          DUMOT          DALKI          DALKI          
+                          DALKI          DALKI          GUSDU          GUSDU          
+                          GUSDU          GUSDU          RILDO          RILDO          
+                          RILDO          RILDO          LIKMA          LIKMA          
+(NS) KAPUA 3A.KUNVO.02    KUNVO          KUNVO          KAPUA          KAPUA          
                           KAPUA          KAPUA          GUDKI          GUDKI          
                           GUDKI          GUDKI          BEPNI          BEPNI          
                           BEPNI          BEPNI          ESNED          ESNED          
-(NS) KAPUA 2A.MUKRA.02    MUKRA          MUKRA          KAPUA          KAPUA          
+(NS) KAPUA 3A.MUKRA.02    MUKRA          MUKRA          KAPUA          KAPUA          
                           KAPUA          KAPUA          GUDKI          GUDKI          
                           GUDKI          GUDKI          BEPNI          BEPNI          
                           BEPNI          BEPNI          ESNED          ESNED          
-(NS) KUNVO 1B.20          KUNVO          KUNVO          OSTAS          OSTAS          
+(NS) KUNVO 2B.20          KUNVO          KUNVO          OSTAS          OSTAS          
                           OSTAS          OSTAS          ELMAX          ELMAX          
-(NS) LUBSI 2A.02          LUBSI          LUBSI          NS             NS             
+(NS) LUBSI 3A.02          LUBSI          LUBSI          NS             NS             
                           NS             NS             GUDKI          GUDKI          
                           GUDKI          GUDKI          BEPNI          BEPNI          
                           BEPNI          BEPNI          ESNED          ESNED          
-(NS) LUBSI 1B.20          LUBSI          LUBSI          NS             NS             
+(NS) LUBSI 2B.20          LUBSI          LUBSI          NS             NS             
                           NS             NS             DUGOL          DUGOL          
                           DUGOL          DUGOL          IRNUX          IRNUX          
                           IRNUX          IRNUX          KAPUA          KAPUA          
-(NS) LUBSI 3C.02          LUBSI          LUBSI          VATKU          VATKU          
+(NS) LUBSI 4C.02          LUBSI          LUBSI          VATKU          VATKU          
                           VATKU          VATKU          LERTI          LERTI          
                           LERTI          LERTI          ISDEM          ISDEM          
                           ISDEM          ISDEM          GUNEL          GUNEL          
                           GUNEL          GUNEL          RISMO          RISMO          
                           RISMO          RISMO          ENKIN          ENKIN          
-(NS) MUKRA 1B.20          MUKRA          MUKRA          KAPUA          KAPUA          
+(NS) MUKRA 2B.20          MUKRA          MUKRA          KAPUA          KAPUA          
 (NS) RNPB.KAPUA.ALL       KAPUA          KAPUA          ELMAX          ELMAX          
                           ELMAX          ELMAX          NOPEM          NOPEM          
                           NOPEM          NOPEM          ORUBA          ORUBA          
