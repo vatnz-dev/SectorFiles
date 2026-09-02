@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2608 Effective 06 Aug 26  VATNZ-NZZC
+; AIRAC 2609 Effective 03 Sep 26  VATNZ-NZZC
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -59,7 +59,7 @@
 #define yellow 55295
 
 [INFO]
-New Zealand Domestic (NZZC) AIRAC 2608 06 Aug 26
+New Zealand Domestic (NZZC) AIRAC 2609 03 Sep 26
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -12365,8 +12365,8 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           TULVU          TULVU          VAPLI          VAPLI          
                           VAPLI          VAPLI          S045.00.59.558 E168.45.27.821 
                           S045.00.59.558 E168.45.27.821 IPNOR          IPNOR          
-                          IPNOR          IPNOR          BIKOS          BIKOS          
-                          BIKOS          BIKOS          LIBLA          LIBLA          
+                          IPNOR          IPNOR          RIBDU          RIBDU          
+                          RIBDU          RIBDU          LIBLA          LIBLA          
 (QN) VAPLI 3.SAVLA.23     S045.00.59.558 E168.45.27.821 ENKUV          ENKUV          
                           ENKUV          ENKUV          OLREK          OLREK          
                           OLREK          OLREK          TULVU          TULVU          
@@ -13801,17 +13801,14 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           UGRUS          UGRUS          IGPOL          IGPOL          
 (AA) RNPZ.23L             EMRAG          EMRAG          ORESO          ORESO          
                           ORESO          ORESO          UGOMU          UGOMU          
-(AA) RNP-ARS.KETOB.23L    KETOB          KETOB          AA407          AA407          
-                          AA407          AA407          AKDER          AKDER          
-                          AKDER          AKDER          AA427          AA427          
+(AA) RNP-ARS.AKDER.23L    AKDER          AKDER          AA411          AA411          
+                          AA411          AA411          AA427          AA427          
                           AA427          AA427          BUBKU          BUBKU          
                           BUBKU          BUBKU          AA412          AA412          
                           AA412          AA412          TEGIK          TEGIK          
                           TEGIK          TEGIK          AA745          AA745          
-(AA) RNP-ARS.ZORBA.23L    ZORBA          ZORBA          AA411          AA411          
-                          AA411          AA411          AA407          AA407          
-                          AA407          AA407          AKDER          AKDER          
-                          AKDER          AKDER          AA427          AA427          
+(AA) RNP-ARS.KETOB.23L    KETOB          KETOB          AA407          AA407          
+                          AA407          AA407          AA427          AA427          
                           AA427          AA427          BUBKU          BUBKU          
                           BUBKU          BUBKU          AA412          AA412          
                           AA412          AA412          TEGIK          TEGIK          
