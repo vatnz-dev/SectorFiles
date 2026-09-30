@@ -1,5 +1,5 @@
 ; NEW ZEALAND DOMESTIC (NZZC) SECTOR FILES
-; AIRAC 2609 Effective 03 Sep 26  VATNZ-NZZC
+; AIRAC 2610 Effective 01 Oct 26  VATNZ-NZZC
 ; License: These files are for virtual use only on the VATSIM Network. Not for real world use. Files should not be distributed 
 ; other than via the VATNZ Website.
 ;
@@ -59,7 +59,7 @@
 #define yellow 55295
 
 [INFO]
-New Zealand Domestic (NZZC) AIRAC 2609 03 Sep 26
+New Zealand Domestic (NZZC) AIRAC 2610 01 Oct 26
 NZAA_CTR
 NZAA
 S037.00.20.413
@@ -108,7 +108,6 @@ NZFJ 000.0 S043.21.47.000 E170.08.04.000 G ; Franz Josef
 NZFO 000.0 S043.27.42.920 E170.01.08.370 G ; Fox Glacier
 NZFP 000.0 S040.27.24.000 E175.16.13.000 G ; Foxpine
 NZFR 000.0 S043.28.07.000 E170.00.07.000 G ; Fox River
-NZFT 000.0 S041.14.35.000 E175.57.37.000 G ; Flat Point
 NZGA 000.0 S038.24.31.000 E176.44.31.000 G ; Galatea
 NZGB 000.0 S036.14.29.000 E175.28.19.000 G ; Great Barrier
 NZGC 000.0 S046.09.24.000 E168.53.54.000 G ; Gore
@@ -243,6 +242,7 @@ NZRW 000.0 S036.05.45.000 E173.58.31.000 G ; Ruawai
 NZRX 000.0 S045.30.42.000 E169.19.00.000 G ; Roxburgh
 NZSD 000.0 S039.19.08.000 E174.18.37.000 G ; Stratford
 NZSF 000.0 S043.23.01.000 E171.54.40.000 G ; Springfield
+NZSH 000.0 S043.43.15.600 E172.26.06.000 G ; Selwyn Flight Park
 NZSL 000.0 S036.19.30.000 E174.33.20.000 G ; Springhill
 NZSO 000.0 S041.15.20.000 E174.01.18.000 G ; Marlborough Sounds
 NZTC 000.0 S045.56.17.000 E169.15.48.000 G ; Tapanui Medical Centre
@@ -437,8 +437,7 @@ NZYP 000.0 S039.59.48.000 E176.32.13.000 G ; Waipukurau
 12  30   120 300 S044.04.47.860 E171.24.39.139 S044.05.14.521 E171.25.05.182 NZRI Rakitata I
 16  34   160 340 S038.52.45.419 E176.21.52.762 S038.53.35.221 E176.21.51.221 NZRK Rangitaiki
 18  36   184 004 S038.06.01.598 E176.19.13.238 S038.06.55.750 E176.18.41.170 NZRO Rotorua
-09  27   090 270 S037.56.25.739 E176.08.27.290 S037.56.27.000 E176.08.32.240 NZRR Ruatoria
-10  28   100 280 S037.53.02.270 E178.17.24.101 S037.53.02.270 E178.17.24.101 NZRR Ruatoria
+09  27   090 270 S037.52.51.000 E178.17.08.000 S037.53.08.000 E178.17.40.000 NZRR Ruatoria
 03  21   030 210 S043.17.28.252 E172.32.25.350 S043.17.18.611 E172.32.44.689 NZRT Rangiora
 04  22   040 220 S043.17.26.736 E172.32.24.252 S043.17.19.154 E172.32.44.686 NZRT Rangiora
 07  25   070 250 S043.17.19.540 E172.32.04.582 S043.17.20.281 E172.32.52.271 NZRT Rangiora
@@ -1125,6 +1124,7 @@ DRAWN S014.37.50.160 E189.06.01.510
 DROPT S038.13.15.400 E175.19.47.920
 DUBAB S038.03.54.240 E176.13.29.390
 DUBAT S045.58.37.600 E169.14.00.780
+DUBAV S042.23.54.320 E173.41.17.950
 DUBEG S045.08.20.570 E168.25.47.360
 DUBEK S035.28.46.890 E174.31.41.520
 DUBIP S042.22.31.820 E173.51.26.900
@@ -1252,6 +1252,7 @@ ENPAB S034.32.12.590 E172.57.52.750
 ENPEV S036.59.12.650 E175.42.01.200
 ENPIP S041.30.38.480 E173.57.58.400
 ENRAT S044.42.24.910 E167.19.44.720
+ENRAV S039.25.00.260 E177.05.17.880
 ENROL S044.05.46.550 E170.35.30.730
 ENRUL S039.58.30.190 E175.36.30.610
 ENSAX S037.14.30.390 E174.23.14.980
@@ -1457,6 +1458,7 @@ IBABU S044.59.34.120 E168.23.43.530
 IBADO S019.13.35.050 E190.14.43.520
 IBAKA S021.39.40.360 E183.35.46.860
 IBAMU S038.24.31.250 E175.56.51.470
+IBASA S042.22.39.760 E173.49.17.390
 IBENU S035.05.35.430 E173.15.02.240
 IBESO S036.59.25.050 E178.58.02.930
 IBIGI S037.27.15.400 E178.25.07.390
@@ -1695,6 +1697,9 @@ KEVID S037.55.58.010 E175.23.45.260
 KEVUT S041.25.40.430 E172.44.28.380
 KEXAV S037.08.28.160 E175.25.33.980
 KHOAI S040.52.04.250 E175.36.46.150
+KI751 S042.24.24.330 E173.39.42.890
+KI811 S042.24.32.070 E173.39.18.750
+KI952 S042.21.31.940 E173.46.18.220
 KIBIM S036.44.41.610 E174.42.18.920
 KIBIN S021.25.08.070 E184.32.48.090
 KICKE S037.53.04.750 E175.24.47.890
@@ -1836,8 +1841,8 @@ LOCIY S042.50.17.700 E171.11.02.620
 LOCSO S042.53.02.250 E172.59.28.000
 LOSGA S036.54.03.800 E174.44.27.210
 LOSKO S045.48.01.700 E170.18.00.760
-LOSTI S045.04.30.850 E168.22.50.870
 LOSTI S045.04.31.000 E168.22.51.000
+LOSTI S045.04.30.850 E168.22.50.870
 LOTLO S043.56.46.230 E181.07.33.480
 LOTRA S020.13.58.750 E200.54.05.920
 LOVTA S041.59.13.950 E171.36.35.160
@@ -2878,6 +2883,7 @@ UPTUL S041.05.02.630 E175.03.06.690
 UPVAP S041.02.01.560 E174.26.47.260
 UPVES S043.04.46.260 E172.30.59.700
 UPVOK S039.44.36.120 E174.14.29.270
+URBAS S042.22.51.770 E173.44.34.410
 URBEM S041.22.05.200 E174.48.14.840
 URBIG S036.51.09.990 E174.38.18.940
 URBOL S036.47.52.220 E174.44.56.650
@@ -9416,10 +9422,10 @@ Y896(57)                      SIMZI          SIMZI          ELMAX          ELMAX
 Y897(46)                      AP             AP             DUDUS          DUDUS          
 Y897(43)                      DUDUS          DUDUS          LEGER          LEGER          
 Z106(37)                      ARIKA          ARIKA          RO             RO             
-Z129(28)                      UPVAP          UPVAP          LIMVU          LIMVU          
-Z129(33)                      LIMVU          LIMVU          RIWUT          RIWUT          
-Z129(33)                      RIWUT          RIWUT          MENOV          MENOV          
-Z129(13)                      MENOV          MENOV          MARKO          MARKO          
+Z129(22)                      UPVAP          UPVAP          LIMVU          LIMVU          
+Z129(30)                      LIMVU          LIMVU          RIWUT          RIWUT          
+Z129(30)                      RIWUT          RIWUT          MENOV          MENOV          
+Z129(12)                      MENOV          MENOV          MARKO          MARKO          
 Z172(30)                      TPAPA          TPAPA          RIWUT          RIWUT          
 Z187(15)                      AKAVI          AKAVI          WAPOU          WAPOU          
 Z258(23)                      WAPOU          WAPOU          ATNUV          ATNUV          
@@ -10565,7 +10571,14 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           GM19T          GM19T          GM01T          GM01T          
                           GM01T          GM01T          S042.29.14.172 E171.09.27.288 
                           S042.29.14.172 E171.09.27.288 HK             HK             
-(GS) COOKS 2P.RULSI.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) COOKS 3P.MAHIA.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+                          GS32T          GS32T          S038.39.11.455 E177.58.24.460 
+                          S038.39.11.455 E177.58.24.460 OMLIK          OMLIK          
+                          OMLIK          OMLIK          ERVET          ERVET          
+                          ERVET          ERVET          COOKS          COOKS          
+                          COOKS          COOKS          S038.40.10.870 E177.58.44.540 
+                          S038.40.10.870 E177.58.44.540 MAHIA          MAHIA          
+(GS) COOKS 3P.RULSI.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 OMLIK          OMLIK          
                           OMLIK          OMLIK          ERVET          ERVET          
@@ -10574,7 +10587,14 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S038.40.10.870 E177.58.44.540 DOXOR          DOXOR          
                           DOXOR          DOXOR          POPOV          POPOV          
                           POPOV          POPOV          RULSI          RULSI          
-(GS) COOKS 1R.RULSI.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) COOKS 2R.MAHIA.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+                          GS32T          GS32T          S038.39.11.455 E177.58.24.460 
+                          S038.39.11.455 E177.58.24.460 OMLIK          OMLIK          
+                          OMLIK          OMLIK          ERVET          ERVET          
+                          ERVET          ERVET          COOKS          COOKS          
+                          COOKS          COOKS          S038.40.10.870 E177.58.44.540 
+                          S038.40.10.870 E177.58.44.540 MAHIA          MAHIA          
+(GS) COOKS 2R.RULSI.32    S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 OMLIK          OMLIK          
                           OMLIK          OMLIK          ERVET          ERVET          
@@ -10583,23 +10603,23 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S038.40.10.870 E177.58.44.540 DOXOR          DOXOR          
                           DOXOR          DOXOR          POPOV          POPOV          
                           POPOV          POPOV          RULSI          RULSI          
-(GS) CRAY 4.RAD.COOKS.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) CRAY 5.RAD.COOKS.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 COOKS          COOKS          
-(GS) CRAY 4.RAD.DABIP.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) CRAY 5.RAD.DABIP.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 DABIP          DABIP          
-(GS) CRAY 4.RAD.ELMER.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) CRAY 5.RAD.ELMER.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 ELMER          ELMER          
-(GS) CRAY 4.RAD.KEEPA.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) CRAY 5.RAD.KEEPA.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 KEEPA          KEEPA          
-(GS) CRAY 4.RAD.RULSI.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) CRAY 5.RAD.RULSI.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 RULSI          RULSI          
@@ -10645,43 +10665,43 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           PAVRI          PAVRI          MIGEN          MIGEN          
                           MIGEN          MIGEN          S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 KEEPA          KEEPA          
-(GS) NICK 4.RAD.COOKS.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NICK 5.RAD.COOKS.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 COOKS          COOKS          
-(GS) NICK 4.RAD.DABIP.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NICK 5.RAD.DABIP.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 DABIP          DABIP          
-(GS) NICK 4.RAD.ELMER.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NICK 5.RAD.ELMER.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 ELMER          ELMER          
-(GS) NICK 4.RAD.KEEPA.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NICK 5.RAD.KEEPA.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 KEEPA          KEEPA          
-(GS) NICK 4.RAD.RULSI.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NICK 5.RAD.RULSI.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 RULSI          RULSI          
-(GS) NUHAK 4.RAD.COOKS.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NUHAK 5.RAD.COOKS.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 COOKS          COOKS          
-(GS) NUHAK 4.RAD.DABIP.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NUHAK 5.RAD.DABIP.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 DABIP          DABIP          
-(GS) NUHAK 4.RAD.ELMER.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NUHAK 5.RAD.ELMER.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 ELMER          ELMER          
-(GS) NUHAK 4.RAD.KEEPA.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NUHAK 5.RAD.KEEPA.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 KEEPA          KEEPA          
-(GS) NUHAK 4.RAD.RULSI.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) NUHAK 5.RAD.RULSI.14 S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 RULSI          RULSI          
@@ -10695,35 +10715,35 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S038.39.29.880 E177.58.29.910 VADGO          VADGO          
                           VADGO          VADGO          POPOV          POPOV          
                           POPOV          POPOV          RULSI          RULSI          
-(GS) PAUA 4.RAD.COOKS.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) PAUA 5.RAD.COOKS.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 COOKS          COOKS          
-(GS) PAUA 4.RAD.DABIP.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) PAUA 5.RAD.DABIP.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 DABIP          DABIP          
-(GS) PAUA 4.RAD.ELMER.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) PAUA 5.RAD.ELMER.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 ELMER          ELMER          
-(GS) PAUA 4.RAD.KEEPA.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) PAUA 5.RAD.KEEPA.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 KEEPA          KEEPA          
-(GS) PAUA 4.RAD.RULSI.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
+(GS) PAUA 5.RAD.RULSI.32  S038.40.10.870 E177.58.44.540 GS32T          GS32T          
                           GS32T          GS32T          S038.39.11.455 E177.58.24.460 
                           S038.39.11.455 E177.58.24.460 S038.40.10.870 E177.58.44.540 
                           S038.40.10.870 E177.58.44.540 RULSI          RULSI          
-(GS) TUNA 3.RAD.DABIP.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) TUNA 5.RAD.DABIP.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 DABIP          DABIP          
-(GS) TUNA 3.RAD.ELMER.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) TUNA 5.RAD.ELMER.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 ELMER          ELMER          
-(GS) TUNA 3.RAD.KEEPA.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
+(GS) TUNA 5.RAD.KEEPA.14  S038.39.29.880 E177.58.29.910 GS14T          GS14T          
                           GS14T          GS14T          S038.40.41.383 E177.58.55.744 
                           S038.40.41.383 E177.58.55.744 S038.39.29.880 E177.58.29.910 
                           S038.39.29.880 E177.58.29.910 KEEPA          KEEPA          
@@ -10973,6 +10993,15 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           OMBIL          OMBIL          KABUV          KABUV          
                           KABUV          KABUV          NZHT           NZHT           
                           NZHT           NZHT           UBRAV          UBRAV          
+(KI) DUBAV 1.IDATO.ALL    NZKI           NZKI           KI811          KI811          
+                          KI811          KI811          DUBAV          DUBAV          
+                          DUBAV          DUBAV          NZKI           NZKI           
+                          NZKI           NZKI           KI952          KI952          
+                          KI952          KI952          IDATO          IDATO          
+(KI) DUBAV 1.LUSER.ALL    NZKI           NZKI           KI811          KI811          
+                          KI811          KI811          DUBAV          DUBAV          
+                          DUBAV          DUBAV          NZKI           NZKI           
+                          NZKI           NZKI           LUSER          LUSER          
 (KK) HOBSON 2.KOPPA.33    S035.15.46.091 E173.54.49.500 KK15T          KK15T          
                           KK15T          KK15T          S035.13.48.648 E173.54.13.104 
                           S035.13.48.648 E173.54.13.104 S035.15.46.091 E173.54.49.500 
@@ -11419,7 +11448,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           ANLUX          ANLUX          GUGTO          GUGTO          
                           GUGTO          GUGTO          S039.28.39.698 E176.51.58.720 
                           S039.28.39.698 E176.51.58.720 OPAPA          OPAPA          
-(NR) GUGTO 1S.BITIL.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
+(NR) GUGTO 2S.BITIL.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
                           NR16T          NR16T          ONEGA          ONEGA          
                           ONEGA          ONEGA          BOPKO          BOPKO          
                           BOPKO          BOPKO          OLTAM          OLTAM          
@@ -11427,7 +11456,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           IRTOR          IRTOR          GUGTO          GUGTO          
                           GUGTO          GUGTO          S039.28.39.698 E176.51.58.720 
                           S039.28.39.698 E176.51.58.720 BITIL          BITIL          
-(NR) GUGTO 1S.NIXOT.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
+(NR) GUGTO 2S.NIXOT.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
                           NR16T          NR16T          ONEGA          ONEGA          
                           ONEGA          ONEGA          BOPKO          BOPKO          
                           BOPKO          BOPKO          OLTAM          OLTAM          
@@ -11435,7 +11464,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           IRTOR          IRTOR          GUGTO          GUGTO          
                           GUGTO          GUGTO          S039.28.39.698 E176.51.58.720 
                           S039.28.39.698 E176.51.58.720 NIXOT          NIXOT          
-(NR) GUGTO 1S.OPAPA.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
+(NR) GUGTO 2S.OPAPA.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
                           NR16T          NR16T          ONEGA          ONEGA          
                           ONEGA          ONEGA          BOPKO          BOPKO          
                           BOPKO          BOPKO          OLTAM          OLTAM          
@@ -11469,21 +11498,21 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           S039.28.39.698 E176.51.58.720 POTEX          POTEX          
 (NR) OCEAN 2.34           S039.28.39.698 E176.51.58.720 NR34T          NR34T          
                           NR34T          NR34T          S039.27.27.000 E176.52.07.000 
-(NR) OLSIX 1Q.BOVSA.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
+(NR) OLSIX 2Q.BOVSA.34    S039.28.39.698 E176.51.58.720 NR16T          NR16T          
                           NR16T          NR16T          OBLOX          OBLOX          
-                          OBLOX          OBLOX          NR401          NR401          
-                          NR401          NR401          OLSIX          OLSIX          
+                          OBLOX          OBLOX          ENRAV          ENRAV          
+                          ENRAV          ENRAV          OLSIX          OLSIX          
                           OLSIX          OLSIX          S039.28.39.698 E176.51.58.720 
                           S039.28.39.698 E176.51.58.720 OMGUK          OMGUK          
                           OMGUK          OMGUK          BOVSA          BOVSA          
-(NR) SUPVI 1P.BOVSA.16    S039.27.43.160 E176.52.04.940 NR34T          NR34T          
+(NR) SUPVI 2P.BOVSA.16    S039.27.43.160 E176.52.04.940 NR34T          NR34T          
                           NR34T          NR34T          LAKIB          LAKIB          
                           LAKIB          LAKIB          SUPVI          SUPVI          
                           SUPVI          SUPVI          S039.27.43.160 E176.52.04.940 
                           S039.27.43.160 E176.52.04.940 OLSIX          OLSIX          
                           OLSIX          OLSIX          OMGUK          OMGUK          
                           OMGUK          OMGUK          BOVSA          BOVSA          
-(NR) SUPVI 1P.POTEX.16    S039.27.43.160 E176.52.04.940 NR34T          NR34T          
+(NR) SUPVI 2P.POTEX.16    S039.27.43.160 E176.52.04.940 NR34T          NR34T          
                           NR34T          NR34T          LAKIB          LAKIB          
                           LAKIB          LAKIB          SUPVI          SUPVI          
                           SUPVI          SUPVI          S039.27.43.160 E176.52.04.940 
@@ -12506,6 +12535,22 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           TOTRA          TOTRA          S038.06.01.598 E176.19.13.238 
                           S038.06.01.598 E176.19.13.238 ISGIT          ISGIT          
                           ISGIT          ISGIT          SUDAM          SUDAM          
+(RR) OLRES 1.BODEM.09     S037.56.25.739 E176.08.27.290 RR401          RR401          
+                          RR401          RR401          OLRES          OLRES          
+                          OLRES          OLRES          S037.56.25.739 E176.08.27.290 
+                          S037.56.25.739 E176.08.27.290 BODEM          BODEM          
+(RR) OLRES 1.IDPIN.09     S037.56.25.739 E176.08.27.290 RR401          RR401          
+                          RR401          RR401          OLRES          OLRES          
+                          OLRES          OLRES          S037.56.25.739 E176.08.27.290 
+                          S037.56.25.739 E176.08.27.290 IDPIN          IDPIN          
+(RR) OLRES 1.BODEM.27     S037.56.27.000 E176.08.32.240 RR401          RR401          
+                          RR401          RR401          OLRES          OLRES          
+                          OLRES          OLRES          S037.56.27.000 E176.08.32.240 
+                          S037.56.27.000 E176.08.32.240 BODEM          BODEM          
+(RR) OLRES 1.IDPIN.27     S037.56.27.000 E176.08.32.240 RR401          RR401          
+                          RR401          RR401          OLRES          OLRES          
+                          OLRES          OLRES          S037.56.27.000 E176.08.32.240 
+                          S037.56.27.000 E176.08.32.240 IDPIN          IDPIN          
 (TG) BELET 3.07           S037.40.21.900 E176.11.18.200 TG07T          TG07T          
                           TG07T          TG07T          S037.40.38.000 E176.17.20.000 
                           S037.40.38.000 E176.17.20.000 BELET          BELET          
@@ -12576,9 +12621,6 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           TU02T          TU02T          MUKEN          MUKEN          
                           MUKEN          MUKEN          LUVAB          LUVAB          
                           LUVAB          LUVAB          ELDAK          ELDAK          
-(WB) BEAVER 1.06          S041.31.05.959 E173.51.39.150 WB24T          WB24T          
-                          WB24T          WB24T          WB601          WB601          
-                          WB601          WB601          MARLO          MARLO          
 (WB) BODIM 3P.ELPIT.24    S041.31.02.701 E173.52.40.462 WB24T          WB24T          
                           WB24T          WB24T          ADBOM          ADBOM          
                           ADBOM          ADBOM          S041.33.15.000 E173.46.57.000 
@@ -12594,6 +12636,9 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           BODIM          BODIM          S041.31.02.701 E173.52.40.462 
                           S041.31.02.701 E173.52.40.462 DOTUT          DOTUT          
                           DOTUT          DOTUT          SULRI          SULRI          
+(WB) BEAVER 2.06          S041.31.05.959 E173.51.39.150 WB24T          WB24T          
+                          WB24T          WB24T          WB601          WB601          
+                          WB601          WB601          MARLO          MARLO          
 (WB) DOTUT 3Q.ELPIT.06    S041.31.05.959 E173.51.39.150 WB06T          WB06T          
                           WB06T          WB06T          S041.30.40.000 E173.59.24.000 
                           S041.30.40.000 E173.59.24.000 DOTUT          DOTUT          
@@ -12653,12 +12698,12 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (WB) SPRING 3.24          S041.31.02.701 E173.52.40.462 WB24T          WB24T          
                           WB24T          WB24T          WB             WB             
                           WB             WB             MARLO          MARLO          
-(WB) VINES 5.24           S041.31.02.701 E173.52.40.462 WB24T          WB24T          
+(WB) VINES 6.24           S041.31.02.701 E173.52.40.462 WB24T          WB24T          
                           WB24T          WB24T          S041.31.22.000 E173.47.30.000 
                           S041.31.22.000 E173.47.30.000 S041.33.15.000 E173.46.57.000 
                           S041.33.15.000 E173.46.57.000 WB             WB             
                           WB             WB             MARLO          MARLO          
-(WB) VALLEY 4.06          S041.31.05.959 E173.51.39.150 WB06T          WB06T          
+(WB) VALLEY 5.06          S041.31.05.959 E173.51.39.150 WB06T          WB06T          
                           WB06T          WB06T          MARLO          MARLO          
 (WF) PORUT 1P.29          S044.43.34.000 E169.15.05.000 WF11T          WF11T          
                           WF11T          WF11T          NIRUK          NIRUK          
@@ -13923,28 +13968,28 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (CH) AKAMO 1G.PEHRR.29    PEHRR          PEHRR          AKAMO          AKAMO          
                           AKAMO          AKAMO          IDUBU          IDUBU          
                           IDUBU          IDUBU          SUPSO          SUPSO          
-(CH) AVNOP 2A.IGEGA.02    IGEGA          IGEGA          CH412          CH412          
+(CH) AVNOP 3A.IGEGA.02    IGEGA          IGEGA          CH412          CH412          
                           CH412          CH412          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
                           ERVAX          ERVAX          UBDAN          UBDAN          
                           UBDAN          UBDAN          ALBAD          ALBAD          
-(CH) AVNOP 2A.IPRAK.02    IPRAK          IPRAK          UPVES          UPVES          
+(CH) AVNOP 3A.IPRAK.02    IPRAK          IPRAK          UPVES          UPVES          
                           UPVES          UPVES          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
                           ERVAX          ERVAX          UBDAN          UBDAN          
                           UBDAN          UBDAN          ALBAD          ALBAD          
-(CH) AVNOP 2A.KIDAL.02    KIDAL          KIDAL          CH413          CH413          
+(CH) AVNOP 3A.KIDAL.02    KIDAL          KIDAL          CH413          CH413          
                           CH413          CH413          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
                           ERVAX          ERVAX          UBDAN          UBDAN          
                           UBDAN          UBDAN          ALBAD          ALBAD          
-(CH) AVNOP 1E.IGEGA.02    IGEGA          IGEGA          CH412          CH412          
+(CH) AVNOP 2E.IGEGA.02    IGEGA          IGEGA          CH412          CH412          
                           CH412          CH412          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
-(CH) AVNOP 1E.IPRAK.02    IPRAK          IPRAK          UPVES          UPVES          
+(CH) AVNOP 2E.IPRAK.02    IPRAK          IPRAK          UPVES          UPVES          
                           UPVES          UPVES          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
-(CH) AVNOP 1E.KIDAL.02    KIDAL          KIDAL          CH413          CH413          
+(CH) AVNOP 2E.KIDAL.02    KIDAL          KIDAL          CH413          CH413          
                           CH413          CH413          AVNOP          AVNOP          
                           AVNOP          AVNOP          ERVAX          ERVAX          
 (CH) BELEE 7A.KABKA.02    KABKA          KABKA          BELEE          BELEE          
@@ -14664,6 +14709,12 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (HT) RNPA.LUPDO.ALL       LUPDO          LUPDO          OREVU          OREVU          
                           OREVU          OREVU          UPGEK          UPGEK          
                           UPGEK          UPGEK          HT405          HT405          
+(KI) RNPB.APORI.ALL       APORI          APORI          IBASA          IBASA          
+                          IBASA          IBASA          URBAS          URBAS          
+                          URBAS          URBAS          KI751          KI751          
+(KI) RNPB.IBONO.ALL       IBONO          IBONO          IBASA          IBASA          
+                          IBASA          IBASA          URBAS          URBAS          
+                          URBAS          URBAS          KI751          KI751          
 (KK) DUKEG 1B.33          DUKEG          DUKEG          KK388          KK388          
                           KK388          KK388          SAMKU          SAMKU          
 (KK) SAKIM 2A.15          SAKIM          SAKIM          OMBAL          OMBAL          
@@ -15197,8 +15248,7 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (PP) AGSOP 2H.16          AGSOP          AGSOP          GUDSA          GUDSA          
                           GUDSA          GUDSA          ENBAR          ENBAR          
 (PP) AVKEX 2G.34          AVKEX          AVKEX          PP401          PP401          
-                          PP401          PP401          AKADU          AKADU          
-                          AKADU          AKADU          PP427          PP427          
+                          PP401          PP401          PP427          PP427          
                           PP427          PP427          NILID          NILID          
 (PP) AVKEX 2H.16          AVKEX          AVKEX          PP401          PP401          
                           PP401          PP401          ENBAR          ENBAR          
@@ -15210,7 +15260,8 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
 (PP) KAMET 2H.16          KAMET          KAMET          NOKIX          NOKIX          
 (PP) KAPTI 2G.34          KAPTI          KAPTI          NILID          NILID          
 (PP) KAPTI 2H.16          KAPTI          KAPTI          NOKIX          NOKIX          
-(PP) PARAPARAUMU 2G.34    PP             PP             NILID          NILID          
+(PP) PARAPARAUMU 2G.34    PP             PP             PP424          PP424          
+                          PP424          PP424          NILID          NILID          
 (PP) PARAPARAUMU 2H.16    PP             PP             NOKIX          NOKIX          
 (PP) TPAPA 2G.34          TPAPA          TPAPA          FIRST          FIRST          
                           FIRST          FIRST          VEKDA          VEKDA          
@@ -15444,6 +15495,12 @@ Z865(92)                      ERVAX          ERVAX          RILEY          RILEY
                           OTKOS          OTKOS          RO521          RO521          
                           RO521          RO521          RO634          RO634          
                           RO634          RO634          RO862          RO862          
+(RR) RNPA.APENU.ALL       APENU          APENU          AKSOB          AKSOB          
+                          AKSOB          AKSOB          AGRAK          AGRAK          
+                          AGRAK          AGRAK          OLRES          OLRES          
+(RR) RNPA.BODEM.ALL       BODEM          BODEM          AKSOB          AKSOB          
+                          AKSOB          AKSOB          AGRAK          AGRAK          
+                          AGRAK          AGRAK          OLRES          OLRES          
 (TG) BIKOT 2A.07          BIKOT          BIKOT          BERPI          BERPI          
                           BERPI          BERPI          RUSTA          RUSTA          
 (TG) BIKOT 2B.25          BIKOT          BIKOT          BERPI          BERPI          
